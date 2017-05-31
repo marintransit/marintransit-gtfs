@@ -1,0 +1,61 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence
+0,17,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,horizontal,17,1
+1,17,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,horizontal,17,2
+2,17,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Sausalito ➜ San Rafael,horizontal,17,3
+3,17,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",San Rafael ➜ Sausalito,horizontal,17,4
+4,22,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,horizontal,22,1
+5,22,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,horizontal,22,2
+6,22,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Marin City ➜ San Rafael,horizontal,22,3
+7,22,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",San Rafael ➜ Marin City,horizontal,22,4
+8,23,0,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax ➜ Canal,horizontal,23,1
+9,23,1,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,horizontal,23,2
+10,23,0,20170312,20170611,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Fairfax ➜ Canal,horizontal,23,3
+11,23,1,20170312,20170611,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",Canal ➜ Fairfax,horizontal,23,4
+12,23X,0,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,horizontal,23X,1
+13,23X,1,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,horizontal,23X,2
+14,29,0,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,horizontal,29,1
+15,29,1,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,horizontal,29,2
+16,35,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,horizontal,35,1
+17,35,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,horizontal,35,2
+18,35,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Canal ➜ Novato,horizontal,35,3
+19,35,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Novato ➜ Fairfax,horizontal,35,4
+20,36,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,horizontal,36,1
+21,36,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,horizontal,36,2
+22,36,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Marin City ➜ Canal,horizontal,36,3
+23,36,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Canal ➜ Marin City,horizontal,36,4
+24,49,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,horizontal,49,1
+25,49,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,horizontal,49,2
+26,49,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",San Rafael ➜ Novato,horizontal,49,3
+27,49,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Novato ➜ San Rafael,horizontal,49,4
+28,61,0,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,horizontal,61,1
+29,61,1,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,horizontal,61,2
+30,61,0,20170312,20170611,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",Marin City ➜ Bolinas,horizontal,61,3
+31,61,1,20170312,20170611,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Bolinas ➜ Marin City,horizontal,61,4
+32,68,0,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,horizontal,68,1
+33,68,1,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,horizontal,68,2
+34,68,0,20170312,20170611,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",San Rafael ➜ Inverness,horizontal,68,3
+35,68,1,20170312,20170611,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Inverness ➜ San Rafael,horizontal,68,4
+36,71X,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,horizontal,71X,1
+37,71X,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,horizontal,71X,2
+38,219,0,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Strawberry,horizontal,219,1
+39,219,1,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Strawberry ➜ Tiburon,horizontal,219,2
+40,219,0,20170312,20170611,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",Tiburon ➜ Strawberry,horizontal,219,3
+41,219,1,20170312,20170611,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Strawberry ➜ Tiburon,horizontal,219,4
+42,228,0,20170312,20170611,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,horizontal,228,1
+43,228,1,20170312,20170611,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,horizontal,228,2
+44,228,0,20170312,20170611,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",San Rafael ➜ Fairfax Manor,horizontal,228,3
+45,228,1,20170312,20170611,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Fairfax Manor ➜ San Rafael,horizontal,228,4
+46,233,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,horizontal,233,1
+47,233,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,horizontal,233,2
+48,233,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",San Rafael ➜ Santa Venetia,horizontal,233,3
+49,233,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Santa Venetia ➜ San Rafael,horizontal,233,4
+50,245,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,horizontal,245,1
+51,245,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,horizontal,245,2
+52,245,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",San Rafael ➜ Smith Ranch Road,horizontal,245,3
+53,245,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Smith Ranch Road ➜ San Rafael,horizontal,245,4
+54,251,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,horizontal,251,1
+55,251,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato Shuttle,horizontal,251,2
+56,251,0,20170312,20170611,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Novato Shuttle,horizontal,251,3
+57,251,1,20170312,20170611,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Novato Shuttle,horizontal,251,4
+58,257,0,20170312,20170611,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,horizontal,257,1
+59,257,1,20170312,20170611,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,horizontal,257,2
