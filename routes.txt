@@ -15,6 +15,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 115,MCTD,115,Marin City - St Hilary School, ,3,http://www.marintransit.org/routes/115.html,F89838,FFFFFF
 117,MCTD,117,Cove School - E Corte Madera - Hall MS, ,3,http://www.marintransit.org/routes/117.html,F89838,FFFFFF
 119,MCTD,119,Tiburon - Redwood HS, ,3,http://www.marintransit.org/routes/119.html,F89838,FFFFFF
+122,MCTD,122,College of Marin Express, ,3,http://www.marintransit.org/routes/122.html,F89838,FFFFFF
 125,MCTD,125,Lagunitas - Sir Francis Drake HS - San Rafael, ,3,http://www.marintransit.org/routes/125.html,F89838,FFFFFF
 139,MCTD,139,Lucas Valley - Terra Linda HS, ,3,http://www.marintransit.org/routes/139.html,F89838,FFFFFF
 145,MCTD,145,San Rafael - Terra Linda HS, ,3,http://www.marintransit.org/routes/145.html,F89838,FFFFFF
