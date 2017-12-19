@@ -1,99 +1,125 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name
 0,17,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,horizontal,17,1,Northbound
 1,17,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,horizontal,17,2,Southbound
-2,17,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Sausalito ➜ San Rafael,horizontal,17,3,Northbound
-3,17,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",San Rafael ➜ Sausalito,horizontal,17,4,Southbound
-4,22,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,horizontal,22,1,Northbound
-5,22,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,horizontal,22,2,Southbound
-6,22,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Marin City ➜ San Rafael,horizontal,22,3,Northbound
-7,22,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",San Rafael ➜ Marin City,horizontal,22,4,Southbound
-8,23,0,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax ➜ Canal,horizontal,23,1,Eastbound
-9,23,1,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,horizontal,23,2,Westbound
-10,23,0,20171210,20171211,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Fairfax ➜ Canal,horizontal,23,3,Eastbound
-11,23,1,20171210,20171211,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",Canal ➜ Fairfax,horizontal,23,4,Westbound
-12,23X,0,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,horizontal,23X,1,Eastbound
-13,23X,1,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,horizontal,23X,2,Westbound
-14,29,0,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,horizontal,29,1,Eastbound
-15,29,1,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,horizontal,29,2,Westbound
-16,35,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,horizontal,35,1,Northbound
-17,35,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,horizontal,35,2,Southbound
-18,35,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Canal ➜ Novato,horizontal,35,3,Northbound
-19,35,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Novato ➜ Fairfax,horizontal,35,4,Southbound
-20,36,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,horizontal,36,1,Northbound
-21,36,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,horizontal,36,2,Southbound
-22,36,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Marin City ➜ Canal,horizontal,36,3,Northbound
-23,36,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Canal ➜ Marin City,horizontal,36,4,Southbound
-24,49,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,horizontal,49,1,Northbound
-25,49,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,horizontal,49,2,Southbound
-26,49,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",San Rafael ➜ Novato,horizontal,49,3,Northbound
-27,49,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Novato ➜ San Rafael,horizontal,49,4,Southbound
-28,61,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,horizontal,61,1,Westbound
-29,61,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,horizontal,61,2,Eastbound
-30,61,0,20171210,20171211,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",Marin City ➜ Bolinas,horizontal,61,3,Westbound
-31,61,1,20171210,20171211,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Bolinas ➜ Marin City,horizontal,61,4,Eastbound
-32,68,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,horizontal,68,1,Westbound
-33,68,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,horizontal,68,2,Eastbound
-34,68,0,20171210,20171211,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",San Rafael ➜ Inverness,horizontal,68,3,Westbound
-35,68,1,20171210,20171211,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Inverness ➜ San Rafael,horizontal,68,4,Eastbound
-36,71X,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,horizontal,71X,1,Northbound
-37,71X,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,horizontal,71X,2,Southbound
-38,219,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Strawberry,horizontal,219,1,Westbound
-39,219,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Strawberry ➜ Tiburon,horizontal,219,2,Eastbound
-40,219,0,20171210,20171211,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",Tiburon ➜ Strawberry,horizontal,219,3,Westbound
-41,219,1,20171210,20171211,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Strawberry ➜ Tiburon,horizontal,219,4,Eastbound
-42,228,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,horizontal,228,1,Westbound
-43,228,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,horizontal,228,2,Eastbound
-44,228,0,20171210,20171211,0,0,0,0,0,1,1,"Westbound, Saturday/Sunday/Holidays",San Rafael ➜ Fairfax Manor,horizontal,228,3,Westbound
-45,228,1,20171210,20171211,0,0,0,0,0,1,1,"Eastbound, Saturday/Sunday/Holidays",Fairfax Manor ➜ San Rafael,horizontal,228,4,Eastbound
-46,233,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,horizontal,233,1,Northbound
-47,233,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,horizontal,233,2,Southbound
-48,233,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",San Rafael ➜ Santa Venetia,horizontal,233,3,Northbound
-49,233,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Santa Venetia ➜ San Rafael,horizontal,233,4,Southbound
-50,245,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,horizontal,245,1,Northbound
-51,245,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,horizontal,245,2,Southbound
-52,245,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",San Rafael ➜ Smith Ranch Road,horizontal,245,3,Northbound
-53,245,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Smith Ranch Road ➜ San Rafael,horizontal,245,4,Southbound
-54,251,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,horizontal,251,1,Northbound
-55,251,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato Shuttle,horizontal,251,2,Southbound
-56,251,0,20171210,20171211,0,0,0,0,0,1,1,"Northbound, Saturday/Sunday/Holidays",Novato Shuttle,horizontal,251,3,Northbound
-57,251,1,20171210,20171211,0,0,0,0,0,1,1,"Southbound, Saturday/Sunday/Holidays",Novato Shuttle,horizontal,251,4,Southbound
-58,257,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,horizontal,257,1,Northbound
-59,257,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,horizontal,257,2,Southbound
-60,113,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Paradise Cay ➜ Redwood HS,vertical,113,1,Westbound
-61,113,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Paradise Cay,vertical,113,2,Eastbound
-62,113,1,20171210,20171211,0,1,1,0,1,0,0,"Eastbound, Tuesday, Wednesday & Friday",Redwood HS ➜ Paradise Cay,vertical,113,3,Eastbound
-63,113,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Paradise Cay,vertical,113,4,Eastbound
-64,115,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ St Hilary School,vertical,115,1,Northbound
-65,115,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",St Hilary School ➜ Marin City,vertical,115,2,Southbound
-66,115,1,20171210,20171211,0,1,0,1,0,0,0,"Southbound, Tuesday & Thursday",St Hilary School ➜ Marin City,vertical,115,3,Southbound
-67,115,1,20171210,20171211,0,0,1,0,1,0,0,"Southbound, Wednesday & Friday",St Hilary School ➜ Marin City,vertical,115,4,Southbound
-68,117,0,20171210,20171211,1,1,0,1,1,0,0,"Westbound, Monday, Tuesday, Thursday, Friday",E Corte Madera ➜ Hall MS,vertical,117,1,Westbound
-69,117,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",E Corte Madera ➜ Hall MS,vertical,117,2,Westbound
-70,117,1,20171210,20171211,1,1,0,1,1,0,0,"Eastbound, Monday, Tuesday, Thursday, Friday",Hall MS ➜ E Corte Madera,vertical,117,3,Eastbound
-71,117,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Hall MS ➜ E Corte Madera,vertical,117,4,Eastbound
-72,119,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Redwood HS,vertical,119,1,Westbound
-73,119,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Tiburon,vertical,119,2,Eastbound
-74,119,1,20171210,20171211,0,1,1,0,1,0,0,"Eastbound, Tuesday, Wednesday & Friday",Redwood HS ➜ Tiburon,vertical,119,3,Eastbound
-75,119,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,vertical,119,4,Eastbound
-76,122,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,vertical,122,1,Northbound
-77,122,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,vertical,122,2,Southbound
-78,125,0,20171210,20171211,1,1,0,1,0,0,0,"Westbound, Monday, Tuesday & Thursday",San Rafael Transit Center ➜ Lagunitas,vertical,125,1,Westbound
-79,125,0,20171210,20171211,0,0,1,0,1,0,0,"Westbound, Wednesday & Friday",San Rafael Transit Center ➜ Lagunitas,vertical,125,2,Westbound
-80,125,1,20171210,20171211,1,1,0,1,0,0,0,"Eastbound, Monday, Tuesday & Thursday",Lagunitas ➜ San Rafael Transit Center,vertical,125,3,Eastbound
-81,125,1,20171210,20171211,0,0,1,0,1,0,0,"Eastbound, Wednesday & Friday",Lagunitas ➜ San Rafael Transit Center,vertical,125,4,Eastbound
-82,139,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Lucas Valley ➜ Terra Linda HS,vertical,139,1,Southbound
-83,139,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",Terra Linda HS ➜ Lucas Valley,vertical,139,2,Northbound
-84,139,0,20171210,20171211,0,1,0,1,0,0,0,"Northbound, Tuesday & Thursday",Terra Linda HS ➜ Lucas Valley,vertical,139,3,Northbound
-85,139,0,20171210,20171211,0,0,1,0,1,0,0,"Northbound, Wednesday & Friday",Terra Linda HS ➜ Lucas Valley,vertical,139,4,Northbound
-86,145,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,1,Northbound
-87,145,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,2,Southbound
-88,145,1,20171210,20171211,0,1,0,1,0,0,0,"Southbound, Tuesday & Thursday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,3,Southbound
-89,145,1,20171210,20171211,0,0,1,0,1,0,0,"Southbound, Wednesday & Friday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,4,Southbound
-90,151,0,20171210,20171211,1,1,0,1,1,0,0,"Northbound, Monday, Tuesday, Thursday & Friday",Hamilton ➜ San Marin HS,vertical,151,1,Northbound
-91,151,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,vertical,151,2,Northbound
-92,151,1,20171210,20171211,1,1,0,1,1,0,0,"Southbound, Monday, Tuesday, Thursday & Friday",San Marin HS ➜ Hamilton,vertical,151,3,Southbound
-93,151,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,vertical,151,4,Southbound
-94,154,0,20171210,20171211,1,1,0,1,1,0,0,"Westbound, Monday, Tuesday, Thursday & Friday",Olive ➜ Novato,vertical,154,1,Westbound
-95,154,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",Olive ➜ Novato,vertical,154,2,Westbound
-96,154,1,20171210,20171211,1,1,0,1,1,0,0,"Eastbound, Monday, Tuesday, Thursday & Friday",Novato ➜ Olive,vertical,154,3,Eastbound
-97,154,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Novato ➜ Olive,vertical,154,4,Eastbound
+2,17,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",Sausalito ➜ San Rafael,horizontal,17,3,Northbound
+3,17,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Sausalito,horizontal,17,4,Southbound
+4,17,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Sausalito ➜ San Rafael,horizontal,17,5,Northbound
+5,17,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Sausalito,horizontal,17,6,Southbound
+6,22,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,horizontal,22,1,Northbound
+7,22,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,horizontal,22,2,Southbound
+8,22,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ San Rafael,horizontal,22,3,Northbound
+9,22,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Marin City,horizontal,22,4,Southbound
+10,22,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,horizontal,22,5,Northbound
+11,22,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Marin City,horizontal,22,6,Southbound
+12,23,0,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax ➜ Canal,horizontal,23,1,Eastbound
+13,23,1,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,horizontal,23,2,Westbound
+14,23,0,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax ➜ Canal,horizontal,23,3,Eastbound
+15,23,1,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",Canal ➜ Fairfax,horizontal,23,4,Westbound
+16,23,0,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax ➜ Canal,horizontal,23,5,Eastbound
+17,23,1,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Canal ➜ Fairfax,horizontal,23,6,Westbound
+18,23X,0,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,horizontal,23X,1,Eastbound
+19,23X,1,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,horizontal,23X,2,Westbound
+20,29,0,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,horizontal,29,1,Eastbound
+21,29,1,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,horizontal,29,2,Westbound
+22,35,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,horizontal,35,1,Northbound
+23,35,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,horizontal,35,2,Southbound
+24,35,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Novato,horizontal,35,3,Northbound
+25,35,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Fairfax,horizontal,35,4,Southbound
+26,35,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Novato,horizontal,35,5,Northbound
+27,35,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Fairfax,horizontal,35,6,Southbound
+28,36,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,horizontal,36,1,Northbound
+29,36,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,horizontal,36,2,Southbound
+30,36,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Canal,horizontal,36,3,Northbound
+31,36,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,horizontal,36,4,Southbound
+32,36,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Canal,horizontal,36,5,Northbound
+33,36,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,horizontal,36,6,Southbound
+34,49,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,horizontal,49,1,Northbound
+35,49,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,horizontal,49,2,Southbound
+36,49,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Novato,horizontal,49,3,Northbound
+37,49,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ San Rafael,horizontal,49,4,Southbound
+38,49,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Novato,horizontal,49,5,Northbound
+39,49,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ San Rafael,horizontal,49,6,Southbound
+40,61,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,horizontal,61,1,Westbound
+41,61,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,horizontal,61,2,Eastbound
+42,61,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,horizontal,61,3,Westbound
+43,61,1,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,horizontal,61,4,Eastbound
+44,61,0,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,horizontal,61,5,Westbound
+45,61,1,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,horizontal,61,6,Eastbound
+46,68,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,horizontal,68,1,Westbound
+47,68,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,horizontal,68,2,Eastbound
+48,68,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Inverness,horizontal,68,3,Westbound
+49,68,1,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday",Inverness ➜ San Rafael,horizontal,68,4,Eastbound
+50,68,0,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Inverness,horizontal,68,5,Westbound
+51,68,1,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Inverness ➜ San Rafael,horizontal,68,6,Eastbound
+52,71X,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,horizontal,71X,1,Northbound
+53,71X,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,horizontal,71X,2,Southbound
+54,219,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Strawberry,horizontal,219,1,Westbound
+55,219,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Strawberry ➜ Tiburon,horizontal,219,2,Eastbound
+56,219,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",Tiburon ➜ Strawberry,horizontal,219,3,Westbound
+57,219,1,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday",Strawberry ➜ Tiburon,horizontal,219,4,Eastbound
+58,219,0,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Tiburon ➜ Strawberry,horizontal,219,5,Westbound
+59,219,1,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Strawberry ➜ Tiburon,horizontal,219,6,Eastbound
+60,228,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,horizontal,228,1,Westbound
+61,228,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,horizontal,228,2,Eastbound
+62,228,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Fairfax Manor,horizontal,228,3,Westbound
+63,228,1,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,horizontal,228,4,Eastbound
+64,228,0,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Fairfax Manor,horizontal,228,5,Westbound
+65,228,1,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,horizontal,228,6,Eastbound
+66,233,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,horizontal,233,1,Northbound
+67,233,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,horizontal,233,2,Southbound
+68,233,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Santa Venetia,horizontal,233,3,Northbound
+69,233,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,horizontal,233,4,Southbound
+70,233,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Santa Venetia,horizontal,233,5,Northbound
+71,233,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,horizontal,233,6,Southbound
+72,245,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,horizontal,245,1,Northbound
+73,245,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,horizontal,245,2,Southbound
+74,245,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Smith Ranch Road,horizontal,245,3,Northbound
+75,245,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",Smith Ranch Road ➜ San Rafael,horizontal,245,4,Southbound
+76,245,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Smith Ranch Road,horizontal,245,5,Northbound
+77,245,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Smith Ranch Road ➜ San Rafael,horizontal,245,6,Southbound
+78,251,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,horizontal,251,1,Northbound
+79,251,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato Shuttle,horizontal,251,2,Southbound
+80,251,0,20171210,20171211,0,0,0,0,0,1,0,"Northbound, Saturday",Novato Shuttle,horizontal,251,3,Northbound
+81,251,1,20171210,20171211,0,0,0,0,0,1,0,"Southbound, Saturday",Novato Shuttle,horizontal,251,4,Southbound
+82,251,0,20171210,20171211,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Novato Shuttle,horizontal,251,5,Northbound
+83,251,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato Shuttle,horizontal,251,6,Southbound
+84,257,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,horizontal,257,1,Northbound
+85,257,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,horizontal,257,2,Southbound
+86,113,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Paradise Cay ➜ Redwood HS,vertical,113,1,Westbound
+87,113,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Paradise Cay,vertical,113,2,Eastbound
+88,113,1,20171210,20171211,0,1,1,0,1,0,0,"Eastbound, Tuesday, Wednesday & Friday",Redwood HS ➜ Paradise Cay,vertical,113,3,Eastbound
+89,113,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Paradise Cay,vertical,113,4,Eastbound
+90,115,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ St Hilary School,vertical,115,1,Northbound
+91,115,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",St Hilary School ➜ Marin City,vertical,115,2,Southbound
+92,115,1,20171210,20171211,0,1,0,1,0,0,0,"Southbound, Tuesday & Thursday",St Hilary School ➜ Marin City,vertical,115,3,Southbound
+93,115,1,20171210,20171211,0,0,1,0,1,0,0,"Southbound, Wednesday & Friday",St Hilary School ➜ Marin City,vertical,115,4,Southbound
+94,117,0,20171210,20171211,1,1,0,1,1,0,0,"Westbound, Monday, Tuesday, Thursday, Friday",E Corte Madera ➜ Hall MS,vertical,117,1,Westbound
+95,117,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",E Corte Madera ➜ Hall MS,vertical,117,2,Westbound
+96,117,1,20171210,20171211,1,1,0,1,1,0,0,"Eastbound, Monday, Tuesday, Thursday, Friday",Hall MS ➜ E Corte Madera,vertical,117,3,Eastbound
+97,117,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Hall MS ➜ E Corte Madera,vertical,117,4,Eastbound
+98,119,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Redwood HS,vertical,119,1,Westbound
+99,119,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Tiburon,vertical,119,2,Eastbound
+100,119,1,20171210,20171211,0,1,1,0,1,0,0,"Eastbound, Tuesday, Wednesday & Friday",Redwood HS ➜ Tiburon,vertical,119,3,Eastbound
+101,119,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,vertical,119,4,Eastbound
+102,122,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,vertical,122,1,Northbound
+103,122,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,vertical,122,2,Southbound
+104,125,0,20171210,20171211,1,1,0,1,0,0,0,"Westbound, Monday, Tuesday & Thursday",San Rafael Transit Center ➜ Lagunitas,vertical,125,1,Westbound
+105,125,0,20171210,20171211,0,0,1,0,1,0,0,"Westbound, Wednesday & Friday",San Rafael Transit Center ➜ Lagunitas,vertical,125,2,Westbound
+106,125,1,20171210,20171211,1,1,0,1,0,0,0,"Eastbound, Monday, Tuesday & Thursday",Lagunitas ➜ San Rafael Transit Center,vertical,125,3,Eastbound
+107,125,1,20171210,20171211,0,0,1,0,1,0,0,"Eastbound, Wednesday & Friday",Lagunitas ➜ San Rafael Transit Center,vertical,125,4,Eastbound
+108,139,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Lucas Valley ➜ Terra Linda HS,vertical,139,1,Southbound
+109,139,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",Terra Linda HS ➜ Lucas Valley,vertical,139,2,Northbound
+110,139,0,20171210,20171211,0,1,0,1,0,0,0,"Northbound, Tuesday & Thursday",Terra Linda HS ➜ Lucas Valley,vertical,139,3,Northbound
+111,139,0,20171210,20171211,0,0,1,0,1,0,0,"Northbound, Wednesday & Friday",Terra Linda HS ➜ Lucas Valley,vertical,139,4,Northbound
+112,145,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,1,Northbound
+113,145,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,2,Southbound
+114,145,1,20171210,20171211,0,1,0,1,0,0,0,"Southbound, Tuesday & Thursday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,3,Southbound
+115,145,1,20171210,20171211,0,0,1,0,1,0,0,"Southbound, Wednesday & Friday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,4,Southbound
+116,151,0,20171210,20171211,1,1,0,1,1,0,0,"Northbound, Monday, Tuesday, Thursday & Friday",Hamilton ➜ San Marin HS,vertical,151,1,Northbound
+117,151,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,vertical,151,2,Northbound
+118,151,1,20171210,20171211,1,1,0,1,1,0,0,"Southbound, Monday, Tuesday, Thursday & Friday",San Marin HS ➜ Hamilton,vertical,151,3,Southbound
+119,151,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,vertical,151,4,Southbound
+120,154,0,20171210,20171211,1,1,0,1,1,0,0,"Westbound, Monday, Tuesday, Thursday & Friday",Olive ➜ Novato,vertical,154,1,Westbound
+121,154,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",Olive ➜ Novato,vertical,154,2,Westbound
+122,154,1,20171210,20171211,1,1,0,1,1,0,0,"Eastbound, Monday, Tuesday, Thursday & Friday",Novato ➜ Olive,vertical,154,3,Eastbound
+123,154,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Novato ➜ Olive,vertical,154,4,Eastbound
