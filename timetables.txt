@@ -41,10 +41,14 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 39,49,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ San Rafael,horizontal,49,6,Southbound
 40,61,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,horizontal,61,1,Westbound
 41,61,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,horizontal,61,2,Eastbound
-42,61,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,horizontal,61,3,Westbound
-43,61,1,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,horizontal,61,4,Eastbound
-44,61,0,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,horizontal,61,5,Westbound
-45,61,1,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,horizontal,61,6,Eastbound
+42,61,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday, Nov - Feb",Marin City ➜ Bolinas,horizontal,61,3,Westbound
+43,61,1,20171210,20171211,0,0,0,0,0,1,0,"Eastbound, Saturday, Nov - Feb",Bolinas ➜ Marin City,horizontal,61,4,Eastbound
+42x,61,0,20180301,20180310,0,0,0,0,0,1,0,"Westbound, Saturday, Mar - Oct",Marin City ➜ Bolinas,horizontal,61,5,Westbound
+43x,61,1,20180301,20180310,0,0,0,0,0,1,0,"Eastbound, Saturday, Mar - Oct",Bolinas ➜ Marin City,horizontal,61,6,Eastbound
+44,61,0,20171210,20171211,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Nov - Feb",Marin City ➜ Bolinas,horizontal,61,7,Westbound
+45,61,1,20171210,20171211,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Nov - Feb",Bolinas ➜ Marin City,horizontal,61,8,Eastbound
+44x,61,0,20180301,20180310,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Mar - Oct",Marin City ➜ Bolinas,horizontal,61,7,Westbound
+45x,61,1,20180301,20180310,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Mar - Oct",Bolinas ➜ Marin City,horizontal,61,8,Eastbound
 46,68,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,horizontal,68,1,Westbound
 47,68,1,20171210,20171211,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,horizontal,68,2,Eastbound
 48,68,0,20171210,20171211,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Inverness,horizontal,68,3,Westbound
