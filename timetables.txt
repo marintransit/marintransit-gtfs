@@ -85,41 +85,95 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 83,251,1,20171210,20171211,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato Shuttle,horizontal,251,6,Southbound
 84,257,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,horizontal,257,1,Northbound
 85,257,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,horizontal,257,2,Southbound
-86,113,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Paradise Cay ➜ Redwood HS,vertical,113,1,Westbound
+86,113,0,20171210,20171211,1,0,0,0,0,0,0,"Westbound, Monday",Paradise Cay ➜ Redwood HS,vertical,113,1,Westbound
 87,113,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Paradise Cay,vertical,113,2,Eastbound
-88,113,1,20171210,20171211,0,1,1,0,1,0,0,"Eastbound, Tuesday, Wednesday & Friday",Redwood HS ➜ Paradise Cay,vertical,113,3,Eastbound
-89,113,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Paradise Cay,vertical,113,4,Eastbound
-90,115,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ St Hilary School,vertical,115,1,Northbound
-91,115,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",St Hilary School ➜ Marin City,vertical,115,2,Southbound
-92,115,1,20171210,20171211,0,1,0,1,0,0,0,"Southbound, Tuesday & Thursday",St Hilary School ➜ Marin City,vertical,115,3,Southbound
-93,115,1,20171210,20171211,0,0,1,0,1,0,0,"Southbound, Wednesday & Friday",St Hilary School ➜ Marin City,vertical,115,4,Southbound
-94,117,0,20171210,20171211,1,1,0,1,1,0,0,"Westbound, Monday, Tuesday, Thursday, Friday",E Corte Madera ➜ Hall MS,vertical,117,1,Westbound
-95,117,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",E Corte Madera ➜ Hall MS,vertical,117,2,Westbound
-96,117,1,20171210,20171211,1,1,0,1,1,0,0,"Eastbound, Monday, Tuesday, Thursday, Friday",Hall MS ➜ E Corte Madera,vertical,117,3,Eastbound
-97,117,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Hall MS ➜ E Corte Madera,vertical,117,4,Eastbound
-98,119,0,20171210,20171211,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Redwood HS,vertical,119,1,Westbound
-99,119,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Tiburon,vertical,119,2,Eastbound
-100,119,1,20171210,20171211,0,1,1,0,1,0,0,"Eastbound, Tuesday, Wednesday & Friday",Redwood HS ➜ Tiburon,vertical,119,3,Eastbound
-101,119,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,vertical,119,4,Eastbound
-102,122,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,vertical,122,1,Northbound
-103,122,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,vertical,122,2,Southbound
-104,125,0,20171210,20171211,1,1,0,1,0,0,0,"Westbound, Monday, Tuesday & Thursday",San Rafael Transit Center ➜ Lagunitas,vertical,125,1,Westbound
-105,125,0,20171210,20171211,0,0,1,0,1,0,0,"Westbound, Wednesday & Friday",San Rafael Transit Center ➜ Lagunitas,vertical,125,2,Westbound
-106,125,1,20171210,20171211,1,1,0,1,0,0,0,"Eastbound, Monday, Tuesday & Thursday",Lagunitas ➜ San Rafael Transit Center,vertical,125,3,Eastbound
-107,125,1,20171210,20171211,0,0,1,0,1,0,0,"Eastbound, Wednesday & Friday",Lagunitas ➜ San Rafael Transit Center,vertical,125,4,Eastbound
-108,139,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Lucas Valley ➜ Terra Linda HS,vertical,139,1,Southbound
-109,139,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",Terra Linda HS ➜ Lucas Valley,vertical,139,2,Northbound
-110,139,0,20171210,20171211,0,1,0,1,0,0,0,"Northbound, Tuesday & Thursday",Terra Linda HS ➜ Lucas Valley,vertical,139,3,Northbound
-111,139,0,20171210,20171211,0,0,1,0,1,0,0,"Northbound, Wednesday & Friday",Terra Linda HS ➜ Lucas Valley,vertical,139,4,Northbound
-112,145,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,1,Northbound
-113,145,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,2,Southbound
-114,145,1,20171210,20171211,0,1,0,1,0,0,0,"Southbound, Tuesday & Thursday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,3,Southbound
-115,145,1,20171210,20171211,0,0,1,0,1,0,0,"Southbound, Wednesday & Friday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,4,Southbound
-116,151,0,20171210,20171211,1,1,0,1,1,0,0,"Northbound, Monday, Tuesday, Thursday & Friday",Hamilton ➜ San Marin HS,vertical,151,1,Northbound
-117,151,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,vertical,151,2,Northbound
-118,151,1,20171210,20171211,1,1,0,1,1,0,0,"Southbound, Monday, Tuesday, Thursday & Friday",San Marin HS ➜ Hamilton,vertical,151,3,Southbound
-119,151,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,vertical,151,4,Southbound
-120,154,0,20171210,20171211,1,1,0,1,1,0,0,"Westbound, Monday, Tuesday, Thursday & Friday",Olive ➜ Novato,vertical,154,1,Westbound
-121,154,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",Olive ➜ Novato,vertical,154,2,Westbound
-122,154,1,20171210,20171211,1,1,0,1,1,0,0,"Eastbound, Monday, Tuesday, Thursday & Friday",Novato ➜ Olive,vertical,154,3,Eastbound
-123,154,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Novato ➜ Olive,vertical,154,4,Eastbound
+88,113,0,20171210,20171211,0,1,0,0,0,0,0,"Westbound, Tuesday",Paradise Cay ➜ Redwood HS,vertical,113,3,Westbound
+89,113,1,20171210,20171211,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood HS ➜ Paradise Cay,vertical,113,4,Eastbound
+90,113,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",Paradise Cay ➜ Redwood HS,vertical,113,5,Westbound
+91,113,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Paradise Cay,vertical,113,6,Eastbound
+92,113,0,20171210,20171211,0,0,0,1,0,0,0,"Westbound, Thursday",Paradise Cay ➜ Redwood HS,vertical,113,7,Westbound
+93,113,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Paradise Cay,vertical,113,8,Eastbound
+94,113,0,20171210,20171211,0,0,0,0,1,0,0,"Westbound, Friday",Paradise Cay ➜ Redwood HS,vertical,113,9,Westbound
+95,113,1,20171210,20171211,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood HS ➜ Paradise Cay,vertical,113,10,Eastbound
+96,115,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",Marin City ➜ St Hilary School,vertical,115,1,Northbound
+97,115,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",St Hilary School ➜ Marin City,vertical,115,2,Southbound
+98,115,0,20171210,20171211,0,1,0,0,0,0,0,"Northbound, Tuesday",Marin City ➜ St Hilary School,vertical,115,3,Northbound
+99,115,1,20171210,20171211,0,1,0,0,0,0,0,"Southbound, Tuesday",St Hilary School ➜ Marin City,vertical,115,4,Southbound
+100,115,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",Marin City ➜ St Hilary School,vertical,115,5,Northbound
+101,115,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",St Hilary School ➜ Marin City,vertical,115,6,Southbound
+102,115,0,20171210,20171211,0,0,0,1,0,0,0,"Northbound, Thursday",Marin City ➜ St Hilary School,vertical,115,7,Northbound
+103,115,1,20171210,20171211,0,0,0,1,0,0,0,"Southbound, Thursday",St Hilary School ➜ Marin City,vertical,115,8,Southbound
+104,115,0,20171210,20171211,0,0,0,0,1,0,0,"Northbound, Friday",Marin City ➜ St Hilary School,vertical,115,9,Northbound
+105,115,1,20171210,20171211,0,0,0,0,1,0,0,"Southbound, Friday",St Hilary School ➜ Marin City,vertical,115,10,Southbound
+106,117,0,20171210,20171211,1,0,0,0,0,0,0,"Westbound, Monday",E Corte Madera ➜ Hall MS,vertical,117,1,Westbound
+107,117,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Hall MS ➜ E Corte Madera,vertical,117,2,Eastbound
+108,117,0,20171210,20171211,0,1,0,0,0,0,0,"Westbound, Tuesday",E Corte Madera ➜ Hall MS,vertical,117,3,Westbound
+109,117,1,20171210,20171211,0,1,0,0,0,0,0,"Eastbound, Tuesday",Hall MS ➜ E Corte Madera,vertical,117,4,Eastbound
+110,117,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",E Corte Madera ➜ Hall MS,vertical,117,5,Westbound
+111,117,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Hall MS ➜ E Corte Madera,vertical,117,6,Eastbound
+112,117,0,20171210,20171211,0,0,0,1,0,0,0,"Westbound, Thursday",E Corte Madera ➜ Hall MS,vertical,117,7,Westbound
+113,117,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Hall MS ➜ E Corte Madera,vertical,117,8,Eastbound
+114,117,0,20171210,20171211,0,0,0,0,1,0,0,"Westbound, Friday",E Corte Madera ➜ Hall MS,vertical,117,9,Westbound
+115,117,1,20171210,20171211,0,0,0,0,1,0,0,"Eastbound, Friday",Hall MS ➜ E Corte Madera,vertical,117,10,Eastbound
+116,119,0,20171210,20171211,1,0,0,0,0,0,0,"Westbound, Monday",Tiburon ➜ Redwood HS,vertical,119,1,Westbound
+117,119,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Tiburon,vertical,119,2,Eastbound
+118,119,0,20171210,20171211,0,1,0,0,0,0,0,"Westbound, Tuesday",Tiburon ➜ Redwood HS,vertical,119,3,Westbound
+119,119,1,20171210,20171211,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood HS ➜ Tiburon,vertical,119,4,Eastbound
+120,119,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",Tiburon ➜ Redwood HS,vertical,119,5,Westbound
+121,119,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Tiburon,vertical,119,6,Eastbound
+122,119,0,20171210,20171211,0,0,0,1,0,0,0,"Westbound, Thursday",Tiburon ➜ Redwood HS,vertical,119,7,Westbound
+123,119,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,vertical,119,8,Eastbound
+124,119,0,20171210,20171211,0,0,0,0,1,0,0,"Westbound, Friday",Tiburon ➜ Redwood HS,vertical,119,9,Westbound
+125,119,1,20171210,20171211,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood HS ➜ Tiburon,vertical,119,10,Eastbound
+126,122,0,20171210,20171211,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,vertical,122,1,Northbound
+127,122,1,20171210,20171211,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,vertical,122,2,Southbound
+128,125,0,20171210,20171211,1,0,0,0,0,0,0,"Westbound, Monday",San Rafael Transit Center ➜ Lagunitas,vertical,125,1,Westbound
+129,125,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Lagunitas ➜ San Rafael Transit Center,vertical,125,2,Eastbound
+130,125,0,20171210,20171211,0,1,0,0,0,0,0,"Westbound, Tuesday",San Rafael Transit Center ➜ Lagunitas,vertical,125,3,Westbound
+131,125,1,20171210,20171211,0,1,0,0,0,0,0,"Eastbound, Tuesday",Lagunitas ➜ San Rafael Transit Center,vertical,125,4,Eastbound
+132,125,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",San Rafael Transit Center ➜ Lagunitas,vertical,125,5,Westbound
+133,125,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Lagunitas ➜ San Rafael Transit Center,vertical,125,6,Eastbound
+134,125,0,20171210,20171211,0,0,0,1,0,0,0,"Westbound, Thursday",San Rafael Transit Center ➜ Lagunitas,vertical,125,7,Westbound
+135,125,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Lagunitas ➜ San Rafael Transit Center,vertical,125,8,Eastbound
+136,125,0,20171210,20171211,0,0,0,0,1,0,0,"Westbound, Friday",San Rafael Transit Center ➜ Lagunitas,vertical,125,9,Westbound
+137,125,1,20171210,20171211,0,0,0,0,1,0,0,"Eastbound, Friday",Lagunitas ➜ San Rafael Transit Center,vertical,125,10,Eastbound
+138,139,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",Lucas Valley ➜ Terra Linda HS,vertical,139,1,Southbound
+139,139,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",Terra Linda HS ➜ Lucas Valley,vertical,139,2,Northbound
+140,139,1,20171210,20171211,0,1,0,0,0,0,0,"Southbound, Tuesday",Lucas Valley ➜ Terra Linda HS,vertical,139,3,Southbound
+141,139,0,20171210,20171211,0,1,0,0,0,0,0,"Northbound, Tuesday",Terra Linda HS ➜ Lucas Valley,vertical,139,4,Northbound
+142,139,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",Lucas Valley ➜ Terra Linda HS,vertical,139,5,Southbound
+143,139,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",Terra Linda HS ➜ Lucas Valley,vertical,139,6,Northbound
+144,139,1,20171210,20171211,0,0,0,1,0,0,0,"Southbound, Thursday",Lucas Valley ➜ Terra Linda HS,vertical,139,7,Southbound
+145,139,0,20171210,20171211,0,0,0,1,0,0,0,"Northbound, Thursday",Terra Linda HS ➜ Lucas Valley,vertical,139,8,Northbound
+146,139,1,20171210,20171211,0,0,0,0,1,0,0,"Southbound, Friday",Lucas Valley ➜ Terra Linda HS,vertical,139,9,Southbound
+147,139,0,20171210,20171211,0,0,0,0,1,0,0,"Northbound, Friday",Terra Linda HS ➜ Lucas Valley,vertical,139,10,Northbound
+148,145,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,1,Northbound
+149,145,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,2,Southbound
+150,145,0,20171210,20171211,0,1,0,0,0,0,0,"Northbound, Tuesday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,3,Northbound
+151,145,1,20171210,20171211,0,1,0,0,0,0,0,"Southbound, Tuesday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,4,Southbound
+152,145,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,5,Northbound
+153,145,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,6,Southbound
+154,145,0,20171210,20171211,0,0,0,1,0,0,0,"Northbound, Thursday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,7,Northbound
+155,145,1,20171210,20171211,0,0,0,1,0,0,0,"Southbound, Thursday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,8,Southbound
+156,145,0,20171210,20171211,0,0,0,0,1,0,0,"Northbound, Friday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,9,Northbound
+157,145,1,20171210,20171211,0,0,0,0,1,0,0,"Southbound, Friday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,10,Southbound
+158,151,0,20171210,20171211,1,0,0,0,0,0,0,"Northbound, Monday",Hamilton ➜ San Marin HS,vertical,151,1,Northbound
+159,151,1,20171210,20171211,1,0,0,0,0,0,0,"Southbound, Monday",San Marin HS ➜ Hamilton,vertical,151,2,Southbound
+160,151,0,20171210,20171211,0,1,0,0,0,0,0,"Northbound, Tuesday",Hamilton ➜ San Marin HS,vertical,151,3,Northbound
+161,151,1,20171210,20171211,0,1,0,0,0,0,0,"Southbound, Tuesday",San Marin HS ➜ Hamilton,vertical,151,4,Southbound
+162,151,0,20171210,20171211,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,vertical,151,5,Northbound
+163,151,1,20171210,20171211,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,vertical,151,6,Southbound
+164,151,0,20171210,20171211,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ San Marin HS,vertical,151,7,Northbound
+165,151,1,20171210,20171211,0,0,0,1,0,0,0,"Southbound, Thursday",San Marin HS ➜ Hamilton,vertical,151,8,Southbound
+166,151,0,20171210,20171211,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ San Marin HS,vertical,151,9,Northbound
+167,151,1,20171210,20171211,0,0,0,0,1,0,0,"Southbound, Friday",San Marin HS ➜ Hamilton,vertical,151,10,Southbound
+168,154,0,20171210,20171211,1,0,0,0,0,0,0,"Westbound, Monday",Olive ➜ Novato,vertical,154,1,Westbound
+169,154,1,20171210,20171211,1,0,0,0,0,0,0,"Eastbound, Monday",Novato ➜ Olive,vertical,154,2,Eastbound
+170,154,0,20171210,20171211,0,1,0,0,0,0,0,"Westbound, Tuesday",Olive ➜ Novato,vertical,154,3,Westbound
+171,154,1,20171210,20171211,0,1,0,0,0,0,0,"Eastbound, Tuesday",Novato ➜ Olive,vertical,154,4,Eastbound
+172,154,0,20171210,20171211,0,0,1,0,0,0,0,"Westbound, Wednesday",Olive ➜ Novato,vertical,154,5,Westbound
+173,154,1,20171210,20171211,0,0,1,0,0,0,0,"Eastbound, Wednesday",Novato ➜ Olive,vertical,154,6,Eastbound
+174,154,0,20171210,20171211,0,0,0,1,0,0,0,"Westbound, Thursday",Olive ➜ Novato,vertical,154,7,Westbound
+175,154,1,20171210,20171211,0,0,0,1,0,0,0,"Eastbound, Thursday",Novato ➜ Olive,vertical,154,8,Eastbound
+176,154,0,20171210,20171211,0,0,0,0,1,0,0,"Westbound, Friday",Olive ➜ Novato,vertical,154,9,Westbound
+177,154,1,20171210,20171211,0,0,0,0,1,0,0,"Eastbound, Friday",Novato ➜ Olive,vertical,154,10,Eastbound
