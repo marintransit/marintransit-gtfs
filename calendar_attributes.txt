@@ -1,0 +1,26 @@
+service_id,service_description
+20141214-1-STG,Weekday
+20150301-7-STG,Saturday
+20150301-8-STG,Sunday
+20150301-7-STG-PK,Saturday
+20150301-8-STG-PK,Sunday
+20170817-2,Monday
+20170817-3,Tuesday
+20170817-4,Wednesday
+20170817-5,Thursday
+20170817-6,Friday
+20170821-COM-2,Monday
+20170821-COM-3,Tuesday
+20170821-COM-4,Wednesday
+20170821-COM-5,Thursday
+20170821-COM-6,Friday
+20170910-1,Weekday
+20170910-7,Saturday
+20170910-8,Sunday
+20171110-MWS-WH,Select Weekends & Holidays
+20171210-1,Weekday
+20171210-7,Saturday
+20171210-8,Sunday
+18MARCH-11-SAT-Saturday-06,Saturday
+18MARCH-11-SUN-Sunday-09,Sunday
+18MARCH-11-WKDY-Weekday-11,Weekday
