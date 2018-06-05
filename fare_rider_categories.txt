@@ -1,5 +1,1 @@
 fare_id,rider_category_id,price
-local,2,1.00
-local,3,0.00
-local,5,1.00
-local,6,1.00

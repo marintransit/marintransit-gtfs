@@ -1,183 +1,467 @@
-timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name
-0,17,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,horizontal,17,1,Northbound
-1,17,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,horizontal,17,2,Southbound
-2,17,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",Sausalito ➜ San Rafael,horizontal,17,3,Northbound
-3,17,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Sausalito,horizontal,17,4,Southbound
-4,17,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Sausalito ➜ San Rafael,horizontal,17,5,Northbound
-5,17,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Sausalito,horizontal,17,6,Southbound
-6,22,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,horizontal,22,1,Northbound
-7,22,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,horizontal,22,2,Southbound
-8,22,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ San Rafael,horizontal,22,3,Northbound
-9,22,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Marin City,horizontal,22,4,Southbound
-10,22,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,horizontal,22,5,Northbound
-11,22,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Marin City,horizontal,22,6,Southbound
-12,23,0,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax ➜ Canal,horizontal,23,1,Eastbound
-13,23,1,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,horizontal,23,2,Westbound
-14,23,0,20180311,20180531,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax ➜ Canal,horizontal,23,3,Eastbound
-15,23,1,20180311,20180531,0,0,0,0,0,1,0,"Westbound, Saturday",Canal ➜ Fairfax,horizontal,23,4,Westbound
-16,23,0,20180311,20180531,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax ➜ Canal,horizontal,23,5,Eastbound
-17,23,1,20180311,20180531,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Canal ➜ Fairfax,horizontal,23,6,Westbound
-18,23X,0,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,horizontal,23X,1,Eastbound
-19,23X,1,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,horizontal,23X,2,Westbound
-20,29,0,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,horizontal,29,1,Eastbound
-21,29,1,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,horizontal,29,2,Westbound
-22,35,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,horizontal,35,1,Northbound
-23,35,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,horizontal,35,2,Southbound
-24,35,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Novato,horizontal,35,3,Northbound
-25,35,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Fairfax,horizontal,35,4,Southbound
-26,35,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Novato,horizontal,35,5,Northbound
-27,35,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Fairfax,horizontal,35,6,Southbound
-28,36,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,horizontal,36,1,Northbound
-29,36,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,horizontal,36,2,Southbound
-30,36,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Canal,horizontal,36,3,Northbound
-31,36,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,horizontal,36,4,Southbound
-32,36,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Canal,horizontal,36,5,Northbound
-33,36,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,horizontal,36,6,Southbound
-34,49,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,horizontal,49,1,Northbound
-35,49,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,horizontal,49,2,Southbound
-36,49,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Novato,horizontal,49,3,Northbound
-37,49,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ San Rafael,horizontal,49,4,Southbound
-38,49,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Novato,horizontal,49,5,Northbound
-39,49,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ San Rafael,horizontal,49,6,Southbound
-40,61,0,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,horizontal,61,1,Westbound
-41,61,1,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,horizontal,61,2,Eastbound
-42,61,0,20180311,20180228,0,0,0,0,0,1,0,"Westbound, Saturday, Nov - Feb",Marin City ➜ Bolinas,horizontal,61,3,Westbound
-43,61,1,20180311,20180228,0,0,0,0,0,1,0,"Eastbound, Saturday, Nov - Feb",Bolinas ➜ Marin City,horizontal,61,4,Eastbound
-44,61,0,20180311,20180531,0,0,0,0,0,1,0,"Westbound, Saturday, Mar - Oct",Marin City ➜ Bolinas,horizontal,61,5,Westbound
-45,61,1,20180311,20180531,0,0,0,0,0,1,0,"Eastbound, Saturday, Mar - Oct",Bolinas ➜ Marin City,horizontal,61,6,Eastbound
-46,61,0,20180311,20180228,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Nov - Feb",Marin City ➜ Bolinas,horizontal,61,7,Westbound
-47,61,1,20180311,20180228,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Nov - Feb",Bolinas ➜ Marin City,horizontal,61,8,Eastbound
-48,61,0,20180311,20180531,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Mar - Oct",Marin City ➜ Bolinas,horizontal,61,9,Westbound
-49,61,1,20180311,20180531,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Mar - Oct",Bolinas ➜ Marin City,horizontal,61,10,Eastbound
-50,68,0,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,horizontal,68,1,Westbound
-51,68,1,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,horizontal,68,2,Eastbound
-52,68,0,20180311,20180531,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Inverness,horizontal,68,3,Westbound
-53,68,1,20180311,20180531,0,0,0,0,0,1,0,"Eastbound, Saturday",Inverness ➜ San Rafael,horizontal,68,4,Eastbound
-54,68,0,20180311,20180531,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Inverness,horizontal,68,5,Westbound
-55,68,1,20180311,20180531,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Inverness ➜ San Rafael,horizontal,68,6,Eastbound
-56,71X,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,horizontal,71X,1,Northbound
-57,71X,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,horizontal,71X,2,Southbound
-58,219,0,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Strawberry,horizontal,219,1,Westbound
-59,219,1,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Strawberry ➜ Tiburon,horizontal,219,2,Eastbound
-60,219,0,20180311,20180531,0,0,0,0,0,1,0,"Westbound, Saturday",Tiburon ➜ Strawberry,horizontal,219,3,Westbound
-61,219,1,20180311,20180531,0,0,0,0,0,1,0,"Eastbound, Saturday",Strawberry ➜ Tiburon,horizontal,219,4,Eastbound
-62,219,0,20180311,20180531,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Tiburon ➜ Strawberry,horizontal,219,5,Westbound
-63,219,1,20180311,20180531,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Strawberry ➜ Tiburon,horizontal,219,6,Eastbound
-64,228,0,20180311,20180531,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,horizontal,228,1,Westbound
-65,228,1,20180311,20180531,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,horizontal,228,2,Eastbound
-66,228,0,20180311,20180531,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Fairfax Manor,horizontal,228,3,Westbound
-67,228,1,20180311,20180531,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,horizontal,228,4,Eastbound
-68,228,0,20180311,20180531,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Fairfax Manor,horizontal,228,5,Westbound
-69,228,1,20180311,20180531,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,horizontal,228,6,Eastbound
-70,233,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,horizontal,233,1,Northbound
-71,233,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,horizontal,233,2,Southbound
-72,233,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Santa Venetia,horizontal,233,3,Northbound
-73,233,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,horizontal,233,4,Southbound
-74,233,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Santa Venetia,horizontal,233,5,Northbound
-75,233,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,horizontal,233,6,Southbound
-76,245,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,horizontal,245,1,Northbound
-77,245,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,horizontal,245,2,Southbound
-78,245,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Smith Ranch Road,horizontal,245,3,Northbound
-79,245,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",Smith Ranch Road ➜ San Rafael,horizontal,245,4,Southbound
-80,245,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Smith Ranch Road,horizontal,245,5,Northbound
-81,245,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Smith Ranch Road ➜ San Rafael,horizontal,245,6,Southbound
-82,251,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,horizontal,251,1,Northbound
-83,251,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato Shuttle,horizontal,251,2,Southbound
-84,251,0,20180311,20180531,0,0,0,0,0,1,0,"Northbound, Saturday",Novato Shuttle,horizontal,251,3,Northbound
-85,251,1,20180311,20180531,0,0,0,0,0,1,0,"Southbound, Saturday",Novato Shuttle,horizontal,251,4,Southbound
-86,251,0,20180311,20180531,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Novato Shuttle,horizontal,251,5,Northbound
-87,251,1,20180311,20180531,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato Shuttle,horizontal,251,6,Southbound
-88,257,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,horizontal,257,1,Northbound
-89,257,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,horizontal,257,2,Southbound
-90,113,0,20180311,20180531,1,0,0,0,0,0,0,"Westbound, Monday",Paradise Cay ➜ Redwood HS,vertical,113,1,Westbound
-91,113,1,20180311,20180531,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Paradise Cay,vertical,113,2,Eastbound
-92,113,0,20180311,20180531,0,1,0,0,0,0,0,"Westbound, Tuesday",Paradise Cay ➜ Redwood HS,vertical,113,3,Westbound
-93,113,1,20180311,20180531,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood HS ➜ Paradise Cay,vertical,113,4,Eastbound
-94,113,0,20180311,20180531,0,0,1,0,0,0,0,"Westbound, Wednesday",Paradise Cay ➜ Redwood HS,vertical,113,5,Westbound
-95,113,1,20180311,20180531,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Paradise Cay,vertical,113,6,Eastbound
-96,113,0,20180311,20180531,0,0,0,1,0,0,0,"Westbound, Thursday",Paradise Cay ➜ Redwood HS,vertical,113,7,Westbound
-97,113,1,20180311,20180531,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Paradise Cay,vertical,113,8,Eastbound
-98,113,0,20180311,20180531,0,0,0,0,1,0,0,"Westbound, Friday",Paradise Cay ➜ Redwood HS,vertical,113,9,Westbound
-99,113,1,20180311,20180531,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood HS ➜ Paradise Cay,vertical,113,10,Eastbound
-100,115,0,20180311,20180531,1,0,0,0,0,0,0,"Northbound, Monday",Marin City ➜ St Hilary School,vertical,115,1,Northbound
-101,115,1,20180311,20180531,1,0,0,0,0,0,0,"Southbound, Monday",St Hilary School ➜ Marin City,vertical,115,2,Southbound
-102,115,0,20180311,20180531,0,1,0,0,0,0,0,"Northbound, Tuesday",Marin City ➜ St Hilary School,vertical,115,3,Northbound
-103,115,1,20180311,20180531,0,1,0,0,0,0,0,"Southbound, Tuesday",St Hilary School ➜ Marin City,vertical,115,4,Southbound
-104,115,0,20180311,20180531,0,0,1,0,0,0,0,"Northbound, Wednesday",Marin City ➜ St Hilary School,vertical,115,5,Northbound
-105,115,1,20180311,20180531,0,0,1,0,0,0,0,"Southbound, Wednesday",St Hilary School ➜ Marin City,vertical,115,6,Southbound
-106,115,0,20180311,20180531,0,0,0,1,0,0,0,"Northbound, Thursday",Marin City ➜ St Hilary School,vertical,115,7,Northbound
-107,115,1,20180311,20180531,0,0,0,1,0,0,0,"Southbound, Thursday",St Hilary School ➜ Marin City,vertical,115,8,Southbound
-108,115,0,20180311,20180531,0,0,0,0,1,0,0,"Northbound, Friday",Marin City ➜ St Hilary School,vertical,115,9,Northbound
-109,115,1,20180311,20180531,0,0,0,0,1,0,0,"Southbound, Friday",St Hilary School ➜ Marin City,vertical,115,10,Southbound
-110,117,0,20180311,20180531,1,0,0,0,0,0,0,"Westbound, Monday",E Corte Madera ➜ Hall MS,vertical,117,1,Westbound
-111,117,1,20180311,20180531,1,0,0,0,0,0,0,"Eastbound, Monday",Hall MS ➜ E Corte Madera,vertical,117,2,Eastbound
-112,117,0,20180311,20180531,0,1,0,0,0,0,0,"Westbound, Tuesday",E Corte Madera ➜ Hall MS,vertical,117,3,Westbound
-113,117,1,20180311,20180531,0,1,0,0,0,0,0,"Eastbound, Tuesday",Hall MS ➜ E Corte Madera,vertical,117,4,Eastbound
-114,117,0,20180311,20180531,0,0,1,0,0,0,0,"Westbound, Wednesday",E Corte Madera ➜ Hall MS,vertical,117,5,Westbound
-115,117,1,20180311,20180531,0,0,1,0,0,0,0,"Eastbound, Wednesday",Hall MS ➜ E Corte Madera,vertical,117,6,Eastbound
-116,117,0,20180311,20180531,0,0,0,1,0,0,0,"Westbound, Thursday",E Corte Madera ➜ Hall MS,vertical,117,7,Westbound
-117,117,1,20180311,20180531,0,0,0,1,0,0,0,"Eastbound, Thursday",Hall MS ➜ E Corte Madera,vertical,117,8,Eastbound
-118,117,0,20180311,20180531,0,0,0,0,1,0,0,"Westbound, Friday",E Corte Madera ➜ Hall MS,vertical,117,9,Westbound
-119,117,1,20180311,20180531,0,0,0,0,1,0,0,"Eastbound, Friday",Hall MS ➜ E Corte Madera,vertical,117,10,Eastbound
-120,119,0,20180311,20180531,1,0,0,0,0,0,0,"Westbound, Monday",Tiburon ➜ Redwood HS,vertical,119,1,Westbound
-121,119,1,20180311,20180531,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Tiburon,vertical,119,2,Eastbound
-122,119,0,20180311,20180531,0,1,0,0,0,0,0,"Westbound, Tuesday",Tiburon ➜ Redwood HS,vertical,119,3,Westbound
-123,119,1,20180311,20180531,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood HS ➜ Tiburon,vertical,119,4,Eastbound
-124,119,0,20180311,20180531,0,0,1,0,0,0,0,"Westbound, Wednesday",Tiburon ➜ Redwood HS,vertical,119,5,Westbound
-125,119,1,20180311,20180531,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Tiburon,vertical,119,6,Eastbound
-126,119,0,20180311,20180531,0,0,0,1,0,0,0,"Westbound, Thursday",Tiburon ➜ Redwood HS,vertical,119,7,Westbound
-127,119,1,20180311,20180531,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,vertical,119,8,Eastbound
-128,119,0,20180311,20180531,0,0,0,0,1,0,0,"Westbound, Friday",Tiburon ➜ Redwood HS,vertical,119,9,Westbound
-129,119,1,20180311,20180531,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood HS ➜ Tiburon,vertical,119,10,Eastbound
-130,122,0,20180311,20180531,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,vertical,122,1,Northbound
-131,122,1,20180311,20180531,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,vertical,122,2,Southbound
-132,125,0,20180311,20180531,1,0,0,0,0,0,0,"Westbound, Monday",San Rafael Transit Center ➜ Lagunitas,vertical,125,1,Westbound
-133,125,1,20180311,20180531,1,0,0,0,0,0,0,"Eastbound, Monday",Lagunitas ➜ San Rafael Transit Center,vertical,125,2,Eastbound
-134,125,0,20180311,20180531,0,1,0,0,0,0,0,"Westbound, Tuesday",San Rafael Transit Center ➜ Lagunitas,vertical,125,3,Westbound
-135,125,1,20180311,20180531,0,1,0,0,0,0,0,"Eastbound, Tuesday",Lagunitas ➜ San Rafael Transit Center,vertical,125,4,Eastbound
-136,125,0,20180311,20180531,0,0,1,0,0,0,0,"Westbound, Wednesday",San Rafael Transit Center ➜ Lagunitas,vertical,125,5,Westbound
-137,125,1,20180311,20180531,0,0,1,0,0,0,0,"Eastbound, Wednesday",Lagunitas ➜ San Rafael Transit Center,vertical,125,6,Eastbound
-138,125,0,20180311,20180531,0,0,0,1,0,0,0,"Westbound, Thursday",San Rafael Transit Center ➜ Lagunitas,vertical,125,7,Westbound
-139,125,1,20180311,20180531,0,0,0,1,0,0,0,"Eastbound, Thursday",Lagunitas ➜ San Rafael Transit Center,vertical,125,8,Eastbound
-140,125,0,20180311,20180531,0,0,0,0,1,0,0,"Westbound, Friday",San Rafael Transit Center ➜ Lagunitas,vertical,125,9,Westbound
-141,125,1,20180311,20180531,0,0,0,0,1,0,0,"Eastbound, Friday",Lagunitas ➜ San Rafael Transit Center,vertical,125,10,Eastbound
-142,139,1,20180311,20180531,1,0,0,0,0,0,0,"Southbound, Monday",Lucas Valley ➜ Terra Linda HS,vertical,139,1,Southbound
-143,139,0,20180311,20180531,1,0,0,0,0,0,0,"Northbound, Monday",Terra Linda HS ➜ Lucas Valley,vertical,139,2,Northbound
-144,139,1,20180311,20180531,0,1,0,0,0,0,0,"Southbound, Tuesday",Lucas Valley ➜ Terra Linda HS,vertical,139,3,Southbound
-145,139,0,20180311,20180531,0,1,0,0,0,0,0,"Northbound, Tuesday",Terra Linda HS ➜ Lucas Valley,vertical,139,4,Northbound
-146,139,1,20180311,20180531,0,0,1,0,0,0,0,"Southbound, Wednesday",Lucas Valley ➜ Terra Linda HS,vertical,139,5,Southbound
-147,139,0,20180311,20180531,0,0,1,0,0,0,0,"Northbound, Wednesday",Terra Linda HS ➜ Lucas Valley,vertical,139,6,Northbound
-148,139,1,20180311,20180531,0,0,0,1,0,0,0,"Southbound, Thursday",Lucas Valley ➜ Terra Linda HS,vertical,139,7,Southbound
-149,139,0,20180311,20180531,0,0,0,1,0,0,0,"Northbound, Thursday",Terra Linda HS ➜ Lucas Valley,vertical,139,8,Northbound
-150,139,1,20180311,20180531,0,0,0,0,1,0,0,"Southbound, Friday",Lucas Valley ➜ Terra Linda HS,vertical,139,9,Southbound
-151,139,0,20180311,20180531,0,0,0,0,1,0,0,"Northbound, Friday",Terra Linda HS ➜ Lucas Valley,vertical,139,10,Northbound
-152,145,0,20180311,20180531,1,0,0,0,0,0,0,"Northbound, Monday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,1,Northbound
-153,145,1,20180311,20180531,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,2,Southbound
-154,145,0,20180311,20180531,0,1,0,0,0,0,0,"Northbound, Tuesday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,3,Northbound
-155,145,1,20180311,20180531,0,1,0,0,0,0,0,"Southbound, Tuesday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,4,Southbound
-156,145,0,20180311,20180531,0,0,1,0,0,0,0,"Northbound, Wednesday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,5,Northbound
-157,145,1,20180311,20180531,0,0,1,0,0,0,0,"Southbound, Wednesday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,6,Southbound
-158,145,0,20180311,20180531,0,0,0,1,0,0,0,"Northbound, Thursday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,7,Northbound
-159,145,1,20180311,20180531,0,0,0,1,0,0,0,"Southbound, Thursday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,8,Southbound
-160,145,0,20180311,20180531,0,0,0,0,1,0,0,"Northbound, Friday",San Rafael Transit Center ➜ Terra Linda HS,vertical,145,9,Northbound
-161,145,1,20180311,20180531,0,0,0,0,1,0,0,"Southbound, Friday",Terra Linda HS ➜ San Rafael Transit Center,vertical,145,10,Southbound
-162,151,0,20180311,20180531,1,0,0,0,0,0,0,"Northbound, Monday",Hamilton ➜ San Marin HS,vertical,151,1,Northbound
-163,151,1,20180311,20180531,1,0,0,0,0,0,0,"Southbound, Monday",San Marin HS ➜ Hamilton,vertical,151,2,Southbound
-164,151,0,20180311,20180531,0,1,0,0,0,0,0,"Northbound, Tuesday",Hamilton ➜ San Marin HS,vertical,151,3,Northbound
-165,151,1,20180311,20180531,0,1,0,0,0,0,0,"Southbound, Tuesday",San Marin HS ➜ Hamilton,vertical,151,4,Southbound
-166,151,0,20180311,20180531,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,vertical,151,5,Northbound
-167,151,1,20180311,20180531,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,vertical,151,6,Southbound
-168,151,0,20180311,20180531,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ San Marin HS,vertical,151,7,Northbound
-169,151,1,20180311,20180531,0,0,0,1,0,0,0,"Southbound, Thursday",San Marin HS ➜ Hamilton,vertical,151,8,Southbound
-170,151,0,20180311,20180531,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ San Marin HS,vertical,151,9,Northbound
-171,151,1,20180311,20180531,0,0,0,0,1,0,0,"Southbound, Friday",San Marin HS ➜ Hamilton,vertical,151,10,Southbound
-172,154,0,20180311,20180531,1,0,0,0,0,0,0,"Westbound, Monday",Olive ➜ Novato,vertical,154,1,Westbound
-173,154,1,20180311,20180531,1,0,0,0,0,0,0,"Eastbound, Monday",Novato ➜ Olive,vertical,154,2,Eastbound
-174,154,0,20180311,20180531,0,1,0,0,0,0,0,"Westbound, Tuesday",Olive ➜ Novato,vertical,154,3,Westbound
-175,154,1,20180311,20180531,0,1,0,0,0,0,0,"Eastbound, Tuesday",Novato ➜ Olive,vertical,154,4,Eastbound
-176,154,0,20180311,20180531,0,0,1,0,0,0,0,"Westbound, Wednesday",Olive ➜ Novato,vertical,154,5,Westbound
-177,154,1,20180311,20180531,0,0,1,0,0,0,0,"Eastbound, Wednesday",Novato ➜ Olive,vertical,154,6,Eastbound
-178,154,0,20180311,20180531,0,0,0,1,0,0,0,"Westbound, Thursday",Olive ➜ Novato,vertical,154,7,Westbound
-179,154,1,20180311,20180531,0,0,0,1,0,0,0,"Eastbound, Thursday",Novato ➜ Olive,vertical,154,8,Eastbound
-180,154,0,20180311,20180531,0,0,0,0,1,0,0,"Westbound, Friday",Olive ➜ Novato,vertical,154,9,Westbound
-181,154,1,20180311,20180531,0,0,0,0,1,0,0,"Eastbound, Friday",Novato ➜ Olive,vertical,154,10,Eastbound
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,10899,0,20171227,20180609,0,0,0,0,0,0,1,Canal - Fairfax,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+2,10899,0,20171227,20180609,0,0,0,0,0,1,0,Canal - Fairfax,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+3,10899,0,20171227,20180609,1,1,1,1,1,0,0,Canal - Fairfax,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+4,10899,1,20171227,20180609,0,0,0,0,0,0,1,Canal - Fairfax,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+5,10899,1,20171227,20180609,0,0,0,0,0,1,0,Canal - Fairfax,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+6,10899,1,20171227,20180609,1,1,1,1,1,0,0,Canal - Fairfax,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+7,10899,0,20180610,20180908,0,0,0,0,0,0,1,Canal - Fairfax,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+8,10899,0,20180610,20180908,0,0,0,0,0,1,0,Canal - Fairfax,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+9,10899,0,20180610,20180908,1,1,1,1,1,0,0,Canal - Fairfax,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+10,10899,1,20180610,20180908,0,0,0,0,0,0,1,Canal - Fairfax,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+11,10899,1,20180610,20180908,0,0,0,0,0,1,0,Canal - Fairfax,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+12,10899,1,20180610,20180908,1,1,1,1,1,0,0,Canal - Fairfax,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+13,10900,0,20171227,20180609,1,1,1,1,1,0,0,Canal - Fairfax/Manor Express,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+14,10900,1,20171227,20180609,1,1,1,1,1,0,0,Canal - Fairfax/Manor Express,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+15,10900,0,20180610,20180908,1,1,1,1,1,0,0,Canal - Fairfax/Manor Express,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+16,10900,1,20180610,20180908,1,1,1,1,1,0,0,Canal - Fairfax/Manor Express,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+17,10903,0,20171227,20180609,1,1,1,1,1,0,0,Canal - Marin City,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+18,10903,1,20171227,20180609,0,0,0,0,0,0,1,Canal - Marin City,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+19,10903,1,20171227,20180609,0,0,0,0,0,1,0,Canal - Marin City,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+20,10903,1,20171227,20180609,1,1,1,1,1,0,0,Canal - Marin City,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+21,10903,0,20180610,20180908,1,1,1,1,1,0,0,Canal - Marin City,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+22,10903,1,20180610,20180908,0,0,0,0,0,0,1,Canal - Marin City,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+23,10903,1,20180610,20180908,0,0,0,0,0,1,0,Canal - Marin City,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+24,10903,1,20180610,20180908,1,1,1,1,1,0,0,Canal - Marin City,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+25,10901,0,20171227,20180609,1,1,1,1,1,0,0,Canal - Marin General,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+26,10901,1,20171227,20180609,1,1,1,1,1,0,0,Canal - Marin General,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+27,10901,0,20180610,20180908,1,1,1,1,1,0,0,Canal - Marin General,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+28,10901,1,20180610,20180908,1,1,1,1,1,0,0,Canal - Marin General,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+29,10902,0,20171227,20180609,0,0,0,0,0,0,1,Canal - San Rafael Transit Center,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+30,10902,0,20171227,20180609,0,0,0,0,0,1,0,Canal - San Rafael Transit Center,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+31,10902,0,20171227,20180609,1,1,1,1,1,0,0,Canal - San Rafael Transit Center,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+32,10902,1,20171227,20180609,0,0,0,0,0,0,1,Canal - San Rafael Transit Center,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+33,10902,1,20171227,20180609,0,0,0,0,0,1,0,Canal - San Rafael Transit Center,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+34,10902,1,20171227,20180609,1,1,1,1,1,0,0,Canal - San Rafael Transit Center,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+35,10902,0,20180610,20180908,0,0,0,0,0,0,1,Canal - San Rafael Transit Center,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+36,10902,0,20180610,20180908,0,0,0,0,0,1,0,Canal - San Rafael Transit Center,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+37,10902,0,20180610,20180908,1,1,1,1,1,0,0,Canal - San Rafael Transit Center,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+38,10902,1,20180610,20180908,0,0,0,0,0,0,1,Canal - San Rafael Transit Center,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+39,10902,1,20180610,20180908,0,0,0,0,0,1,0,Canal - San Rafael Transit Center,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+40,10902,1,20180610,20180908,1,1,1,1,1,0,0,Canal - San Rafael Transit Center,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+41,10913,0,20171227,20180609,0,0,0,0,1,0,0,College of Marin Express,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+42,10913,0,20171227,20180609,0,0,0,1,0,0,0,College of Marin Express,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+43,10913,0,20171227,20180609,0,0,1,0,0,0,0,College of Marin Express,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+44,10913,0,20171227,20180609,0,1,0,0,0,0,0,College of Marin Express,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+45,10913,0,20171227,20180609,1,0,0,0,0,0,0,College of Marin Express,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+46,10913,1,20171227,20180609,0,0,0,0,1,0,0,College of Marin Express,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+47,10913,1,20171227,20180609,0,0,0,1,0,0,0,College of Marin Express,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+48,10913,1,20171227,20180609,0,0,1,0,0,0,0,College of Marin Express,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+49,10913,1,20171227,20180609,0,1,0,0,0,0,0,College of Marin Express,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+50,10913,1,20171227,20180609,1,0,0,0,0,0,0,College of Marin Express,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+51,10913,0,20180820,20181214,0,0,0,0,1,0,0,College of Marin Express,COM 18-19 Calendar (Friday only),Inbound,horizontal
+52,10913,0,20180820,20181214,0,0,0,1,0,0,0,College of Marin Express,COM 18-19 Calendar (Thursday only),Inbound,horizontal
+53,10913,0,20180820,20181214,0,0,1,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Wednesday only),Inbound,horizontal
+54,10913,0,20180820,20181214,0,1,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Tuesday only),Inbound,horizontal
+55,10913,0,20180820,20181214,1,0,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Monday only),Inbound,horizontal
+56,10913,1,20180820,20181214,0,0,0,0,1,0,0,College of Marin Express,COM 18-19 Calendar (Friday only),Outbound,horizontal
+57,10913,1,20180820,20181214,0,0,0,1,0,0,0,College of Marin Express,COM 18-19 Calendar (Thursday only),Outbound,horizontal
+58,10913,1,20180820,20181214,0,0,1,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Wednesday only),Outbound,horizontal
+59,10913,1,20180820,20181214,0,1,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Tuesday only),Outbound,horizontal
+60,10913,1,20180820,20181214,1,0,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Monday only),Outbound,horizontal
+61,10913,0,20190122,20190524,0,0,0,0,1,0,0,College of Marin Express,COM 18-19 Calendar (Friday only),Inbound,horizontal
+62,10913,0,20190122,20190524,0,0,0,1,0,0,0,College of Marin Express,COM 18-19 Calendar (Thursday only),Inbound,horizontal
+63,10913,0,20190122,20190524,0,0,1,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Wednesday only),Inbound,horizontal
+64,10913,0,20190122,20190524,0,1,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Tuesday only),Inbound,horizontal
+65,10913,0,20190122,20190524,1,0,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Monday only),Inbound,horizontal
+66,10913,1,20190122,20190524,0,0,0,0,1,0,0,College of Marin Express,COM 18-19 Calendar (Friday only),Outbound,horizontal
+67,10913,1,20190122,20190524,0,0,0,1,0,0,0,College of Marin Express,COM 18-19 Calendar (Thursday only),Outbound,horizontal
+68,10913,1,20190122,20190524,0,0,1,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Wednesday only),Outbound,horizontal
+69,10913,1,20190122,20190524,0,1,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Tuesday only),Outbound,horizontal
+70,10913,1,20190122,20190524,1,0,0,0,0,0,0,College of Marin Express,COM 18-19 Calendar (Monday only),Outbound,horizontal
+71,10911,0,20171227,20180609,0,0,0,0,1,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+72,10911,0,20171227,20180609,0,0,0,1,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+73,10911,0,20171227,20180609,0,0,1,0,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+74,10911,0,20171227,20180609,0,1,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+75,10911,0,20171227,20180609,1,0,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+76,10911,1,20171227,20180609,0,0,0,0,1,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+77,10911,1,20171227,20180609,0,0,0,1,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+78,10911,1,20171227,20180609,0,0,1,0,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+79,10911,1,20171227,20180609,0,1,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+80,10911,1,20171227,20180609,1,0,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+81,10911,0,20180822,20181221,0,0,0,0,1,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Friday only),Inbound,horizontal
+82,10911,0,20180822,20181221,0,0,0,1,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Thursday only),Inbound,horizontal
+83,10911,0,20180822,20181221,0,0,1,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Wednesday only),Inbound,horizontal
+84,10911,0,20180822,20181221,0,1,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Tuesday only),Inbound,horizontal
+85,10911,0,20180822,20181221,1,0,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Monday only),Inbound,horizontal
+86,10911,1,20180822,20181221,0,0,0,0,1,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Friday only),Outbound,horizontal
+87,10911,1,20180822,20181221,0,0,0,1,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Thursday only),Outbound,horizontal
+88,10911,1,20180822,20181221,0,0,1,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Wednesday only),Outbound,horizontal
+89,10911,1,20180822,20181221,0,1,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Tuesday only),Outbound,horizontal
+90,10911,1,20180822,20181221,1,0,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Monday only),Outbound,horizontal
+91,10911,0,20190107,20190613,0,0,0,0,1,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Friday only),Inbound,horizontal
+92,10911,0,20190107,20190613,0,0,0,1,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Thursday only),Inbound,horizontal
+93,10911,0,20190107,20190613,0,0,1,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Wednesday only),Inbound,horizontal
+94,10911,0,20190107,20190613,0,1,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Tuesday only),Inbound,horizontal
+95,10911,0,20190107,20190613,1,0,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Monday only),Inbound,horizontal
+96,10911,1,20190107,20190613,0,0,0,0,1,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Friday only),Outbound,horizontal
+97,10911,1,20190107,20190613,0,0,0,1,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Thursday only),Outbound,horizontal
+98,10911,1,20190107,20190613,0,0,1,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Wednesday only),Outbound,horizontal
+99,10911,1,20190107,20190613,0,1,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Tuesday only),Outbound,horizontal
+100,10911,1,20190107,20190613,1,0,0,0,0,0,0,Cove School - E Corte Madera - Hall MS,LCMSD 18-19 Calendar (Monday only),Outbound,horizontal
+101,10917,0,20171227,20180609,0,0,0,0,1,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+102,10917,0,20171227,20180609,0,0,0,1,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+103,10917,0,20171227,20180609,0,0,1,0,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+104,10917,0,20171227,20180609,0,1,0,0,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+105,10917,0,20171227,20180609,1,0,0,0,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+106,10917,1,20171227,20180609,0,0,0,0,1,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+107,10917,1,20171227,20180609,0,0,0,1,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+108,10917,1,20171227,20180609,0,0,1,0,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+109,10917,1,20171227,20180609,0,1,0,0,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+110,10917,1,20171227,20180609,1,0,0,0,0,0,0,Hamilton - San Marin HS,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+111,10917,0,20180823,20181221,0,0,0,0,1,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Friday only),Inbound,horizontal
+112,10917,0,20180823,20181221,0,0,0,1,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Thursday only),Inbound,horizontal
+113,10917,0,20180823,20181221,0,0,1,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Wednesday only),Inbound,horizontal
+114,10917,0,20180823,20181221,0,1,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Tuesday only),Inbound,horizontal
+115,10917,0,20180823,20181221,1,0,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Monday only),Inbound,horizontal
+116,10917,1,20180823,20181221,0,0,0,0,1,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Friday only),Outbound,horizontal
+117,10917,1,20180823,20181221,0,0,0,1,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Thursday only),Outbound,horizontal
+118,10917,1,20180823,20181221,0,0,1,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Wednesday only),Outbound,horizontal
+119,10917,1,20180823,20181221,0,1,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Tuesday only),Outbound,horizontal
+120,10917,1,20180823,20181221,1,0,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Monday only),Outbound,horizontal
+121,10917,0,20190107,20190613,0,0,0,0,1,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Friday only),Inbound,horizontal
+122,10917,0,20190107,20190613,0,0,0,1,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Thursday only),Inbound,horizontal
+123,10917,0,20190107,20190613,0,0,1,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Wednesday only),Inbound,horizontal
+124,10917,0,20190107,20190613,0,1,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Tuesday only),Inbound,horizontal
+125,10917,0,20190107,20190613,1,0,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Monday only),Inbound,horizontal
+126,10917,1,20190107,20190613,0,0,0,0,1,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Friday only),Outbound,horizontal
+127,10917,1,20190107,20190613,0,0,0,1,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Thursday only),Outbound,horizontal
+128,10917,1,20190107,20190613,0,0,1,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Wednesday only),Outbound,horizontal
+129,10917,1,20190107,20190613,0,1,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Tuesday only),Outbound,horizontal
+130,10917,1,20190107,20190613,1,0,0,0,0,0,0,Hamilton - San Marin HS,Novato HS 1819 Calendar (Monday only),Outbound,horizontal
+131,10914,0,20171227,20180609,0,0,0,0,1,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+132,10914,0,20171227,20180609,0,0,0,1,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+133,10914,0,20171227,20180609,0,0,1,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+134,10914,0,20171227,20180609,0,1,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+135,10914,0,20171227,20180609,1,0,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+136,10914,1,20171227,20180609,0,0,0,0,1,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+137,10914,1,20171227,20180609,0,0,0,1,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+138,10914,1,20171227,20180609,0,0,1,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+139,10914,1,20171227,20180609,0,1,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+140,10914,1,20171227,20180609,1,0,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+141,10914,0,20180822,20181221,0,0,0,0,1,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+142,10914,0,20180822,20181221,0,0,0,1,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+143,10914,0,20180822,20181221,0,0,1,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+144,10914,0,20180822,20181221,0,1,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+145,10914,0,20180822,20181221,1,0,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+146,10914,1,20180822,20181221,0,0,0,0,1,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+147,10914,1,20180822,20181221,0,0,0,1,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+148,10914,1,20180822,20181221,0,0,1,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+149,10914,1,20180822,20181221,0,1,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+150,10914,1,20180822,20181221,1,0,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+151,10914,0,20190108,20190613,0,0,0,0,1,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+152,10914,0,20190108,20190613,0,0,0,1,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+153,10914,0,20190108,20190613,0,0,1,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+154,10914,0,20190108,20190613,0,1,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+155,10914,0,20190108,20190613,1,0,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+156,10914,1,20190108,20190613,0,0,0,0,1,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+157,10914,1,20190108,20190613,0,0,0,1,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+158,10914,1,20190108,20190613,0,0,1,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+159,10914,1,20190108,20190613,0,1,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+160,10914,1,20190108,20190613,1,0,0,0,0,0,0,Lagunitas - Sir Francis Drake HS - San Rafael,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+161,10915,0,20171227,20180609,0,0,0,0,1,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+162,10915,0,20171227,20180609,0,0,0,1,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+163,10915,0,20171227,20180609,0,0,1,0,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+164,10915,0,20171227,20180609,0,1,0,0,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+165,10915,0,20171227,20180609,1,0,0,0,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+166,10915,1,20171227,20180609,0,0,0,0,1,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+167,10915,1,20171227,20180609,0,0,0,1,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+168,10915,1,20171227,20180609,0,0,1,0,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+169,10915,1,20171227,20180609,0,1,0,0,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+170,10915,1,20171227,20180609,1,0,0,0,0,0,0,Lucas Valley - Terra Linda HS,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+171,10915,0,20180823,20181220,0,0,0,0,1,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Inbound,horizontal
+172,10915,0,20180823,20181220,0,0,0,1,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Inbound,horizontal
+173,10915,0,20180823,20181220,0,0,1,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Inbound,horizontal
+174,10915,0,20180823,20181220,0,1,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Inbound,horizontal
+175,10915,0,20180823,20181220,1,0,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Inbound,horizontal
+176,10915,1,20180823,20181220,0,0,0,0,1,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Outbound,horizontal
+177,10915,1,20180823,20181220,0,0,0,1,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Outbound,horizontal
+178,10915,1,20180823,20181220,0,0,1,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Outbound,horizontal
+179,10915,1,20180823,20181220,0,1,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Outbound,horizontal
+180,10915,1,20180823,20181220,1,0,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Outbound,horizontal
+181,10915,0,20190108,20190613,0,0,0,0,1,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Inbound,horizontal
+182,10915,0,20190108,20190613,0,0,0,1,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Inbound,horizontal
+183,10915,0,20190108,20190613,0,0,1,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Inbound,horizontal
+184,10915,0,20190108,20190613,0,1,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Inbound,horizontal
+185,10915,0,20190108,20190613,1,0,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Inbound,horizontal
+186,10915,1,20190108,20190613,0,0,0,0,1,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Outbound,horizontal
+187,10915,1,20190108,20190613,0,0,0,1,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Outbound,horizontal
+188,10915,1,20190108,20190613,0,0,1,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Outbound,horizontal
+189,10915,1,20190108,20190613,0,1,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Outbound,horizontal
+190,10915,1,20190108,20190613,1,0,0,0,0,0,0,Lucas Valley - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Outbound,horizontal
+191,10910,0,20171227,20180609,0,0,0,0,1,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+192,10910,0,20171227,20180609,0,0,0,1,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+193,10910,0,20171227,20180609,0,0,1,0,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+194,10910,0,20171227,20180609,0,1,0,0,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+195,10910,0,20171227,20180609,1,0,0,0,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+196,10910,1,20171227,20180609,0,0,0,0,1,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+197,10910,1,20171227,20180609,0,0,0,1,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+198,10910,1,20171227,20180609,0,0,1,0,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+199,10910,1,20171227,20180609,0,1,0,0,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+200,10910,1,20171227,20180609,1,0,0,0,0,0,0,Marin City - St Hilary School,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+201,10910,0,20180822,20181221,0,0,0,0,1,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+202,10910,0,20180822,20181221,0,0,0,1,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+203,10910,0,20180822,20181221,0,0,1,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+204,10910,0,20180822,20181221,0,1,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+205,10910,0,20180822,20181221,1,0,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+206,10910,1,20180822,20181221,0,0,0,0,1,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+207,10910,1,20180822,20181221,0,0,0,1,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+208,10910,1,20180822,20181221,0,0,1,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+209,10910,1,20180822,20181221,0,1,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+210,10910,1,20180822,20181221,1,0,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+211,10910,0,20190108,20190613,0,0,0,0,1,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+212,10910,0,20190108,20190613,0,0,0,1,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+213,10910,0,20190108,20190613,0,0,1,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+214,10910,0,20190108,20190613,0,1,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+215,10910,0,20190108,20190613,1,0,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+216,10910,1,20190108,20190613,0,0,0,0,1,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+217,10910,1,20190108,20190613,0,0,0,1,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+218,10910,1,20190108,20190613,0,0,1,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+219,10910,1,20190108,20190613,0,1,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+220,10910,1,20190108,20190613,1,0,0,0,0,0,0,Marin City - St Hilary School,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+221,10906,0,20180528,20180916,1,1,1,1,1,1,1,Muir Woods Shuttle,Route 66 Beginning 5/28/2018 (All days of week),Inbound,horizontal
+222,10906,1,20180528,20180916,1,1,1,1,1,1,1,Muir Woods Shuttle,Route 66 Beginning 5/28/2018 (All days of week),Outbound,horizontal
+223,10908,0,20171227,20180609,1,1,1,1,1,0,0,Novato - Sausalito,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+224,10908,1,20171227,20180609,1,1,1,1,1,0,0,Novato - Sausalito,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+225,10908,0,20180610,20180908,1,1,1,1,1,0,0,Novato - Sausalito,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+226,10908,1,20180610,20180908,1,1,1,1,1,0,0,Novato - Sausalito,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+227,10922,0,20171227,20180609,0,0,0,0,0,0,1,Novato Shuttle,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+228,10922,0,20171227,20180609,0,0,0,0,0,1,0,Novato Shuttle,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+229,10922,0,20171227,20180609,1,1,1,1,1,0,0,Novato Shuttle,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+230,10922,1,20171227,20180609,0,0,0,0,0,0,1,Novato Shuttle,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+231,10922,1,20171227,20180609,0,0,0,0,0,1,0,Novato Shuttle,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+232,10922,1,20171227,20180609,1,1,1,1,1,0,0,Novato Shuttle,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+233,10922,0,20180610,20180908,0,0,0,0,0,0,1,Novato Shuttle,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+234,10922,0,20180610,20180908,0,0,0,0,0,1,0,Novato Shuttle,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+235,10922,0,20180610,20180908,1,1,1,1,1,0,0,Novato Shuttle,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+236,10922,1,20180610,20180908,0,0,0,0,0,0,1,Novato Shuttle,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+237,10922,1,20180610,20180908,0,0,0,0,0,1,0,Novato Shuttle,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+238,10922,1,20180610,20180908,1,1,1,1,1,0,0,Novato Shuttle,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+239,10918,0,20171227,20180609,0,0,0,0,1,0,0,Olive - Novato,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+240,10918,0,20171227,20180609,0,0,0,1,0,0,0,Olive - Novato,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+241,10918,0,20171227,20180609,0,0,1,0,0,0,0,Olive - Novato,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+242,10918,0,20171227,20180609,0,1,0,0,0,0,0,Olive - Novato,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+243,10918,0,20171227,20180609,1,0,0,0,0,0,0,Olive - Novato,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+244,10918,1,20171227,20180609,0,0,0,0,1,0,0,Olive - Novato,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+245,10918,1,20171227,20180609,0,0,0,1,0,0,0,Olive - Novato,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+246,10918,1,20171227,20180609,0,0,1,0,0,0,0,Olive - Novato,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+247,10918,1,20171227,20180609,0,1,0,0,0,0,0,Olive - Novato,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+248,10918,1,20171227,20180609,1,0,0,0,0,0,0,Olive - Novato,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+249,10918,0,20180823,20181221,0,0,0,0,1,0,0,Olive - Novato,Novato HS 1819 Calendar (Friday only),Inbound,horizontal
+250,10918,0,20180823,20181221,0,0,0,1,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Thursday only),Inbound,horizontal
+251,10918,0,20180823,20181221,0,0,1,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Wednesday only),Inbound,horizontal
+252,10918,0,20180823,20181221,0,1,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Tuesday only),Inbound,horizontal
+253,10918,0,20180823,20181221,1,0,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Monday only),Inbound,horizontal
+254,10918,1,20180823,20181221,0,0,0,0,1,0,0,Olive - Novato,Novato HS 1819 Calendar (Friday only),Outbound,horizontal
+255,10918,1,20180823,20181221,0,0,0,1,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Thursday only),Outbound,horizontal
+256,10918,1,20180823,20181221,0,0,1,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Wednesday only),Outbound,horizontal
+257,10918,1,20180823,20181221,0,1,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Tuesday only),Outbound,horizontal
+258,10918,1,20180823,20181221,1,0,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Monday only),Outbound,horizontal
+259,10918,0,20190107,20190613,0,0,0,0,1,0,0,Olive - Novato,Novato HS 1819 Calendar (Friday only),Inbound,horizontal
+260,10918,0,20190107,20190613,0,0,0,1,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Thursday only),Inbound,horizontal
+261,10918,0,20190107,20190613,0,0,1,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Wednesday only),Inbound,horizontal
+262,10918,0,20190107,20190613,0,1,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Tuesday only),Inbound,horizontal
+263,10918,0,20190107,20190613,1,0,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Monday only),Inbound,horizontal
+264,10918,1,20190107,20190613,0,0,0,0,1,0,0,Olive - Novato,Novato HS 1819 Calendar (Friday only),Outbound,horizontal
+265,10918,1,20190107,20190613,0,0,0,1,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Thursday only),Outbound,horizontal
+266,10918,1,20190107,20190613,0,0,1,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Wednesday only),Outbound,horizontal
+267,10918,1,20190107,20190613,0,1,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Tuesday only),Outbound,horizontal
+268,10918,1,20190107,20190613,1,0,0,0,0,0,0,Olive - Novato,Novato HS 1819 Calendar (Monday only),Outbound,horizontal
+269,10909,0,20171227,20180609,0,0,0,0,1,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+270,10909,0,20171227,20180609,0,0,0,1,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+271,10909,0,20171227,20180609,0,0,1,0,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+272,10909,0,20171227,20180609,0,1,0,0,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+273,10909,0,20171227,20180609,1,0,0,0,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+274,10909,1,20171227,20180609,0,0,0,0,1,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+275,10909,1,20171227,20180609,0,0,0,1,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+276,10909,1,20171227,20180609,0,0,1,0,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+277,10909,1,20171227,20180609,0,1,0,0,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+278,10909,1,20171227,20180609,1,0,0,0,0,0,0,Paradise Cay - Redwood HS,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+279,10909,0,20180822,20181221,0,0,0,0,1,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+280,10909,0,20180822,20181221,0,0,0,1,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+281,10909,0,20180822,20181221,0,0,1,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+282,10909,0,20180822,20181221,0,1,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+283,10909,0,20180822,20181221,1,0,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+284,10909,1,20180822,20181221,0,0,0,0,1,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+285,10909,1,20180822,20181221,0,0,0,1,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+286,10909,1,20180822,20181221,0,0,1,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+287,10909,1,20180822,20181221,0,1,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+288,10909,1,20180822,20181221,1,0,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+289,10909,0,20190108,20190613,0,0,0,0,1,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+290,10909,0,20190108,20190613,0,0,0,1,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+291,10909,0,20190108,20190613,0,0,1,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+292,10909,0,20190108,20190613,0,1,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+293,10909,0,20190108,20190613,1,0,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+294,10909,1,20190108,20190613,0,0,0,0,1,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+295,10909,1,20190108,20190613,0,0,0,1,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+296,10909,1,20190108,20190613,0,0,1,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+297,10909,1,20190108,20190613,0,1,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+298,10909,1,20190108,20190613,1,0,0,0,0,0,0,Paradise Cay - Redwood HS,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+299,10919,0,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Fairfax Manor,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+300,10919,0,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Fairfax Manor,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+301,10919,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Fairfax Manor,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+302,10919,1,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Fairfax Manor,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+303,10919,1,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Fairfax Manor,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+304,10919,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Fairfax Manor,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+305,10919,0,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Fairfax Manor,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+306,10919,0,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Fairfax Manor,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+307,10919,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Fairfax Manor,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+308,10919,1,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Fairfax Manor,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+309,10919,1,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Fairfax Manor,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+310,10919,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Fairfax Manor,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+311,10921,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Ignacio,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+312,10921,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Ignacio,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+313,10921,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Ignacio,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+314,10921,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Ignacio,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+315,10898,0,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Marin City,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+316,10898,0,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Marin City,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+317,10898,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Marin City,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+318,10898,1,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Marin City,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+319,10898,1,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Marin City,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+320,10898,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Marin City,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+321,10898,0,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Marin City,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+322,10898,0,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Marin City,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+323,10898,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Marin City,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+324,10898,1,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Marin City,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+325,10898,1,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Marin City,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+326,10898,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Marin City,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+327,10904,0,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Novato,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+328,10904,0,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Novato,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+329,10904,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Novato,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+330,10904,1,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Novato,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+331,10904,1,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Novato,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+332,10904,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Novato,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+333,10904,0,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Novato,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+334,10904,0,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Novato,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+335,10904,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Novato,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+336,10904,1,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Novato,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+337,10904,1,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Novato,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+338,10904,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Novato,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+339,10920,0,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Santa Venetia,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+340,10920,0,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Santa Venetia,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+341,10920,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Santa Venetia,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+342,10920,1,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Santa Venetia,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+343,10920,1,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Santa Venetia,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+344,10920,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Santa Venetia,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+345,10920,0,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Santa Venetia,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+346,10920,0,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Santa Venetia,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+347,10920,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Santa Venetia,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+348,10920,1,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Santa Venetia,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+349,10920,1,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Santa Venetia,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+350,10920,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Santa Venetia,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+351,10897,0,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Sausalito,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+352,10897,0,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Sausalito,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+353,10897,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Sausalito,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+354,10897,1,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Sausalito,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+355,10897,1,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Sausalito,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+356,10897,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Sausalito,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+357,10897,0,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Sausalito,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+358,10897,0,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Sausalito,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+359,10897,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Sausalito,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+360,10897,1,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Sausalito,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+361,10897,1,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Sausalito,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+362,10897,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Sausalito,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+363,10923,0,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Smith Ranch Road,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+364,10923,0,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Smith Ranch Road,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+365,10923,0,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Smith Ranch Road,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+366,10923,1,20171227,20180609,0,0,0,0,0,0,1,San Rafael - Smith Ranch Road,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+367,10923,1,20171227,20180609,0,0,0,0,0,1,0,San Rafael - Smith Ranch Road,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+368,10923,1,20171227,20180609,1,1,1,1,1,0,0,San Rafael - Smith Ranch Road,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+369,10923,0,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Smith Ranch Road,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+370,10923,0,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Smith Ranch Road,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+371,10923,0,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Smith Ranch Road,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+372,10923,1,20180610,20180908,0,0,0,0,0,0,1,San Rafael - Smith Ranch Road,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+373,10923,1,20180610,20180908,0,0,0,0,0,1,0,San Rafael - Smith Ranch Road,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+374,10923,1,20180610,20180908,1,1,1,1,1,0,0,San Rafael - Smith Ranch Road,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+375,10916,0,20171227,20180609,0,0,0,0,1,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+376,10916,0,20171227,20180609,0,0,0,1,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+377,10916,0,20171227,20180609,0,0,1,0,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+378,10916,0,20171227,20180609,0,1,0,0,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+379,10916,0,20171227,20180609,1,0,0,0,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+380,10916,1,20171227,20180609,0,0,0,0,1,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+381,10916,1,20171227,20180609,0,0,0,1,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+382,10916,1,20171227,20180609,0,0,1,0,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+383,10916,1,20171227,20180609,0,1,0,0,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+384,10916,1,20171227,20180609,1,0,0,0,0,0,0,San Rafael - Terra Linda HS,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+385,10916,0,20180823,20181220,0,0,0,0,1,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Inbound,horizontal
+386,10916,0,20180823,20181220,0,0,0,1,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Inbound,horizontal
+387,10916,0,20180823,20181220,0,0,1,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Inbound,horizontal
+388,10916,0,20180823,20181220,0,1,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Inbound,horizontal
+389,10916,0,20180823,20181220,1,0,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Inbound,horizontal
+390,10916,1,20180823,20181220,0,0,0,0,1,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Outbound,horizontal
+391,10916,1,20180823,20181220,0,0,0,1,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Outbound,horizontal
+392,10916,1,20180823,20181220,0,0,1,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Outbound,horizontal
+393,10916,1,20180823,20181220,0,1,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Outbound,horizontal
+394,10916,1,20180823,20181220,1,0,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Outbound,horizontal
+395,10916,0,20190108,20190613,0,0,0,0,1,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Inbound,horizontal
+396,10916,0,20190108,20190613,0,0,0,1,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Inbound,horizontal
+397,10916,0,20190108,20190613,0,0,1,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Inbound,horizontal
+398,10916,0,20190108,20190613,0,1,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Inbound,horizontal
+399,10916,0,20190108,20190613,1,0,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Inbound,horizontal
+400,10916,1,20190108,20190613,0,0,0,0,1,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Friday only),Outbound,horizontal
+401,10916,1,20190108,20190613,0,0,0,1,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Thursday only),Outbound,horizontal
+402,10916,1,20190108,20190613,0,0,1,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Wednesday only),Outbound,horizontal
+403,10916,1,20190108,20190613,0,1,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Tuesday only),Outbound,horizontal
+404,10916,1,20190108,20190613,1,0,0,0,0,0,0,San Rafael - Terra Linda HS,SRSD 18-19 Calendar (Monday only),Outbound,horizontal
+405,10912,0,20171227,20180609,0,0,0,0,1,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Friday only)",Inbound,horizontal
+406,10912,0,20171227,20180609,0,0,0,1,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Thursday only)",Inbound,horizontal
+407,10912,0,20171227,20180609,0,0,1,0,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Wednesday only)",Inbound,horizontal
+408,10912,0,20171227,20180609,0,1,0,0,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Tuesday only)",Inbound,horizontal
+409,10912,0,20171227,20180609,1,0,0,0,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Monday only)",Inbound,horizontal
+410,10912,1,20171227,20180609,0,0,0,0,1,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Friday only)",Outbound,horizontal
+411,10912,1,20171227,20180609,0,0,0,1,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Thursday only)",Outbound,horizontal
+412,10912,1,20171227,20180609,0,0,1,0,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Wednesday only)",Outbound,horizontal
+413,10912,1,20171227,20180609,0,1,0,0,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Tuesday only)",Outbound,horizontal
+414,10912,1,20171227,20180609,1,0,0,0,0,0,0,Tiburon - Redwood HS,"Ending June 9, 2018 (Monday only)",Outbound,horizontal
+415,10912,0,20180822,20181221,0,0,0,0,1,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+416,10912,0,20180822,20181221,0,0,0,1,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+417,10912,0,20180822,20181221,0,0,1,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+418,10912,0,20180822,20181221,0,1,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+419,10912,0,20180822,20181221,1,0,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+420,10912,1,20180822,20181221,0,0,0,0,1,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+421,10912,1,20180822,20181221,0,0,0,1,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+422,10912,1,20180822,20181221,0,0,1,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+423,10912,1,20180822,20181221,0,1,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+424,10912,1,20180822,20181221,1,0,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+425,10912,0,20190108,20190613,0,0,0,0,1,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Friday only),Inbound,horizontal
+426,10912,0,20190108,20190613,0,0,0,1,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Thursday only),Inbound,horizontal
+427,10912,0,20190108,20190613,0,0,1,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Inbound,horizontal
+428,10912,0,20190108,20190613,0,1,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Inbound,horizontal
+429,10912,0,20190108,20190613,1,0,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Monday only),Inbound,horizontal
+430,10912,1,20190108,20190613,0,0,0,0,1,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Friday only),Outbound,horizontal
+431,10912,1,20190108,20190613,0,0,0,1,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Thursday only),Outbound,horizontal
+432,10912,1,20190108,20190613,0,0,1,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Wednesday only),Outbound,horizontal
+433,10912,1,20190108,20190613,0,1,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Tuesday only),Outbound,horizontal
+434,10912,1,20190108,20190613,1,0,0,0,0,0,0,Tiburon - Redwood HS,THSD 18-19 School Calendar (Monday only),Outbound,horizontal
+435,10924,0,20171227,20180609,0,0,0,0,0,0,1,Tiburon - Strawberry,"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+436,10924,0,20171227,20180609,0,0,0,0,0,1,0,Tiburon - Strawberry,"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+437,10924,0,20171227,20180609,1,1,1,1,1,0,0,Tiburon - Strawberry,"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+438,10924,1,20171227,20180609,0,0,0,0,0,0,1,Tiburon - Strawberry,"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+439,10924,1,20171227,20180609,0,0,0,0,0,1,0,Tiburon - Strawberry,"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+440,10924,1,20171227,20180609,1,1,1,1,1,0,0,Tiburon - Strawberry,"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+441,10924,0,20180610,20180908,0,0,0,0,0,0,1,Tiburon - Strawberry,"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+442,10924,0,20180610,20180908,0,0,0,0,0,1,0,Tiburon - Strawberry,"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+443,10924,0,20180610,20180908,1,1,1,1,1,0,0,Tiburon - Strawberry,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+444,10924,1,20180610,20180908,0,0,0,0,0,0,1,Tiburon - Strawberry,"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+445,10924,1,20180610,20180908,0,0,0,0,0,1,0,Tiburon - Strawberry,"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+446,10924,1,20180610,20180908,1,1,1,1,1,0,0,Tiburon - Strawberry,"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+447,10907,0,20171227,20180609,0,0,0,0,0,0,1,West Marin Stagecoach (North),"Ending June 9, 2018 (Sunday only)",Inbound,horizontal
+448,10907,0,20171227,20180609,0,0,0,0,0,1,0,West Marin Stagecoach (North),"Ending June 9, 2018 (Saturday only)",Inbound,horizontal
+449,10907,0,20171227,20180609,1,1,1,1,1,0,0,West Marin Stagecoach (North),"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+450,10907,1,20171227,20180609,0,0,0,0,0,0,1,West Marin Stagecoach (North),"Ending June 9, 2018 (Sunday only)",Outbound,horizontal
+451,10907,1,20171227,20180609,0,0,0,0,0,1,0,West Marin Stagecoach (North),"Ending June 9, 2018 (Saturday only)",Outbound,horizontal
+452,10907,1,20171227,20180609,1,1,1,1,1,0,0,West Marin Stagecoach (North),"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+453,10907,0,20180610,20180908,0,0,0,0,0,0,1,West Marin Stagecoach (North),"BEGINNING JUNE 10, 2018 (Sunday only)",Inbound,horizontal
+454,10907,0,20180610,20180908,0,0,0,0,0,1,0,West Marin Stagecoach (North),"BEGINNING JUNE 10, 2018 (Saturday only)",Inbound,horizontal
+455,10907,0,20180610,20180908,1,1,1,1,1,0,0,West Marin Stagecoach (North),"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+456,10907,1,20180610,20180908,0,0,0,0,0,0,1,West Marin Stagecoach (North),"BEGINNING JUNE 10, 2018 (Sunday only)",Outbound,horizontal
+457,10907,1,20180610,20180908,0,0,0,0,0,1,0,West Marin Stagecoach (North),"BEGINNING JUNE 10, 2018 (Saturday only)",Outbound,horizontal
+458,10907,1,20180610,20180908,1,1,1,1,1,0,0,West Marin Stagecoach (North),"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal
+459,10905,0,20171227,20180609,1,1,1,1,1,0,0,West Marin Stagecoach (South),"Ending June 9, 2018 (Monday-Friday)",Inbound,horizontal
+460,10905,1,20171227,20180609,1,1,1,1,1,0,0,West Marin Stagecoach (South),"Ending June 9, 2018 (Monday-Friday)",Outbound,horizontal
+461,10905,0,20180303,20181027,0,0,0,0,0,0,1,West Marin Stagecoach (South),61 Stagecoach Summer (Sunday only),Inbound,horizontal
+462,10905,0,20180303,20181027,0,0,0,0,0,1,0,West Marin Stagecoach (South),61 Stagecoach Summer (Saturday only),Inbound,horizontal
+463,10905,1,20180303,20181027,0,0,0,0,0,0,1,West Marin Stagecoach (South),61 Stagecoach Summer (Sunday only),Outbound,horizontal
+464,10905,1,20180303,20181027,0,0,0,0,0,1,0,West Marin Stagecoach (South),61 Stagecoach Summer (Saturday only),Outbound,horizontal
+465,10905,0,20180610,20180908,1,1,1,1,1,0,0,West Marin Stagecoach (South),"BEGINNING JUNE 10, 2018 (Monday-Friday)",Inbound,horizontal
+466,10905,1,20180610,20180908,1,1,1,1,1,0,0,West Marin Stagecoach (South),"BEGINNING JUNE 10, 2018 (Monday-Friday)",Outbound,horizontal

@@ -1,26 +1,65 @@
 service_id,service_description
-20141214-1-STG,Weekday
-20150301-7-STG,Saturday
-20150301-8-STG,Sunday
-20150301-7-STG-PK,Saturday
-20150301-8-STG-PK,Sunday
-20170817-2,Monday
-20170817-3,Tuesday
-20170817-4,Wednesday
-20170817-5,Thursday
-20170817-6,Friday
-20170821-COM-2,Monday
-20170821-COM-3,Tuesday
-20170821-COM-4,Wednesday
-20170821-COM-5,Thursday
-20170821-COM-6,Friday
-20170910-1,Weekday
-20170910-7,Saturday
-20170910-8,Sunday
-20171110-MWS-WH,Select Weekends & Holidays
-20171210-1,Weekday
-20171210-7,Saturday
-20171210-8,Sunday
-18MARCH-11-SAT-Saturday-06,Saturday
-18MARCH-11-SUN-Sunday-09,Sunday
-18MARCH-11-WKDY-Weekday-11,Weekday
+c_6639_b_7278_d_8,"Ending June 9, 2018 (Thursday only)"
+c_6639_b_7278_d_64,"Ending June 9, 2018 (Sunday only)"
+c_6639_b_7278_d_4,"Ending June 9, 2018 (Wednesday only)"
+c_6639_b_7278_d_32,"Ending June 9, 2018 (Saturday only)"
+c_6639_b_7278_d_31,"Ending June 9, 2018 (Monday-Friday)"
+c_6639_b_7278_d_2,"Ending June 9, 2018 (Tuesday only)"
+c_6639_b_7278_d_16,"Ending June 9, 2018 (Friday only)"
+c_6639_b_7278_d_1,"Ending June 9, 2018 (Monday only)"
+c_15331_b_16147_d_8,COM 18-19 Calendar (Thursday only)
+c_15331_b_16147_d_4,COM 18-19 Calendar (Wednesday only)
+c_15331_b_16147_d_2,COM 18-19 Calendar (Tuesday only)
+c_15331_b_16147_d_16,COM 18-19 Calendar (Friday only)
+c_15331_b_16147_d_1,COM 18-19 Calendar (Monday only)
+c_15331_b_16146_d_8,COM 18-19 Calendar (Thursday only)
+c_15331_b_16146_d_4,COM 18-19 Calendar (Wednesday only)
+c_15331_b_16146_d_2,COM 18-19 Calendar (Tuesday only)
+c_15331_b_16146_d_16,COM 18-19 Calendar (Friday only)
+c_15331_b_16146_d_1,COM 18-19 Calendar (Monday only)
+c_15330_b_16142_d_8,LCMSD 18-19 Calendar (Thursday only)
+c_15330_b_16142_d_4,LCMSD 18-19 Calendar (Wednesday only)
+c_15330_b_16142_d_2,LCMSD 18-19 Calendar (Tuesday only)
+c_15330_b_16142_d_16,LCMSD 18-19 Calendar (Friday only)
+c_15330_b_16142_d_1,LCMSD 18-19 Calendar (Monday only)
+c_15330_b_16141_d_8,LCMSD 18-19 Calendar (Thursday only)
+c_15330_b_16141_d_4,LCMSD 18-19 Calendar (Wednesday only)
+c_15330_b_16141_d_2,LCMSD 18-19 Calendar (Tuesday only)
+c_15330_b_16141_d_16,LCMSD 18-19 Calendar (Friday only)
+c_15330_b_16141_d_1,LCMSD 18-19 Calendar (Monday only)
+c_15329_b_16144_d_8,SRSD 18-19 Calendar (Thursday only)
+c_15329_b_16144_d_4,SRSD 18-19 Calendar (Wednesday only)
+c_15329_b_16144_d_2,SRSD 18-19 Calendar (Tuesday only)
+c_15329_b_16144_d_16,SRSD 18-19 Calendar (Friday only)
+c_15329_b_16144_d_1,SRSD 18-19 Calendar (Monday only)
+c_15329_b_16143_d_8,SRSD 18-19 Calendar (Thursday only)
+c_15329_b_16143_d_4,SRSD 18-19 Calendar (Wednesday only)
+c_15329_b_16143_d_2,SRSD 18-19 Calendar (Tuesday only)
+c_15329_b_16143_d_16,SRSD 18-19 Calendar (Friday only)
+c_15329_b_16143_d_1,SRSD 18-19 Calendar (Monday only)
+c_15328_b_16150_d_8,Novato HS 1819 Calendar (Thursday only)
+c_15328_b_16150_d_4,Novato HS 1819 Calendar (Wednesday only)
+c_15328_b_16150_d_2,Novato HS 1819 Calendar (Tuesday only)
+c_15328_b_16150_d_16,Novato HS 1819 Calendar (Friday only)
+c_15328_b_16150_d_1,Novato HS 1819 Calendar (Monday only)
+c_15328_b_16139_d_8,Novato HS 1819 Calendar (Thursday only)
+c_15328_b_16139_d_4,Novato HS 1819 Calendar (Wednesday only)
+c_15328_b_16139_d_2,Novato HS 1819 Calendar (Tuesday only)
+c_15328_b_16139_d_16,Novato HS 1819 Calendar (Friday only)
+c_15328_b_16139_d_1,Novato HS 1819 Calendar (Monday only)
+c_15322_b_16145_d_8,THSD 18-19 School Calendar (Thursday only)
+c_15322_b_16145_d_4,THSD 18-19 School Calendar (Wednesday only)
+c_15322_b_16145_d_2,THSD 18-19 School Calendar (Tuesday only)
+c_15322_b_16145_d_16,THSD 18-19 School Calendar (Friday only)
+c_15322_b_16145_d_1,THSD 18-19 School Calendar (Monday only)
+c_15322_b_16138_d_8,THSD 18-19 School Calendar (Thursday only)
+c_15322_b_16138_d_4,THSD 18-19 School Calendar (Wednesday only)
+c_15322_b_16138_d_2,THSD 18-19 School Calendar (Tuesday only)
+c_15322_b_16138_d_16,THSD 18-19 School Calendar (Friday only)
+c_15322_b_16138_d_1,THSD 18-19 School Calendar (Monday only)
+c_15290_b_16095_d_64,61 Stagecoach Summer (Sunday only)
+c_15290_b_16095_d_32,61 Stagecoach Summer (Saturday only)
+c_15273_b_16055_d_127,Route 66 Beginning 5/28/2018 (All days of week)
+c_15272_b_16054_d_64,"BEGINNING JUNE 10, 2018 (Sunday only)"
+c_15272_b_16054_d_32,"BEGINNING JUNE 10, 2018 (Saturday only)"
+c_15272_b_16054_d_31,"BEGINNING JUNE 10, 2018 (Monday-Friday)"
