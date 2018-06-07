@@ -7,9 +7,11 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 12,10899,1,20180610,20180908,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,Westbound,horizontal,23,2
 15,10900,0,20180610,20180908,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,Eastbound,horizontal,23X,1
 16,10900,1,20180610,20180908,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,Westbound,horizontal,23X,2
+19,10903,0,20180610,20180908,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Canal,Northbound,horizontal,36,5
+20,10903,0,20180610,20180908,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Canal,Northbound,horizontal,36,3
 21,10903,0,20180610,20180908,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,Northbound,horizontal,36,1
-22,10903,1,20180610,20180908,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,Southbound,horizontal,36,4
-23,10903,1,20180610,20180908,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,Southbound,horizontal,36,3
+22,10903,1,20180610,20180908,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,Southbound,horizontal,36,6
+23,10903,1,20180610,20180908,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,Southbound,horizontal,36,4
 24,10903,1,20180610,20180908,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,Southbound,horizontal,36,2
 27,10901,0,20180610,20180908,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,Eastbound,horizontal,29,1
 28,10901,1,20180610,20180908,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,Westbound,horizontal,29,2
