@@ -1,11 +1,48 @@
 service_id,date,holiday_name,exception_type
-c_15330_b_16141_d_1,20180903,Labor Day 2018,2
-c_15329_b_16143_d_1,20180903,Labor Day 2018,2
-c_15328_b_16139_d_1,20180903,Labor Day 2018,2
-c_15322_b_16138_d_1,20180903,Labor Day 2018,2
-c_15290_b_none_d_64,20180903,Labor Day 2018,1
-c_15290_b_none_d_64,20180704,"July 4, 2018",1
-c_15272_b_none_d_64,20180903,Labor Day 2018,1
-c_15272_b_none_d_64,20180704,"July 4, 2018",1
-c_15272_b_16054_d_31,20180903,Labor Day 2018,2
-c_15272_b_16054_d_31,20180704,"July 4, 2018",2
+c_15473_b_none_d_64,20181123,Day After Thanksgiving,1
+c_15473_b_none_d_64,20181122,Thanksgiving,1
+c_15473_b_none_d_64,20181112,Veteran's Day,1
+c_15331_b_16146_d_8,20181122,Thanksgiving,2
+c_15331_b_16146_d_4,20181121,No School,2
+c_15331_b_16146_d_2,20181120,No School,2
+c_15331_b_16146_d_16,20181123,Day After Thanksgiving,2
+c_15331_b_16146_d_1,20181119,No School,2
+c_15331_b_16146_d_1,20181112,Veteran's Day,2
+c_15331_b_16146_d_1,20180903,Labor Day,2
+c_15330_b_16141_d_8,20181122,Thanksgiving,2
+c_15330_b_16141_d_4,20181121,No School,2
+c_15330_b_16141_d_4,20180919,NO School,2
+c_15330_b_16141_d_2,20181120,No School,2
+c_15330_b_16141_d_16,20181123,Day After Thanksgiving,2
+c_15330_b_16141_d_1,20181119,No School,2
+c_15330_b_16141_d_1,20181112,Veteran's Day,2
+c_15330_b_16141_d_1,20181008,No School,2
+c_15330_b_16141_d_1,20180903,Labor Day,2
+c_15329_b_16143_d_8,20181122,Thanksgiving,2
+c_15329_b_16143_d_4,20181121,No School,2
+c_15329_b_16143_d_16,20181123,Day After Thanksgiving,2
+c_15329_b_16143_d_1,20181112,Veteran's Day,2
+c_15329_b_16143_d_1,20181015,No School,2
+c_15329_b_16143_d_1,20180903,Labor Day,2
+c_15328_b_16139_d_8,20181122,Thanksgiving,2
+c_15328_b_16139_d_4,20181121,No School,2
+c_15328_b_16139_d_2,20181120,No School,2
+c_15328_b_16139_d_16,20181123,Day After Thanksgiving,2
+c_15328_b_16139_d_16,20181012,No School,2
+c_15328_b_16139_d_1,20181119,No School,2
+c_15328_b_16139_d_1,20181112,Veteran's Day,2
+c_15328_b_16139_d_1,20180903,Labor Day,2
+c_15322_b_16138_d_8,20181122,Thanksgiving,2
+c_15322_b_16138_d_4,20181121,No School,2
+c_15322_b_16138_d_4,20180919,NO School,2
+c_15322_b_16138_d_2,20181120,No School,2
+c_15322_b_16138_d_16,20181123,Day After Thanksgiving,2
+c_15322_b_16138_d_1,20181119,No School,2
+c_15322_b_16138_d_1,20181112,Veteran's Day,2
+c_15322_b_16138_d_1,20180903,Labor Day,2
+c_15272_b_none_d_64,20181123,Day After Thanksgiving,1
+c_15272_b_none_d_64,20181122,Thanksgiving,1
+c_15272_b_none_d_64,20180903,Labor Day,1
+c_15272_b_16054_d_31,20181123,Day After Thanksgiving,2
+c_15272_b_16054_d_31,20181122,Thanksgiving,2
+c_15272_b_16054_d_31,20180903,Labor Day,2

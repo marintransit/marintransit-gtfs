@@ -1,4 +1,11 @@
 service_id,service_description
+c_15473_b_16411_d_64,61 Stagecoach Winter (Sunday only)
+c_15473_b_16411_d_32,61 Stagecoach Winter (Saturday only)
+c_15331_b_16146_d_8,COM 18-19 Calendar (Thursday only)
+c_15331_b_16146_d_4,COM 18-19 Calendar (Wednesday only)
+c_15331_b_16146_d_2,COM 18-19 Calendar (Tuesday only)
+c_15331_b_16146_d_16,COM 18-19 Calendar (Friday only)
+c_15331_b_16146_d_1,COM 18-19 Calendar (Monday only)
 c_15330_b_16141_d_8,LCMSD 18-19 Calendar (Thursday only)
 c_15330_b_16141_d_4,LCMSD 18-19 Calendar (Wednesday only)
 c_15330_b_16141_d_2,LCMSD 18-19 Calendar (Tuesday only)
@@ -22,6 +29,6 @@ c_15322_b_16138_d_1,THSD 18-19 School Calendar (Monday only)
 c_15290_b_16095_d_64,61 Stagecoach Summer (Sunday only)
 c_15290_b_16095_d_32,61 Stagecoach Summer (Saturday only)
 c_15273_b_16055_d_127,Route 66 Beginning 5/28/2018 (All days of week)
-c_15272_b_16054_d_64,"BEGINNING JUNE 10, 2018 (Sunday only)"
-c_15272_b_16054_d_32,"BEGINNING JUNE 10, 2018 (Saturday only)"
-c_15272_b_16054_d_31,"BEGINNING JUNE 10, 2018 (Monday-Friday)"
+c_15272_b_16054_d_64,BEGINNING JUNE 10 2018 (Sunday only)
+c_15272_b_16054_d_32,BEGINNING JUNE 10 2018 (Saturday only)
+c_15272_b_16054_d_31,BEGINNING JUNE 10 2018 (Monday-Friday)
