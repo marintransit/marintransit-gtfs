@@ -63,16 +63,16 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 178,10915,1,20180610,20181208,0,0,1,0,0,0,0,"Southbound, Wednesday",Lucas Valley ➜ Terra Linda HS,Southbound,horizontal,139,
 179,10915,1,20180610,20181208,0,1,0,0,0,0,0,"Southbound, Tuesday",Lucas Valley ➜ Terra Linda HS,Southbound,horizontal,139,
 180,10915,1,20180610,20181208,1,0,0,0,0,0,0,"Southbound, Monday",Lucas Valley ➜ Terra Linda HS,Southbound,horizontal,139,
-201,10910,0,20180610,20181208,0,0,0,0,1,0,0,"Northbound, Friday",Marin City ➜ St Hilary School,Northbound,horizontal,115,5
-202,10910,0,20180610,20181208,0,0,0,1,0,0,0,"Northbound, Thursday",Marin City ➜ St Hilary School,Northbound,horizontal,115,4
-203,10910,0,20180610,20181208,0,0,1,0,0,0,0,"Northbound, Wednesday",Marin City ➜ St Hilary School,Northbound,horizontal,115,3
-204,10910,0,20180610,20181208,0,1,0,0,0,0,0,"Northbound, Tuesday",Marin City ➜ St Hilary School,Northbound,horizontal,115,2
-205,10910,0,20180610,20181208,1,0,0,0,0,0,0,"Northbound, Monday",Marin City ➜ St Hilary School,Northbound,horizontal,115,1
-206,10910,1,20180610,20181208,0,0,0,0,1,0,0,"Southbound, Friday",St Hilary School ➜ Marin City,Southbound,horizontal,115,10
-207,10910,1,20180610,20181208,0,0,0,1,0,0,0,"Southbound, Thursday",St Hilary School ➜ Marin City,Southbound,horizontal,115,9
-208,10910,1,20180610,20181208,0,0,1,0,0,0,0,"Southbound, Wednesday",St Hilary School ➜ Marin City,Southbound,horizontal,115,8
-209,10910,1,20180610,20181208,0,1,0,0,0,0,0,"Southbound, Tuesday",St Hilary School ➜ Marin City,Southbound,horizontal,115,7
-210,10910,1,20180610,20181208,1,0,0,0,0,0,0,"Southbound, Monday",St Hilary School ➜ Marin City,Southbound,horizontal,115,6
+201,10910,0,20180610,20181208,0,0,0,0,1,0,0,"Northbound, Friday",Marin City ➜ Strawberry,Northbound,horizontal,115,5
+202,10910,0,20180610,20181208,0,0,0,1,0,0,0,"Northbound, Thursday",Marin City ➜ Strawberry,Northbound,horizontal,115,4
+203,10910,0,20180610,20181208,0,0,1,0,0,0,0,"Northbound, Wednesday",Marin City ➜ Strawberry,Northbound,horizontal,115,3
+204,10910,0,20180610,20181208,0,1,0,0,0,0,0,"Northbound, Tuesday",Marin City ➜ Strawberry,Northbound,horizontal,115,2
+205,10910,0,20180610,20181208,1,0,0,0,0,0,0,"Northbound, Monday",Marin City ➜ Strawberry,Northbound,horizontal,115,1
+206,10910,1,20180610,20181208,0,0,0,0,1,0,0,"Southbound, Friday",Strawberry ➜ Marin City,Southbound,horizontal,115,10
+207,10910,1,20180610,20181208,0,0,0,1,0,0,0,"Southbound, Thursday",Strawberry ➜ Marin City,Southbound,horizontal,115,9
+208,10910,1,20180610,20181208,0,0,1,0,0,0,0,"Southbound, Wednesday",Strawberry ➜ Marin City,Southbound,horizontal,115,8
+209,10910,1,20180610,20181208,0,1,0,0,0,0,0,"Southbound, Tuesday",Strawberry ➜ Marin City,Southbound,horizontal,115,7
+210,10910,1,20180610,20181208,1,0,0,0,0,0,0,"Southbound, Monday",Strawberry ➜ Marin City,Southbound,horizontal,115,6
 221,10906,0,20180610,20181208,1,1,1,1,1,1,1,Muir Woods Shuttle,Route 66 Beginning 5/28/2018 (All days of week),Inbound,horizontal,,
 222,10906,1,20180610,20181208,1,1,1,1,1,1,1,Muir Woods Shuttle,Route 66 Beginning 5/28/2018 (All days of week),Outbound,horizontal,,
 225,10908,0,20180610,20181208,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,Northbound,horizontal,71X,1
