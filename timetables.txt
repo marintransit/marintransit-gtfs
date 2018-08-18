@@ -103,12 +103,12 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 286,10909,0,20180610,20181208,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Paradise Cay,Eastbound,horizontal,113,8
 287,10909,0,20180610,20181208,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood HS ➜ Paradise Cay,Eastbound,horizontal,113,7
 288,10909,0,20180610,20181208,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Paradise Cay,Eastbound,horizontal,113,6
-305,10919,0,20180610,20181208,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,5
-306,10919,0,20180610,20181208,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,3
-307,10919,0,20180610,20181208,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,1
-308,10919,1,20180610,20181208,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,6
-309,10919,1,20180610,20181208,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,4
-310,10919,1,20180610,20181208,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,2
+305,10919,0,20180610,20181208,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,6
+306,10919,0,20180610,20181208,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,4
+307,10919,0,20180610,20181208,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,2
+308,10919,1,20180610,20181208,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,5
+309,10919,1,20180610,20181208,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,3
+310,10919,1,20180610,20181208,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,1
 313,10921,0,20180610,20181208,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,Northbound,horizontal,257,1
 314,10921,1,20180610,20181208,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,Southbound,horizontal,257,2
 321,10898,0,20180610,20181208,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,Northbound,horizontal,22,5
