@@ -1,2 +1,2 @@
 feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 09-Aug-2018 23:20,,support+marin-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20180809,20190228,marin-ca-us
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 18-Sep-2018 23:31,,support+marin-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20180918,20181214,marin-ca-us
