@@ -1,11 +1,11 @@
 service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_15473_b_16411_d_64,61 Stagecoach Winter (Sunday only),0,0,0,0,0,0,1,20181101,20190228
+c_15473_b_16411_d_32,61 Stagecoach Winter (Saturday only),0,0,0,0,0,1,0,20181101,20190228
 c_15331_b_16146_d_8,18-19 School Calendar (Thursday only),0,0,0,1,0,0,0,20180820,20181214
 c_15331_b_16146_d_4,18-19 School Calendar (Wednesday only),0,0,1,0,0,0,0,20180820,20181214
 c_15331_b_16146_d_2,18-19 School Calendar (Tuesday only),0,1,0,0,0,0,0,20180820,20181214
 c_15331_b_16146_d_16,18-19 School Calendar (Friday only),0,0,0,0,1,0,0,20180820,20181214
 c_15331_b_16146_d_1,18-19 School Calendar (Monday only),1,0,0,0,0,0,0,20180820,20181214
-c_15290_b_16095_d_64,61 Stagecoach Summer (Sunday only),0,0,0,0,0,0,1,20180303,20181031
-c_15290_b_16095_d_32,61 Stagecoach Summer (Saturday only),0,0,0,0,0,1,0,20180303,20181031
 c_15272_b_16054_d_64,BEGINNING JUNE 10 2018 (Sunday only),0,0,0,0,0,0,1,20180610,20181208
 c_15272_b_16054_d_32,BEGINNING JUNE 10 2018 (Saturday only),0,0,0,0,0,1,0,20180610,20181208
 c_15272_b_16054_d_31,BEGINNING JUNE 10 2018 (Monday-Friday),1,1,1,1,1,0,0,20180610,20181208

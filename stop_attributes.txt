@@ -1,8 +1,4 @@
 stop_id,stop_city
-2451947,Novato
-2452133,Mill Valley
-2452270,Olema
-2452274,Pt Reyes Stn
 40103,Sausalito
 40473,San Anselmo
 40794,Mt Tamalpais
@@ -85,6 +81,7 @@ stop_id,stop_city
 40682,San Marin
 40683,San Marin
 40684,San Marin
+40685,Novato
 40686,Novato
 40687,Novato
 40688,Novato
@@ -270,6 +267,7 @@ stop_id,stop_city
 41316,Novato
 41317,Novato
 41318,Novato
+41319,Mill Valley
 40098,Sausalito
 40097,Sausalito
 40096,Sausalito
@@ -406,9 +404,11 @@ stop_id,stop_city
 40812,Forest Knolls
 40811,Lagunitas
 40810,Lagunitas
+40809,Olema
 40808,S P Taylor
 40807,Pt Reyes Stn
 40806,Olema
+40804,Pt Reyes Stn
 40803,Point Reyes
 40802,Inverness
 40801,Inverness
