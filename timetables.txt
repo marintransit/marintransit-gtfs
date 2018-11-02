@@ -173,10 +173,10 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 456,10907,0,20180820,20181214,0,0,0,0,0,0,1,"Eastbound, Sunday",Inverness ➜ San Rafael,Eastbound,horizontal,68,6
 457,10907,0,20180820,20181214,0,0,0,0,0,1,0,"Eastbound, Saturday",Inverness ➜ San Rafael,Eastbound,horizontal,68,4
 458,10907,0,20180820,20181214,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,Eastbound,horizontal,68,2
-461,10905,1,20180820,20181214,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Mar - Oct",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-462,10905,1,20180820,20181214,0,0,0,0,0,1,0,"Westbound, Saturday, Mar - Oct",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-463,10905,0,20180820,20181027,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Mar - Oct",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
-464,10905,0,20180820,20181027,0,0,0,0,0,1,0,"Eastbound, Saturday, Mar - Oct",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+461,10905,1,20190301,20191031,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Mar - Oct",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+462,10905,1,20190301,20191031,0,0,0,0,0,1,0,"Westbound, Saturday, Mar - Oct",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+463,10905,0,20190301,20191031,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Mar - Oct",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+464,10905,0,20190301,20191031,0,0,0,0,0,1,0,"Eastbound, Saturday, Mar - Oct",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
 465,10905,1,20180820,20181027,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
 466,10905,0,20180820,20181027,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
 467,10905,1,20181028,20190228,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Nov - Feb",Marin City ➜ Bolinas,Westbound,horizontal,61,7
