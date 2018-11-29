@@ -316,9 +316,9 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40584,40584,,Adrian Way & La Brea Way,,38.013306,-122.514198,,,0,,America/Los_Angeles,,,0
 40585,40585,,Civic Center Dr & N San Pedro Rd,,37.997349,-122.528732,,,0,,America/Los_Angeles,,,0
 40586,40586,,Civic Center Dr & N San Pedro Rd,,37.997112,-122.528999,,,0,,America/Los_Angeles,,,0
-40587,40587,,Civic Center Dr & Mcinnis Pkwy,,38.001427249979,-122.53642288695,,,0,,America/Los_Angeles,,,0
+40587,40587,,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.001427249979,-122.53642288695,,,0,,America/Los_Angeles,,,0
 40588,40588,,Adrian Way & Rosal Way,,38.012482,-122.515984,,,0,,America/Los_Angeles,,,0
-40589,40589,,Civic Center Dr & Mcinnis Pkwy,,38.001290471474,-122.5364881448,,,0,,America/Los_Angeles,,,0
+40589,40589,,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.001290471474,-122.5364881448,,,0,,America/Los_Angeles,,,0
 40590,40590,,La Pasada Way & N San Pedro Rd,,38.011005,-122.517761,,,0,,America/Los_Angeles,,,0
 40592,40592,,N San Pedro Rd & Mabry Way,,38.008553,-122.519997,,,0,,America/Los_Angeles,,,0
 40593,40593,,N San Pedro Rd & Crestview Dr,,38.009163,-122.51947,,,0,,America/Los_Angeles,,,0
@@ -493,12 +493,12 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40797,40797,,Panoramic Hwy & Muir Woods Rd,,37.89307,-122.556999,,,0,,America/Los_Angeles,,,0
 40798,40798,,Panoramic Hwy & Sequoia Valley Rd,,37.8936,-122.556999,,,0,,America/Los_Angeles,,,0
 40799,40799,,Stinson Beach Parking Lot,,37.898003,-122.64122,,,0,,America/Los_Angeles,,,0
-40800,40800,,14682 Sir Francis Drake Blvd,,38.096519,-122.851524,,,0,,America/Los_Angeles,,,0
+40800,40800,,Inverness Store,,38.096519,-122.851524,,,0,,America/Los_Angeles,,,0
 40801,40801,,Sir Francis Drake Blvd & Balboa Av,,38.063099,-122.820641,,,0,,America/Los_Angeles,,,0
 40802,40802,,Sir Francis Drake Blvd & Balboa Av,,38.062881,-122.820015,,,0,,America/Los_Angeles,,,0
 40803,40803,,Bear Valley Visitor Center,,38.04187,-122.799416,,,0,,America/Los_Angeles,,,0
 40806,40806,,Shoreline Hwy & Sir Francis Drake Blvd,,38.044006,-122.789749,,,0,,America/Los_Angeles,,,0
-40807,40807,,Shoreline Hwy & Sir Francis Drake Blvd,,38.067871,-122.805611,,,0,,America/Los_Angeles,,,0
+40807,40807,,Pt Reyes Downtown-Shoreline Hwy & 3rd St,,38.067871,-122.805611,,,0,,America/Los_Angeles,,,0
 40808,40808,,Sir Francis Drake Blvd & Samuel P Taylor Park,,38.019627,-122.729507,,,0,,America/Los_Angeles,,,0
 40810,40810,,Sir Francis Drake Blvd & W Cintura Av,,38.012344,-122.701393,,,0,,America/Los_Angeles,,,0
 40811,40811,,Sir Francis Drake Blvd & W Cintura Av,,38.011963,-122.70211,,,0,,America/Los_Angeles,,,0

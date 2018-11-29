@@ -1,9 +1,19 @@
 service_id,date,holiday_name,exception_type
-c_15331_b_16146_d_8,20181122,Thanksgiving,2
-c_15331_b_16146_d_4,20181121,No School,2
-c_15331_b_16146_d_2,20181120,No School,2
-c_15331_b_16146_d_16,20181123,Day After Thanksgiving,2
-c_15331_b_16146_d_1,20181119,No School,2
-c_15331_b_16146_d_1,20181112,Veteran's Day,2
-c_15272_b_16054_d_31,20181123,Day After Thanksgiving,2
-c_15272_b_16054_d_31,20181122,Thanksgiving,2
+c_16159_b_none_d_64,20190218,President's Day,1
+c_16159_b_none_d_64,20190101,New Years Day,1
+c_16159_b_none_d_64,20181225,Christmas,1
+c_16159_b_17838_d_31,20190218,President's Day,2
+c_16159_b_17838_d_31,20190101,New Years Day,2
+c_16159_b_17838_d_31,20181225,Christmas,2
+c_15473_b_none_d_64,20190218,President's Day,1
+c_15473_b_none_d_64,20190121,MLK Day,1
+c_15473_b_none_d_64,20190101,New Years Day,1
+c_15473_b_none_d_64,20181225,Christmas,1
+c_15331_b_17845_d_1,20190218,President's Day,2
+c_15331_b_17845_d_1,20190121,MLK Day,2
+c_15331_b_17844_d_1,20190218,President's Day,2
+c_15331_b_17844_d_1,20190121,MLK Day,2
+c_15331_b_17839_d_1,20190218,President's Day,2
+c_15331_b_17839_d_1,20190121,MLK Day,2
+c_15331_b_16146_d_1,20190218,President's Day,2
+c_15331_b_16146_d_1,20190121,MLK Day,2
