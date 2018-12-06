@@ -9,11 +9,11 @@ c_15473_b_none_d_64,20190218,President's Day,1
 c_15473_b_none_d_64,20190121,MLK Day,1
 c_15473_b_none_d_64,20190101,New Years Day,1
 c_15473_b_none_d_64,20181225,Christmas,1
-c_15331_b_17845_d_1,20190218,President's Day,2
-c_15331_b_17845_d_1,20190121,MLK Day,2
-c_15331_b_17844_d_1,20190218,President's Day,2
-c_15331_b_17844_d_1,20190121,MLK Day,2
-c_15331_b_17839_d_1,20190218,President's Day,2
-c_15331_b_17839_d_1,20190121,MLK Day,2
-c_15331_b_16146_d_1,20190218,President's Day,2
+c_15331_b_17960_d_1,20190121,MLK Day,2
+c_15331_b_17960_d_0,20190218,President's Day,2
+c_15331_b_17959_d_1,20190121,MLK Day,2
+c_15331_b_17959_d_0,20190218,President's Day,2
+c_15331_b_17958_d_1,20190121,MLK Day,2
+c_15331_b_17958_d_0,20190218,President's Day,2
 c_15331_b_16146_d_1,20190121,MLK Day,2
+c_15331_b_16146_d_0,20190218,President's Day,2
