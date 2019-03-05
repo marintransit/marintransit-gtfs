@@ -17,8 +17,6 @@ c_16623_b_19014_d_31,March 2019 SIGNUP (Monday-Friday),1,1,1,1,1,0,0,20190310,20
 c_16159_b_17838_d_64,December 2018 SIGNUP (Sunday only),0,0,0,0,0,0,1,20181209,20190309
 c_16159_b_17838_d_32,December 2018 SIGNUP (Saturday only),0,0,0,0,0,1,0,20181209,20190309
 c_16159_b_17838_d_31,December 2018 SIGNUP (Monday-Friday),1,1,1,1,1,0,0,20181209,20190309
-c_15473_b_16411_d_64,61 Stagecoach Winter (Sunday only),0,0,0,0,0,0,1,20181101,20190228
-c_15473_b_16411_d_32,61 Stagecoach Winter (Saturday only),0,0,0,0,0,1,0,20181101,20190228
 c_15331_b_17960_d_8,18-19 School Calendar (Thursday only),0,0,0,1,0,0,0,20180820,20190309
 c_15331_b_17960_d_4,18-19 School Calendar (Wednesday only),0,0,1,0,0,0,0,20180820,20190309
 c_15331_b_17960_d_2,18-19 School Calendar (Tuesday only),0,1,0,0,0,0,0,20180820,20190309
