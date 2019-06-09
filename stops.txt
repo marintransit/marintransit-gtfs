@@ -11,7 +11,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40099,40099,,Bridgeway & Turney St,,37.859657,-122.485893,,,0,,America/Los_Angeles,,,0
 40100,40100,,Bridgeway & Caledonia Av,,37.85844,-122.482864,,,0,,America/Los_Angeles,,,0
 40103,40103,,Bay St & Bridgeway,,37.857136,-122.480469,,,0,,America/Los_Angeles,,,0
-40113,40113,,Marin City Hub,Donahue St & Terners Dr,37.871777,-122.51107,,,0,,America/Los_Angeles,,,0
+40113,40113,Northbound,Marin City Hub,Donahue St & Terners Dr,37.871777,-122.51107,,,0,,America/Los_Angeles,,,0
 40119,40119,,Drake Av & Donahue St,,37.873573,-122.512428,,,0,,America/Los_Angeles,,,0
 40121,40121,,Drake Av & Buckelew St,,37.873188,-122.515495,,,0,,America/Los_Angeles,,,0
 40123,40123,,Drake Av & Cole Dr,,37.868507,-122.510674,,,0,,America/Los_Angeles,,,0
@@ -24,7 +24,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40133,40133,,E Blithedale Ave & Mesa Ave,,37.90184,-122.532654,,,0,,America/Los_Angeles,,,0
 40134,40134,,E Blithedale Ave & Nelson Ave,,37.900665,-122.529938,,,0,,America/Los_Angeles,,,0
 40135,40135,,E Blithedale Ave & Alta Vista Ave,,37.903568,-122.536354,,,0,,America/Los_Angeles,,,0
-401353,401353,,Lagoon Rd & Peacock Dr,,37.9841849542251,-122.469984139945,,,0,,America/Los_Angeles,,,0
+401353,401353,,Lagoon Rd & Peacock Dr,,37.98418495,-122.4699841,,,0,,America/Los_Angeles,,,0
 40136,40136,,E Blithedale Ave & Hilarita Ave,,37.901711,-122.532631,,,0,,America/Los_Angeles,,,0
 40137,40137,,E Blithedale Ave & East Dr,,37.903824,-122.538353,,,0,,America/Los_Angeles,,,0
 40138,40138,,E Blithedale Ave & Elm Ave,,37.902077,-122.533493,,,0,,America/Los_Angeles,,,0
@@ -134,8 +134,8 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40302,40302,,Magnolia Ave & Bon Air Rd,,37.943386,-122.54071,,,0,,America/Los_Angeles,,,0
 40303,40303,,Magnolia Av & Ward St,,37.935879,-122.535301,,,0,,America/Los_Angeles,,,0
 40304,40304,,Magnolia Av & Ward St,,37.936192,-122.535118,,,0,,America/Los_Angeles,,,0
-40305,40305,,Magnolia Av & Madrone Av,,37.932614047446,-122.53611686334,,,0,,America/Los_Angeles,,,0
-40306,40306,,Magnolia Av & Madrone Av,,37.932976369311,-122.53590873681,,,0,,America/Los_Angeles,,,0
+40305,40305,,Magnolia Av & Madrone Av,,37.93261405,-122.5361169,,,0,,America/Los_Angeles,,,0
+40306,40306,,Magnolia Av & Madrone Av,,37.93297637,-122.5359087,,,0,,America/Los_Angeles,,,0
 40307,40307,,Magnolia Av & Park Way,,37.929344,-122.53389,,,0,,America/Los_Angeles,,,0
 40308,40308,,Magnolia Av & Alexander Av,,37.929466,-122.533928,,,0,,America/Los_Angeles,,,0
 40309,40309,,Doherty Dr & Larkspur Plaza Dr,,37.938156,-122.532867,,,0,,America/Los_Angeles,,,0
@@ -167,10 +167,10 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40341,40341,,Ross Sir Francis Drake Blvd & Lagunitas Rd,,37.962559,-122.555847,,,0,,America/Los_Angeles,,,0
 40342,40342,,Ross Sir Francis Drake Blvd & Lagunitas Rd,,37.96294,-122.556046,,,0,,America/Los_Angeles,,,0
 40349,40349,,Colg of Marin-College Ave & Sir Francis Drake Blvd,,37.954258,-122.54863,,,0,,America/Los_Angeles,,,0
-40355,40355,,Pt San Pedro Rd & Knight Dr,,37.9810992388373,-122.47431927954,,,0,,America/Los_Angeles,,,0
-40361,40361,, Pt San Pedro Rd & Lochinvar Rd,,37.9743202562036,-122.485000012747,,,0,,America/Los_Angeles,,,0
-40362,40362,,Pt San Pedro Rd & Loch Lomond Dr,,37.9744413357001,-122.484196495023,,,0,,America/Los_Angeles,,,0
-40368,40368,,Pt San Pedro Rd & Main Dr,,37.979187024479,-122.475180919975,,,0,,America/Los_Angeles,,,0
+40355,40355,,Pt San Pedro Rd & Knight Dr,,37.98109924,-122.4743193,,,0,,America/Los_Angeles,,,0
+40361,40361,, Pt San Pedro Rd & Lochinvar Rd,,37.97432026,-122.485,,,0,,America/Los_Angeles,,,0
+40362,40362,,Pt San Pedro Rd & Loch Lomond Dr,,37.97444134,-122.4841965,,,0,,America/Los_Angeles,,,0
+40368,40368,,Pt San Pedro Rd & Main Dr,,37.97918702,-122.4751809,,,0,,America/Los_Angeles,,,0
 40390,40390,,Lincoln Ave & Wilson Ct,,37.986759,-122.526596,,,0,,America/Los_Angeles,,,0
 40391,40391,,Lincoln Ave & Wilson Ct,,37.986877,-122.526527,,,0,,America/Los_Angeles,,,0
 40392,40392,,Lincoln Ave & Grand Ave,,37.98373,-122.524635,,,0,,America/Los_Angeles,,,0
@@ -209,7 +209,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40427,40427,,4th St & Court St,,37.973133,-122.527283,,,0,,America/Los_Angeles,,,0
 40428,40428,,4th St & Court St,,37.972992,-122.526878,,,0,,America/Los_Angeles,,,0
 40429,40429,,3rd St & Grand Ave,,37.971031,-122.519012,,,0,,America/Los_Angeles,,,0
-40430,40430,,San Rafael Transit Center,3rd & Hetherton,37.971081,-122.523102,,,0,,America/Los_Angeles,,,0
+40430,40430,,San Rafael Transit Center,3rd & Hetherton,37.971081,-122.523102,,,1,,America/Los_Angeles,,,0
 40445,40445,,Kerner Blvd & Canal St,,37.96788,-122.49971,,,0,,America/Los_Angeles,,,0
 40446,40446,,Kerner Blvd & Canal St,,37.967892,-122.499451,,,0,,America/Los_Angeles,,,0
 40449,40449,,Medway Rd & Francisco Blvd E,,37.9631,-122.510101,,,0,,America/Los_Angeles,,,0
@@ -316,9 +316,9 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40584,40584,,Adrian Way & La Brea Way,,38.013306,-122.514198,,,0,,America/Los_Angeles,,,0
 40585,40585,,Civic Center Dr & N San Pedro Rd,,37.997349,-122.528732,,,0,,America/Los_Angeles,,,0
 40586,40586,,Civic Center Dr & N San Pedro Rd,,37.997112,-122.528999,,,0,,America/Los_Angeles,,,0
-40587,40587,,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.001427249979,-122.53642288695,,,0,,America/Los_Angeles,,,0
+40587,40587,,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.00142725,-122.5364229,,,0,,America/Los_Angeles,,,0
 40588,40588,,Adrian Way & Rosal Way,,38.012482,-122.515984,,,0,,America/Los_Angeles,,,0
-40589,40589,,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.001290471474,-122.5364881448,,,0,,America/Los_Angeles,,,0
+40589,40589,,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.00129047,-122.5364881,,,0,,America/Los_Angeles,,,0
 40590,40590,,La Pasada Way & N San Pedro Rd,,38.011005,-122.517761,,,0,,America/Los_Angeles,,,0
 40592,40592,,N San Pedro Rd & Mabry Way,,38.008553,-122.519997,,,0,,America/Los_Angeles,,,0
 40593,40593,,N San Pedro Rd & Crestview Dr,,38.009163,-122.51947,,,0,,America/Los_Angeles,,,0
@@ -473,7 +473,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40773,40773,,Hwy 101@ Alameda Del Prado Bus Pad,,38.049078,-122.532407,,,0,,America/Los_Angeles,,,0
 40774,40774,,Nave Dr & Hamilton Pkwy,,38.061943,-122.532875,,,0,,America/Los_Angeles,,,0
 40777,40777,,Rowland Blvd & Redwood Blvd,,38.091152,-122.56105,,,0,,America/Los_Angeles,,,0
-40778,40778,,Rowland Blvd & S Novato Blvd,,38.08802,-122.564926,,,0,,America/Los_Angeles,,,0
+40778,40778,,Rowland Blvd & S Novato Blvd,,38.08822952,-122.5645624,,,0,,America/Los_Angeles,,,0
 40779,40779,,Hwy 101 @ Rowland Blvd Bus Pad,,38.09129,-122.560844,,,0,,America/Los_Angeles,,,0
 40780,40780,,Hwy 101 @ Rowland Blvd Bus Pad,,38.093587,-122.558201,,,0,,America/Los_Angeles,,,0
 40781,40781,,4810 Shoreline Hwy,,37.898464,-122.639961,,,0,,America/Los_Angeles,,,0
@@ -496,7 +496,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 40800,40800,,Inverness Store,,38.096519,-122.851524,,,0,,America/Los_Angeles,,,0
 40801,40801,,Sir Francis Drake Blvd & Balboa Av,,38.063099,-122.820641,,,0,,America/Los_Angeles,,,0
 40802,40802,,Sir Francis Drake Blvd & Balboa Av,,38.062881,-122.820015,,,0,,America/Los_Angeles,,,0
-40803,40803,,Bear Valley Visitor Center,,38.04187,-122.799416,,,0,,America/Los_Angeles,,,0
+40803,40803,,Bear Valley Visitor Center,,38.04103191,-122.7999982,,,0,,America/Los_Angeles,,,0
 40806,40806,,Shoreline Hwy & Sir Francis Drake Blvd,,38.044006,-122.789749,,,0,,America/Los_Angeles,,,0
 40807,40807,,Pt Reyes Downtown-Shoreline Hwy & 3rd St,,38.067871,-122.805611,,,0,,America/Los_Angeles,,,0
 40808,40808,,Sir Francis Drake Blvd & Samuel P Taylor Park,,38.019627,-122.729507,,,0,,America/Los_Angeles,,,0
@@ -586,3 +586,9 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 42130,42130,,Belvedere Dr & Redwood Hwy Frontage Rd,,37.897598,-122.514671,,,0,,America/Los_Angeles,,,0
 42131,42131,,N San Pedro Rd & La Pasada Way,,38.010868,-122.517319,,,0,,America/Los_Angeles,,,0
 42146,42146,,Redwood High School,,37.937679,-122.523384,,,0,,America/Los_Angeles,,,0
+44001,44001,Platform B (east),San Rafael Transit Center,,37.97096487,-122.5226339,,,0,40430,,,,1
+44002,44002,Platform A (east),San Rafael Transit Center,,37.97081889,-122.5224366,,,0,40430,,,,1
+44003,44003,Platform B (west),San Rafael Transit Center,,37.97128893,-122.5226742,,,0,40430,,,,0
+44005,44005,Platform A (west),San Rafael Transit Center,,37.97124918,-122.5224165,,,0,40430,,,,1
+44006,44006,Platform C,San Rafael Transit Center,,37.97106552,-122.5228645,,,0,40430,,,,1
+44113,44113,Southbound,Marin City Hub,,37.87224015,-122.5115509,,,0,,America/Los_Angeles,,,1

@@ -1,14 +1,7 @@
 service_id,date,holiday_name,exception_type
-c_16646_b_19065_d_8,20190411,No School,2
-c_16646_b_19065_d_4,20190410,No School,2
-c_16646_b_19065_d_2,20190409,No School,2
-c_16646_b_19065_d_16,20190412,No School,2
-c_16646_b_19065_d_1,20190527,Memorial Day,2
-c_16646_b_19065_d_1,20190408,No School,2
-c_16624_b_19016_d_8,20190328,Spring Break,2
-c_16624_b_19016_d_4,20190320,Spring Break,2
-c_16624_b_19016_d_2,20190319,Spring Break,2
-c_16624_b_19016_d_16,20190329,Spring Break,2
-c_16624_b_19016_d_1,20190318,Spring Break,2
-c_16623_b_none_d_64,20190527,Memorial Day,1
-c_16623_b_19014_d_31,20190527,Memorial Day,2
+c_17177_b_none_d_64,20190902,Labor Day 2019,1
+c_17177_b_none_d_64,20190704,July 4 2019,1
+c_17177_b_20248_d_31,20190902,Labor Day 2019,2
+c_17177_b_20248_d_31,20190704,July 4 2019,2
+c_16625_b_none_d_64,20190902,Labor Day 2019,1
+c_16625_b_none_d_64,20190704,July 4 2019,1

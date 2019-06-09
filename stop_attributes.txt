@@ -586,3 +586,5 @@ stop_id,stop_city
 401353,San Rafael
 40355,San Rafael
 40361,San Rafael
+44005,San Rafael
+44002,San Rafael
