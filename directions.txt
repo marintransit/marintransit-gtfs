@@ -1,4 +1,6 @@
 route_id,direction_id,direction
+14125,1,South
+14125,0,North
 10924,1,West
 10924,0,East
 10923,1,South
