@@ -1,16 +1,1 @@
-service_id,date,holiday_name,exception_type
-c_17830_b_22053_d_64,20190902,Labor Day,1
-c_16625_b_19017_d_64,20190902,Labor Day,1
-c_17830_b_22053_d_31,20190902,Labor Day,2
-c_17828_b_22051_d_1,20190902,Labor Day,2
-c_17829_b_22052_d_1,20190902,Labor Day,2
-c_17830_b_22053_d_64,20191128,Thanksgiving Day,1
-c_16625_b_19017_d_64,20191128,Thanksgiving Day,1
-c_17830_b_22053_d_31,20191128,Thanksgiving Day,2
-c_17828_b_22051_d_8,20191128,Thanksgiving Day,2
-c_17829_b_22052_d_8,20191128,Thanksgiving Day,2
-c_17830_b_22053_d_64,20191129,Day After Thanksgiving,1
-c_16625_b_19017_d_64,20191129,Day After Thanksgiving,1
-c_17828_b_22051_d_16,20191129,Day After Thanksgiving,2
-c_17829_b_22052_d_16,20191129,Day After Thanksgiving,2
-c_17830_b_22053_d_31,20191129,Day After Thanksgiving,2
+date,service_id,holiday_name,exception_type

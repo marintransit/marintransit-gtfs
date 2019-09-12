@@ -2,15 +2,10 @@ service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday
 c_17830_b_22053_d_64,September 2019 SIGNUP (Sunday only),0,0,0,0,0,0,1,20190813,20191207
 c_17830_b_22053_d_32,September 2019 SIGNUP (Saturday only),0,0,0,0,0,1,0,20190813,20191207
 c_17830_b_22053_d_31,September 2019 SIGNUP (Weekday),1,1,1,1,1,0,0,20190813,20191207
-c_17829_b_22052_d_8,COM Fall 2019 (Thurday only),0,0,0,1,0,0,0,20190819,20191213
-c_17829_b_22052_d_4,COM Fall 2019 (Wednesday only),0,0,1,0,0,0,0,20190819,20191213
-c_17829_b_22052_d_2,COM Fall 2019 (Tuesday only),0,1,0,0,0,0,0,20190819,20191213
-c_17829_b_22052_d_16,COM Fall 2019 (Friday only),0,0,0,0,1,0,0,20190819,20191213
-c_17829_b_22052_d_1,COM Fall 2019 (Monday only),1,0,0,0,0,0,0,20190819,20191213
-c_17828_b_22051_d_8,19-20 Fall School Calendar (Thurday only),0,0,0,1,0,0,0,20190821,20191220
-c_17828_b_22051_d_4,19-20 Fall School Calendar (Wednesday only),0,0,1,0,0,0,0,20190821,20191220
-c_17828_b_22051_d_2,19-20 Fall School Calendar (Tuesday only),0,1,0,0,0,0,0,20190821,20191220
-c_17828_b_22051_d_16,19-20 Fall School Calendar (Friday only),0,0,0,0,1,0,0,20190821,20191220
-c_17828_b_22051_d_1,19-20 Fall School Calendar (Monday only),1,0,0,0,0,0,0,20190821,20191220
+c_17828_b_22051_d_8,19-20 Fall School Calendar (Thurday only),0,0,0,1,0,0,0,20190819,20191220
+c_17828_b_22051_d_4,19-20 Fall School Calendar (Wednesday only),0,0,1,0,0,0,0,20190819,20191220
+c_17828_b_22051_d_2,19-20 Fall School Calendar (Tuesday only),0,1,0,0,0,0,0,20190819,20191220
+c_17828_b_22051_d_16,19-20 Fall School Calendar (Friday only),0,0,0,0,1,0,0,20190819,20191220
+c_17828_b_22051_d_1,19-20 Fall School Calendar (Monday only),1,0,0,0,0,0,0,20190819,20191220
 c_16625_b_19017_d_64,61 Stagecoach 2019 Summer (Sunday only),0,0,0,0,0,0,1,20190801,20191031
 c_16625_b_19017_d_32,61 Stagecoach 2019 Summer (Saturday only),0,0,0,0,0,1,0,20190801,20191031
