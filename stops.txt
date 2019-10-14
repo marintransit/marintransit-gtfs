@@ -251,7 +251,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 3883199,40355,,Pt San Pedro Rd & Knight Dr,,37.9810992388373,-122.47431927954,,,0,,America/Los_Angeles,,,0
 3883200,40361,, Pt San Pedro Rd & Lochinvar Rd,,37.9743202562036,-122.485000012747,,,0,,America/Los_Angeles,,,0
 3883758,40362,,Pt San Pedro Rd & Loch Lomond Dr,,37.9744413357001,-122.484196495023,,,0,,America/Los_Angeles,,,0
-3883759,40368,,Pt San Pedro Rd & Main Dr,,37.979187024479,-122.475180919975,,,0,,America/Los_Angeles,,,0
+3883759,40358,,Pt San Pedro Rd & Main Dr,,37.979187024479,-122.475180919975,,,0,,America/Los_Angeles,,,0
 398213,40799,,Stinson Beach Parking Lot,,37.898003,-122.64122,,,0,,America/Los_Angeles,,,0
 445900,40121,,Drake Av & Buckelew St,,37.873188,-122.515495,,,0,,America/Los_Angeles,,,0
 445901,40125,,Drake Av & Donahue St,,37.870155,-122.508797,,,0,,America/Los_Angeles,,,0
@@ -445,7 +445,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 483976,40542,,Del Ganado Rd & Las Ovejas Av,,38.016109,-122.566864,,,0,,America/Los_Angeles,,,0
 483977,40544,,Del Ganado Rd & Las Raposas Rd,,38.014542,-122.560753,,,0,,America/Los_Angeles,,,0
 483987,40635,,Miller Creek Rd & Quietwood Dr,,38.030987,-122.552223,,,0,,America/Los_Angeles,,,0
-483988,41047,,Redwood Blvd & Rush Creek Place,,38.116051,-122.567154,,,0,,America/Los_Angeles,,,0
+483988,41047,,Redwood Blvd & Rush Creek Place,,38.1158896403231,-122.566997298482,,,0,,America/Los_Angeles,,,0
 483989,40655,,San Marin Dr & Redwood Blvd,,38.118519,-122.567162,,,0,,America/Los_Angeles,,,0
 483990,41048,,San Marin Dr & East Campus Dr,,38.120502,-122.569038,,,0,,America/Los_Angeles,,,0
 483991,41074,,San Marin Dr & West Campus Dr,,38.121288,-122.574928,,,0,,America/Los_Angeles,,,0
@@ -549,6 +549,11 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 526438,40428,,4th St & Court St,,37.972992,-122.526878,,,0,,America/Los_Angeles,,,0
 526446,40622,,Mount Lassen Dr & Lucas Valley Rd,,38.025448,-122.568855,,,0,,America/Los_Angeles,,,0
 526451,40767,,Nave Dr & Roblar Dr,,38.063648,-122.534363,,,0,,America/Los_Angeles,,,0
+5364574,41172,,Seventh St & Novato Blvd,,38.1071553204184,-122.578578889067,,,0,,America/Los_Angeles,,,1
+5365063,42147,,Novato San Marin SMART Station,,38.1206215737361,-122.566246210763,,,0,,America/Los_Angeles,,,1
+5365329 ,41046,,Redwood Blvd & Escallonia Dr,,38.1158378293238,-122.567514802252,,,0,,America/Los_Angeles,,,1
+5387876,41361,,Sir Francis Drake Blvd & Bank St,,37.9751904291524,-122.561915851566,,,0,,America/Los_Angeles,,,0
+5388034,41360,,Sir Francis Drake Blvd & Bank St,,37.975614743098,-122.561607440103,,,0,,America/Los_Angeles,,,1
 648954,40184,,Redwood Hwy Frontage Rd & De Silva Island Dr,,37.889215,-122.516222,,,0,,America/Los_Angeles,,,0
 649926,40784,,Castro St (W) & Sir Francis Drake Blvd,,38.01413,-122.695572,,,0,,America/Los_Angeles,,,0
 649928,40813,,Sir Francis Drake Blvd & Tamal Rd,,38.015358,-122.688744,,,0,,America/Los_Angeles,,,0
