@@ -1,1 +1,22 @@
-date,service_id,holiday_name,exception_type
+service_id,date,holiday_name,exception_type
+c_18057_b_22692_d_8,20191128,Thanksgiving Day,2
+c_18057_b_22692_d_16,20191129,Day After Thanksgiving 2019,2
+c_18019_b_none_d_64,20200217,Presidents Day,1
+c_18019_b_none_d_64,20200101,New Years Day,1
+c_18019_b_none_d_64,20191225,Christmas,1
+c_18019_b_22587_d_31,20200217,Presidents Day,2
+c_18019_b_22587_d_31,20200101,New Years Day,2
+c_18019_b_22587_d_31,20191225,Christmas,2
+c_18019_b_22587_d_31,20191129,Day After Thanksgiving 2019,2
+c_18019_b_22587_d_31,20191128,Thanksgiving Day,2
+c_17830_b_none_d_64,20191129,Day After Thanksgiving 2019,1
+c_17830_b_none_d_64,20191128,Thanksgiving Day,1
+c_17830_b_22053_d_31,20191129,Day After Thanksgiving 2019,2
+c_17830_b_22053_d_31,20191128,Thanksgiving Day,2
+c_17828_b_22051_d_8,20191128,Thanksgiving Day,2
+c_17828_b_22051_d_16,20191129,Day After Thanksgiving 2019,2
+c_15473_b_none_d_64,20200217,Presidents Day,1
+c_15473_b_none_d_64,20200101,New Years Day,1
+c_15473_b_none_d_64,20191225,Christmas,1
+c_15473_b_none_d_64,20191129,Day After Thanksgiving 2019,1
+c_15473_b_none_d_64,20191128,Thanksgiving Day,1

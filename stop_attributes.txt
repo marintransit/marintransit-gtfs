@@ -2,6 +2,7 @@ stop_id,stop_city
 451022,Sausalito
 232723,San Anselmo
 235571,Mt Tamalpais
+498085,Ross
 232712,San Anselmo
 233818,San Anselmo
 232707,San Anselmo
@@ -532,7 +533,6 @@ stop_id,stop_city
 498089,Kentfield
 445927,Kentfield
 445926,Kentfield
-498085,Ross
 498080,Ross
 445929,Kentfield
 350697,San Rafael
@@ -588,3 +588,8 @@ stop_id,stop_city
 3883200,San Rafael
 4891560,San Rafael
 4890417,San Rafael
+5365329 ,Novato
+5365063,Novato
+5364574,Novato
+5388034,San Anselmo
+5387876,San Anselmo

@@ -12,7 +12,7 @@ agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_
 849,10915,139,Lucas Valley - Terra Linda HS, ,3,http://www.marintransit.org/routes/139.html,F89838,FFFFFF,18,,0
 849,10916,145,San Rafael - Terra Linda HS, ,3,http://www.marintransit.org/routes/145.html,F89838,FFFFFF,19,,0
 849,10899,23,Canal - Fairfax, ,3,http://www.marintransit.org/routes/23.html,53A946,FFFFFF,2,,0
-849,14125,149,Hamilton-Downtown Novato,,3,https://marintransit.org/routes/149,fdaa00,000000,20,,0
+849,14125,149,Hamilton-Downtown Novato,,3,https://marintransit.org/routes/149,fdaa00,ffffff,20,,0
 849,10917,151,Hamilton - San Marin HS, ,3,http://www.marintransit.org/routes/151.html,F89838,FFFFFF,21,,0
 849,10918,154,Olive - Novato, ,3,http://www.marintransit.org/routes/154.html,F89838,FFFFFF,22,,0
 849,10924,219,Tiburon - Strawberry, ,3,http://www.marintransit.org/routes/219.html,A5C73C,FFFFFF,23,,0
