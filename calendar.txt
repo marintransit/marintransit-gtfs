@@ -7,13 +7,5 @@ c_18057_b_22692_d_1,19-20 Fall School Calendar_v2 (Monday only),1,0,0,0,0,0,0,20
 c_18019_b_22587_d_64,December 2019 SIGNUP (Sunday only),0,0,0,0,0,0,1,20191208,20200307
 c_18019_b_22587_d_32,December 2019 SIGNUP (Saturday only),0,0,0,0,0,1,0,20191208,20200307
 c_18019_b_22587_d_31,December 2019 SIGNUP (Weekday),1,1,1,1,1,0,0,20191208,20200307
-c_17830_b_22053_d_64,September 2019 SIGNUP (Sunday only),0,0,0,0,0,0,1,20191014,20191207
-c_17830_b_22053_d_32,September 2019 SIGNUP (Saturday only),0,0,0,0,0,1,0,20191014,20191207
-c_17830_b_22053_d_31,September 2019 SIGNUP (Weekday),1,1,1,1,1,0,0,20191014,20191207
-c_17828_b_22051_d_8,19-20 Fall School Calendar (Thurday only),0,0,0,1,0,0,0,20190819,20191207
-c_17828_b_22051_d_4,19-20 Fall School Calendar (Wednesday only),0,0,1,0,0,0,0,20190819,20191207
-c_17828_b_22051_d_2,19-20 Fall School Calendar (Tuesday only),0,1,0,0,0,0,0,20190819,20191207
-c_17828_b_22051_d_16,19-20 Fall School Calendar (Friday only),0,0,0,0,1,0,0,20190819,20191207
-c_17828_b_22051_d_1,19-20 Fall School Calendar (Monday only),1,0,0,0,0,0,0,20190819,20191207
 c_15473_b_22879_d_64,61 Stagecoach Winter (Sunday only),0,0,0,0,0,0,1,20191101,20200229
 c_15473_b_22879_d_32,61 Stagecoach Winter (Saturday only),0,0,0,0,0,1,0,20191101,20200229
