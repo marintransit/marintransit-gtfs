@@ -1,11 +1,4 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_18057_b_22692_d_8,19-20 Fall School Calendar_v2 (Thurday only),0,0,0,1,0,0,0,20191208,20191220
-c_18057_b_22692_d_4,19-20 Fall School Calendar_v2 (Wednesday only),0,0,1,0,0,0,0,20191208,20191220
-c_18057_b_22692_d_2,19-20 Fall School Calendar_v2 (Tuesday only),0,1,0,0,0,0,0,20191208,20191220
-c_18057_b_22692_d_16,19-20 Fall School Calendar_v2 (Friday only),0,0,0,0,1,0,0,20191208,20191220
-c_18057_b_22692_d_1,19-20 Fall School Calendar_v2 (Monday only),1,0,0,0,0,0,0,20191208,20191220
-c_18019_b_22587_d_64,December 2019 SIGNUP (Sunday only),0,0,0,0,0,0,1,20191208,20200307
-c_18019_b_22587_d_32,December 2019 SIGNUP (Saturday only),0,0,0,0,0,1,0,20191208,20200307
-c_18019_b_22587_d_31,December 2019 SIGNUP (Weekday),1,1,1,1,1,0,0,20191208,20200307
-c_15473_b_22879_d_64,61 Stagecoach Winter (Sunday only),0,0,0,0,0,0,1,20191101,20200229
-c_15473_b_22879_d_32,61 Stagecoach Winter (Saturday only),0,0,0,0,0,1,0,20191101,20200229
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+Mon - Fri_Dec19,1,1,1,1,1,0,0,20191208,20200613
+SunHol_Dec19,0,0,0,0,0,0,1,20191208,20200613
+Sat_Dec19,0,0,0,0,0,1,0,20191208,20200613
