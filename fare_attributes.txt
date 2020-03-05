@@ -1,5 +1,2 @@
 fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
 Adult Fare,2,USD,0,2,849,7200
-Youth Fare,1,USD,0,2,849,7200
-Senior Fare,1,USD,0,2,849,7200
-ADA,1,USD,0,2,849,7200
