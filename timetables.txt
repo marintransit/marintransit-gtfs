@@ -5,5 +5,5 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 30,117,0,20200810,20200913,1,1,1,1,1,0,0,"Eastbound, Mondat - Friday",Hall MS ➜ E Corte Madera,Eastbound,horizontal,117,2
 193,135,0,20200810,20200913,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ San Rafael Transit Center,Northbound,horizontal,135,1
 194,135,1,20200810,20200913,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ Canal,Southbound,horizontal,135,2
-195,171,0,20200810,20200913,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato ➜ Sausilito,Northbound,horizontal,171,1
-196,171,1,20200810,20200913,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Sausilito ➜ Novato,Southbound,horizontal,171,2
+195,171,0,20200810,20200913,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausilito ➜ Novato,Northbound,horizontal,171,1
+196,171,1,20200810,20200913,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausilito,Southbound,horizontal,171,2
