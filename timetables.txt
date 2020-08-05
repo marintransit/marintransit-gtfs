@@ -1,9 +1,9 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_name,orientation,timetable_page_id,timetable_sequence
-23,122,0,20200810,20200913,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,1
-24,122,1,20200810,20200913,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,2
-25,117,1,20200810,20200913,1,1,1,1,1,0,0,"Westbound, Monday - Friday",E Corte Madera ➜ Hall MS,Westbound,horizontal,117,1
-30,117,0,20200810,20200913,1,1,1,1,1,0,0,"Eastbound, Mondat - Friday",Hall MS ➜ E Corte Madera,Eastbound,horizontal,117,2
-193,135,0,20200810,20200913,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ San Rafael Transit Center,Northbound,horizontal,135,1
-194,135,1,20200810,20200913,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ Canal,Southbound,horizontal,135,2
-195,171,0,20200810,20200913,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausilito ➜ Novato,Northbound,horizontal,171,1
-196,171,1,20200810,20200913,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausilito,Southbound,horizontal,171,2
+23,122,0,20200810,20200913,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,1
+24,122,1,20200810,20200913,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,2
+25,117,0,20200810,20200913,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Marin City ➜ San Rafael Transit Center,Northbound,horizontal,117,1
+30,117,1,20200810,20200913,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Marin City,Southbound,horizontal,117,2
+193,135,0,20200810,20200913,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Canal ➜ San Rafael Transit Center,Northbound,horizontal,135,1
+194,135,1,20200810,20200913,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Canal,Southbound,horizontal,135,2
+195,171,0,20200810,20200913,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Sausalito ➜ Novato,Northbound,horizontal,171,1
+196,171,1,20200810,20200913,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",Novato ➜ Sausalito,Southbound,horizontal,171,2
