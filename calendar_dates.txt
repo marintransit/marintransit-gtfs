@@ -1,15 +1,6 @@
 service_id,date,holiday_name,exception_type
-Monday,20200406,Spring Break,2
-Tuesday,20200407,Spring Break,2
-Wednesday,20200408,Spring Break,2
-Thursday,20200409,Spring Break,2
-Friday,20200410,Spring Break,2
-Monday,20200529,Memorial Day,2
-Mon-Fri,20200529,Memorial Day,2
-SunHol,20200529,Memorial Day,1
-SunHol Peak Stage,20200529,Memorial Day,1
-COM Monday,20200316,Spring Break,2
-COM Tuesday,20200317,Spring Break,2
-COM Wednesday,20200318,Spring Break,2
-COM Thursday,20200319,Spring Break,2
-COM Friday,20200320,Spring Break,2
+Monday,20200907,Labor Day,2
+Mon-Fri,20200907,Labor Day,2
+SunHol,20200907,Labor Day,1
+Sat,20200704,Independence Day,2
+SunHol,20200704,Independence Day,1
