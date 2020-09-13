@@ -1,0 +1,65 @@
+route_id,direction_id,direction
+1238,0,Paradise Cay
+1238,1,Redwood HS
+1240,0,Tiburon
+1240,1,Redwood HS
+1241,0,Terra Linda HS
+1241,1,Lucas Valley
+16,0,Tiburon
+16,1,Strawberry
+1237,0,Pantoll Ranger Station
+1237,1,Stinson Beach
+1242,0,Hamilton
+1242,1,San Jose MS
+1243,0,Olive
+1243,1,Novato
+1244,0,Hamilton
+1244,1,San Marin 
+2298,0,Canal
+2298,1,Fairfax
+2302,0,San Rafael
+2302,1,Marin Health Hospital
+2303,0,Canal
+2303,1,Novato
+2305,0,San Rafael
+2305,1,Canal
+1207,0,San Rafael
+1207,1,Inverness
+2306,0,South
+2306,1,North
+1395,0,San Rafael
+1395,1,Lagunitas
+1394,0,San Rafael
+1394,1,Terra Linda HS
+1203,0,San Rafael
+1203,1,Santa Venetia
+1784,0,San Rafael
+1784,1,Smith Ranch Rd
+1245,0,San Rafael
+1245,1,Ignacio
+4565,0,Hamilton
+4565,1,Novato
+2299,0,San Rafael
+2299,1,Manor
+1788,0,South
+1788,1,North
+1789,0,Marin City
+1789,1,San Rafael
+1082,0,San Rafael
+1082,1,Fairfax Manor 
+2297,0,Sausalito
+2297,1,North
+1239,0,Sausalito
+1239,1,Strawberry
+4843,0,Sausalito 
+4843,1,San Rafael
+4941,0,Canal
+4941,1,San Rafael
+4944,0,Marin City
+4944,1,Novato
+1393,0,Marin City
+1393,1,San Rafael
+1625,0,College of Marin
+1625,1,San Rafael
+5049,0,Mill Valley
+5049,1,Stinson Beach
