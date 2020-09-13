@@ -11,13 +11,13 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 126,1203,1,20200913,20201219,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,6
 127,1203,1,20200913,20201219,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,4
 128,1203,1,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,2
-173,5049,1,20200303,20201031,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Mar - Oct",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-174,5049,1,20200303,20201031,0,0,0,0,0,1,0,"Westbound, Saturday, Mar - Oct",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-175,5049,0,20200303,20201031,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Mar - Oct",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
-176,5049,0,20200303,20201031,0,0,0,0,0,1,0,"Eastbound, Saturday, Mar - Oct",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-177,5049,1,20200913,20201219,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
-178,5049,0,20200913,20201219,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
-179,5049,1,20201101,20210228,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays, Nov - Feb",Marin City ➜ Bolinas,Westbound,horizontal,61,7
-180,5049,1,20201101,20210228,0,0,0,0,0,1,0,"Westbound, Saturday, Nov - Feb",Marin City ➜ Bolinas,Westbound,horizontal,61,8
-181,5049,0,20201101,20210228,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays, Nov - Feb",Bolinas ➜ Marin City,Eastbound,horizontal,61,9
-182,5049,0,20201101,20210228,0,0,0,0,0,1,0,"Eastbound, Saturday, Nov - Feb",Bolinas ➜ Marin City,Eastbound,horizontal,61,10
+170,1237,1,20200913,20201219,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
+171,1237,0,20200913,20201219,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
+172,1237,1,20200913,20201219,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+172,5049,1,20200913,20201219,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+173,1237,0,20200913,20201219,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+173,5049,0,20200913,20201219,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+174,1237,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+174,5049,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+175,1237,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+175,5049,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
