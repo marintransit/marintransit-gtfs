@@ -1,23 +1,23 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_name,orientation,timetable_page_id,timetable_sequence
-111,1789,1,20200913,20201219,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,Northbound,horizontal,22,5
-112,1789,1,20200913,20201219,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ San Rafael,Northbound,horizontal,22,3
-113,1789,1,20200913,20201219,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,Northbound,horizontal,22,1
-114,1789,0,20200913,20201219,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Marin City,Southbound,horizontal,22,6
-115,1789,0,20200913,20201219,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Marin City,Southbound,horizontal,22,4
-116,1789,0,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,Southbound,horizontal,22,2
-123,1203,0,20200913,20201219,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,5
-124,1203,0,20200913,20201219,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,3
-125,1203,0,20200913,20201219,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,1
-126,1203,1,20200913,20201219,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,6
-127,1203,1,20200913,20201219,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,4
-128,1203,1,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,2
-170,1237,1,20200913,20201219,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
-171,1237,0,20200913,20201219,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
-172,1237,1,20200913,20201219,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-172,5049,1,20200913,20201219,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-173,1237,0,20200913,20201219,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-173,5049,0,20200913,20201219,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-174,1237,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-174,5049,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-175,1237,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
-175,5049,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+1,1789,1,20200913,20201219,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,Northbound,horizontal,22,1
+2,1789,0,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,Southbound,horizontal,22,2
+3,1789,1,20200913,20201219,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ San Rafael,Northbound,horizontal,22,3
+4,1789,0,20200913,20201219,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Marin City,Southbound,horizontal,22,4
+5,1789,1,20200913,20201219,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,Northbound,horizontal,22,5
+6,1789,0,20200913,20201219,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Marin City,Southbound,horizontal,22,6
+7,1203,0,20200913,20201219,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,1
+8,1203,1,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,2
+9,1203,0,20200913,20201219,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,3
+10,1203,1,20200913,20201219,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,4
+11,1203,0,20200913,20201219,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,5
+12,1203,1,20200913,20201219,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,6
+13,1237,1,20200913,20201219,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
+14,1237,0,20200913,20201219,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
+15,1237,1,20200913,20201219,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+15,5049,1,20200913,20201219,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+16,1237,0,20200913,20201219,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+16,5049,0,20200913,20201219,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+17,1237,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+17,5049,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+18,1237,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+18,5049,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
