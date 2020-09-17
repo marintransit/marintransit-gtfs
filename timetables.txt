@@ -21,3 +21,11 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 17,5049,1,20200913,20201219,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
 18,1237,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
 18,5049,0,20200913,20201219,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+19,2297,1,20200913,20201219,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
+19,4843,1,20200913,20201219,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
+20,2297,0,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
+20,4843,0,20200913,20201219,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
+21,2297,1,20200913,20201219,0,0,0,0,0,1,0,"Northbound, Saturday",Sausalito ➜ San Rafael,Northbound,horizontal,17,3
+22,2297,0,20200913,20201219,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Sausalito,Southbound,horizontal,17,4
+23,2297,1,20200913,20201219,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Sausalito ➜ San Rafael,Northbound,horizontal,17,5
+24,2297,0,20200913,20201219,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Sausalito,Southbound,horizontal,17,6
