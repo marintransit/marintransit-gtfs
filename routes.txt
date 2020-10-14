@@ -1,28 +1,35 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-16,33,"219","Tiburon - Strawberry",Tiburon Shuttle,3,http://www.marintransit.org/routes/219,008B5E,FFFFFF
-1242,33,"151","Hamilton - San Marin",Hamilton to San Marin High School,3,http://www.marintransit.org/routes/151,5AFF54,FFFFFF
-1244,33,"251","Hamilton - San Marin",Novato Shuttle,3,http://www.marintransit.org/routes/251,00B26B,FFFFFF
-2298,33,"23","Canal - Fairfax",Canal to Fairfax,3,http://www.marintransit.org/routes/23,C70B85,FFFFFF
-2303,33,"35","San Rafael/Canal - Novato",Canal to Novato,3,http://www.marintransit.org/routes/35,00ADEF,FFFFFF
-2305,33,"36","San Rafael/Canal - Marin City",Canal to Marin City,3,http://www.marintransit.org/routes/36,E6B00E,FFFFFF
-1207,33,"68","San Rafael - Inverness",West Marin Stagecoach North Route,3,http://www.marintransit.org/routes/68,5566A8,FFFFFF
-2306,33,"71X","Novato - Sausalito Express",Sausalito to Novato,3,http://www.marintransit.org/routes/71x,F47C20,FFFFFF
-1395,33,"125","San Rafael - Lagunitas",San Rafael to Lagunitas,3,http://www.marintransit.org/routes/125,F89838,FFFFFF
-1394,33,"145","San Rafael - Terra Linda HS",Terra Linda HS to San Rafael,3,http://www.marintransit.org/routes/145,F89838,FFFFFF
-1784,33,"245","San Rafael - Smith Ranch Road",San Rafael to Smith Ranch Rd,3,http://www.marintransit.org/routes/245,00974A,FFFFFF
-1245,33,"257","San Rafael - Ignacio",Smith Ranch Road/Ignacio Shuttle,3,http://www.marintransit.org/routes/257,77A43A,FFFFFF
-4565,33,"149","Hamilton - Downtown Novato",Hamilton to Downtown Novato,3,http://www.marintransit.org/routes/149,0810FF,FFFFFF
-2299,33,"23X","Canal - Fairfax/Manor (Express)",Canal to Manor,3,http://www.marintransit.org/routes/23x,C70B85,FFFFFF
-1788,33,"49","San Rafael - Novato",San Rafael to Novato,3,http://www.marintransit.org/routes/49,008BCF,FFFFFF
-1789,33,"22","San Rafael - Marin City",San Rafael to Marin City,3,http://www.marintransit.org/routes/22,A02125,FFFFFF
-1082,33,"228","San Rafael - Fairfax Manor",Fairfax Manor Shuttle,3,http://www.marintransit.org/routes/228,00B26B,FFFFFF
-2297,33,"17","San Rafael - Sausalito",San Rafael to Sausalito,3,http://www.marintransit.org/routes/17,0054A6,FFFFFF
-4843,33,"17X","San Rafael - Sausalito Express",San Rafael to Sausalito Express,3,http://www.marintransit.org/routes/17,0080FC,FFFFFF
-4941,33,"135","San Rafael - Canal (Loop)",SRTC - Canal,3,https://marintransit.org/routes/135,1717FF,FFFFFF
-4944,33,"171","Novato - Marin City", Novato to  Marin City,3,https://marintransit.org/routes/171,FF3B83,FFFFFF
-1625,33,"122","San Rafael - College of Marin (Express)",College of Marin Express,3,http://www.marintransit.org/routes/122,F89838,FFFFFF
-1203,33,"233","San Rafael - Santa Venetia",Santa Venetia Shuttle,3,http://www.marintransit.org/routes/233,005B23,FFFFFF
-1237,33,"61","Sausalito/Marin City - Bolinas",West Marin Stagecoach South Route,3,http://www.marintransit.org/routes/61,5566A8,FFFFFF
-5049,33,"61M","Mill Valley - Stinson Beach",West Marin Stagecoach South Route,3,http://www.marintransit.org/routes/61,5566A8,FFFFFF
-1393,33,"117","San Rafael - Sausalito",San Rafael - Marin City,3,http://www.marintransit.org/routes/117,F89838,FFFFFF
-2302,33,"29","Canal - Marin Health Center",Canal to Marin Health Center,3,http://www.marintransit.org/routes/29,80298F,FFFFFF
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+17,849,17,San Rafael - Sausalito,,3,,,,
+22,849,22,San Rafael - Marin City,,3,,,,
+49,849,49,San Rafael - Novato,,3,,,,
+35,849,35,Canal - San Rafael Transit Center,,3,,,,
+23,849,23,Canal - Fairfax,,3,,,,
+29,849,29,Canal - Marin General,,3,,,,
+113,849,113,Paradise Cay - Redwood HS,,3,,,,
+68,849,68,West Marin Stagecoach (North),,3,,,,
+154,849,154,Olive - Novato,,3,,,,
+122 Old,849,122,College of Marin Express,,3,,,,
+71X,849,71x,Novato - Sausalito,,3,,,,
+149,849,149,Hamilton - Downtown Novato,,3,,,,
+151,849,151,Hamilton - San Marin HS,,3,,,,
+219,849,219,Tiburon - Strawberry,,3,,,,
+117 Old,849,117,Cove School - E Corte Madera - Hall MS,,3,,,,
+23X,849,23x,Canal - Fairfax/Manor Express,,3,,,,
+228,849,228,San Rafael - Fairfax Manor,,3,,,,
+145,849,145,San Rafael - Terra Linda HS,,3,,,,
+139,849,139,Lucas Valley - Terra Linda HS,,3,,,,
+115,849,115,Marin City - St Hilary School,,3,,,,
+251,849,251,Novato Shuttle,,3,,,,
+125,849,125,Lagunitas - Sir Francis Drake HS - San Rafael,,3,,,,
+245,849,245,San Rafael - Smith Ranch Road,,3,,,,
+36,849,36,Canal - Marin City,,3,,,,
+233,849,233,San Rafael - Santa Venetia,,3,,,,
+17x,849,17x,San Rafael - Sausalito,,3,,,,
+119,849,119,Tiburon - Redwood HS,,3,,,,
+257,849,257,San Rafael - Ignacio,,3,,,,
+61,849,61,,,3,,,,
+61M,849,61M,West Marin Stagecoach (South),,3,,,,
+171,849,171,Novato - Marin City,,3,,,,
+117,849,117,San Rafael - Marin City,,3,,,,
+122,849,122,San Rafael - College of Marin,,3,,,,
+135,849,135,Canal - San Rafael Transit Center,,3,,,,
