@@ -1,0 +1,5 @@
+service_id,date,holiday_name,exception_type
+Mon-Fri,20201111,Veterans Day,2
+SunHol,20200907,Veterans Day,1
+Mon-Fri,20201126,Thanksgiving,2
+SunHol,20201126,Thanksgiving,1

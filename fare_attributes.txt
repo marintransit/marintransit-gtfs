@@ -1,2 +1,2 @@
 fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-Adult Fare,2,USD,0,2,33,7200
+Adult Fare,2,USD,0,2,849,7200
