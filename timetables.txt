@@ -122,11 +122,11 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 129,17,0,20200913,20201212,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Sausalito ➜ San Rafael,Northbound,horizontal,17,5
 130,17,0,20200913,20201212,0,0,0,0,0,1,0,"Northbound, Saturday",Sausalito ➜ San Rafael,Northbound,horizontal,17,3
 131,17,0,20200913,20201212,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
-131,17x,0,20200913,20201212,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
+131,17X,0,20200913,20201212,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
 132,17,1,20200913,20201212,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Sausalito,Southbound,horizontal,17,6
 133,17,1,20200913,20201212,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Sausalito,Southbound,horizontal,17,4
 134,17,1,20200913,20201212,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
-134,17x,1,20200913,20201212,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
+134,17X,1,20200913,20201212,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
 135,245,0,20200913,20201212,0,0,0,0,0,0,1,"Northbound, Sunday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,5
 136,245,0,20200913,20201212,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,3
 137,245,0,20200913,20201212,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,1
