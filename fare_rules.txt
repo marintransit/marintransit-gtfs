@@ -1,4 +1,4 @@
 fare_id,route_id,origin_id,destination_id,contains_id
-Adult Fare,117,,,
 Adult Fare,122,,,
+Adult Fare,117,,,
 Adult Fare,61M,,,
