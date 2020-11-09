@@ -21,10 +21,12 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 20,35,1,20200913,20201212,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Canal,Southbound,horizontal,35,6
 21,35,1,20200913,20201212,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Canal,Southbound,horizontal,35,4
 22,35,1,20200913,20201212,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,Southbound,horizontal,35,2
-23,122,0,20200913,20201212,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,1
-24,122,1,20200913,20201212,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,2
-25,117,0,20200913,20201212,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Marin City ➜ San Rafael Transit Center,Northbound,horizontal,117,1
-26,117,1,20200913,20201212,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Marin City,Southbound,horizontal,117,2
+23,122,0,20200913,20201212,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,1
+24,122,1,20200913,20201212,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,2
+25,122,0,20200913,20201212,0,0,0,0,0,1,0,"Northbound, Saturday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,3
+26,122,1,20200913,20201212,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,4
+27,117,0,20200913,20201212,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Marin City ➜ San Rafael Transit Center,Northbound,horizontal,117,1
+28,117,1,20200913,20201212,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Marin City,Southbound,horizontal,117,2
 35,151,0,20200913,20201212,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,5
 36,151,0,20200913,20201212,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,4
 37,151,0,20200913,20201212,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,3
