@@ -1,5 +1,6 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 Mon-Fri,1,1,1,1,1,0,0,20201018,20201212
+Monday,1,0,0,0,0,0,0,20201018,20201212
 Thursday,0,0,0,1,0,0,0,20201018,20201212
 Wednesday,0,0,1,0,0,0,0,20201018,20201212
 Tuesday,0,1,0,0,0,0,0,20201018,20201212
