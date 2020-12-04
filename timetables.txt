@@ -1,32 +1,32 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_name,orientation,timetable_page_id,timetable_sequence
-1,23,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax ➜ Canal,Eastbound,horizontal,23,5
-2,23,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax ➜ Canal,Eastbound,horizontal,23,3
-3,23,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax ➜ Canal,Eastbound,horizontal,23,1
-4,23,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Canal ➜ Fairfax,Westbound,horizontal,23,6
-5,23,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Canal ➜ Fairfax,Westbound,horizontal,23,4
-6,23,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,Westbound,horizontal,23,2
-7,23X,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,Eastbound,horizontal,23X,1
-8,23X,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,Westbound,horizontal,23X,2
-9,36,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Canal,Northbound,horizontal,36,5
-10,36,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Canal,Northbound,horizontal,36,3
-11,36,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,Northbound,horizontal,36,1
-12,36,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,Southbound,horizontal,36,6
-13,36,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,Southbound,horizontal,36,4
-14,36,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,Southbound,horizontal,36,2
-15,29,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,Eastbound,horizontal,29,1
-16,29,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,Westbound,horizontal,29,2
-17,35,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Novato,Northbound,horizontal,35,5
-18,35,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Novato,Northbound,horizontal,35,3
-19,35,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,Northbound,horizontal,35,1
-20,35,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Canal,Southbound,horizontal,35,6
-21,35,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Canal,Southbound,horizontal,35,4
-22,35,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,Southbound,horizontal,35,2
-23,122,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,1
-24,122,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,2
-25,122,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,3
-26,122,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,4
-27,117,0,20200614,20210612,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Marin City ➜ San Rafael Transit Center,Northbound,horizontal,117,1
-28,117,1,20200614,20210612,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Marin City,Southbound,horizontal,117,2
+1,2298,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax ➜ Canal,Eastbound,horizontal,23,5
+2,2298,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax ➜ Canal,Eastbound,horizontal,23,3
+3,2298,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax ➜ Canal,Eastbound,horizontal,23,1
+4,2298,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Canal ➜ Fairfax,Westbound,horizontal,23,6
+5,2298,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Canal ➜ Fairfax,Westbound,horizontal,23,4
+6,2298,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Fairfax,Westbound,horizontal,23,2
+7,2299,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Manor ➜ Canal,Eastbound,horizontal,23X,1
+8,2299,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Manor,Westbound,horizontal,23X,2
+9,2305,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Canal,Northbound,horizontal,36,5
+10,2305,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Canal,Northbound,horizontal,36,3
+11,2305,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Canal,Northbound,horizontal,36,1
+12,2305,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,Southbound,horizontal,36,6
+13,2305,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,Southbound,horizontal,36,4
+14,2305,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,Southbound,horizontal,36,2
+15,2302,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,Eastbound,horizontal,29,1
+16,2302,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,Westbound,horizontal,29,2
+17,2303,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Novato,Northbound,horizontal,35,5
+18,2303,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Novato,Northbound,horizontal,35,3
+19,2303,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,Northbound,horizontal,35,1
+20,2303,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Canal,Southbound,horizontal,35,6
+21,2303,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Canal,Southbound,horizontal,35,4
+22,2303,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,Southbound,horizontal,35,2
+23,1625,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,1
+24,1625,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,2
+25,1625,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",College of Marin ➜ San Rafael Transit Center,Northbound,horizontal,122,3
+26,1625,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,4
+27,1393,0,20200614,20210612,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Marin City ➜ San Rafael Transit Center,Northbound,horizontal,117,1
+28,1393,1,20200614,20210612,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Marin City,Southbound,horizontal,117,2
 35,151,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,5
 36,151,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,4
 37,151,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,3
@@ -67,14 +67,14 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 72,115,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",Strawberry ➜ Marin City,Southbound,horizontal,115,8
 73,115,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",Strawberry ➜ Marin City,Southbound,horizontal,115,7
 74,115,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",Strawberry ➜ Marin City,Southbound,horizontal,115,6
-75,71X,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,Northbound,horizontal,71X,1
-76,71X,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,Southbound,horizontal,71X,2
-77,251,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Novato Shuttle,Northbound,horizontal,251,5
-78,251,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Novato Shuttle,Northbound,horizontal,251,3
-79,251,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,Northbound,horizontal,251,1
-80,251,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato Shuttle,Southbound,horizontal,251,6
-81,251,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato Shuttle,Southbound,horizontal,251,4
-82,251,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato Shuttle,Southbound,horizontal,251,2
+75,2306,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,Northbound,horizontal,71X,1
+76,2306,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,Southbound,horizontal,71X,2
+77,1244,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Novato Shuttle,Northbound,horizontal,251,5
+78,1244,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Novato Shuttle,Northbound,horizontal,251,3
+79,1244,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,Northbound,horizontal,251,1
+80,1244,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato Shuttle,Southbound,horizontal,251,6
+81,1244,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato Shuttle,Southbound,horizontal,251,4
+82,1244,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato Shuttle,Southbound,horizontal,251,2
 83,154,1,20200614,20210612,0,0,0,0,1,0,0,"Westbound, Friday",Olive ➜ Novato,Westbound,horizontal,154,5
 84,154,1,20200614,20210612,0,0,0,1,0,0,0,"Westbound, Thursday",Olive ➜ Novato,Westbound,horizontal,154,4
 85,154,1,20200614,20210612,0,0,1,0,0,0,0,"Westbound, Wednesday",Olive ➜ Novato,Westbound,horizontal,154,3
@@ -95,56 +95,56 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 100,113,0,20200614,20210612,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Paradise Cay,Eastbound,horizontal,113,8
 101,113,0,20200614,20210612,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood HS ➜ Paradise Cay,Eastbound,horizontal,113,7
 102,113,0,20200614,20210612,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood HS ➜ Paradise Cay,Eastbound,horizontal,113,6
-103,228,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,6
-104,228,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,4
-105,228,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,2
-106,228,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,5
-107,228,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,3
-108,228,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,1
-109,257,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,Northbound,horizontal,257,1
-110,257,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,Southbound,horizontal,257,2
-111,22,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,Northbound,horizontal,22,5
-112,22,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ San Rafael,Northbound,horizontal,22,3
-113,22,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,Northbound,horizontal,22,1
-114,22,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Marin City,Southbound,horizontal,22,6
-115,22,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Marin City,Southbound,horizontal,22,4
-116,22,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,Southbound,horizontal,22,2
-117,49,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Novato,Northbound,horizontal,49,5
-118,49,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Novato,Northbound,horizontal,49,3
-119,49,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,Northbound,horizontal,49,1
-120,49,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ San Rafael,Southbound,horizontal,49,6
-121,49,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ San Rafael,Southbound,horizontal,49,4
-122,49,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,Southbound,horizontal,49,2
-123,233,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,5
-124,233,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,3
-125,233,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,1
-126,233,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,6
-127,233,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,4
-128,233,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,2
-129,17,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Sausalito ➜ San Rafael,Northbound,horizontal,17,5
-130,17,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Sausalito ➜ San Rafael,Northbound,horizontal,17,3
-131,17,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
-131,17X,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
-132,17,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Sausalito,Southbound,horizontal,17,6
-133,17,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Sausalito,Southbound,horizontal,17,4
-134,17,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
-134,17X,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
-135,245,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,5
-136,245,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,3
-137,245,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,1
-138,245,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,6
-139,245,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,4
-140,245,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,2
-141,145,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,5
-142,145,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,4
-143,145,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,3
-144,145,0,20200614,20210612,0,1,0,0,0,0,0,"Northbound, Tuesday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,2
-145,145,0,20200614,20210612,1,0,0,0,0,0,0,"Northbound, Monday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,1
-146,145,1,20200614,20210612,0,0,0,0,1,0,0,"Southbound, Friday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,10
-147,145,1,20200614,20210612,0,0,0,1,0,0,0,"Southbound, Thursday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,9
-148,145,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,8
-149,145,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,7
-150,145,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,6
+103,1082,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,6
+104,1082,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,4
+105,1082,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,Eastbound,horizontal,228,2
+106,1082,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,5
+107,1082,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,3
+108,1082,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Fairfax Manor,Westbound,horizontal,228,1
+109,1245,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Ignacio,Northbound,horizontal,257,1
+110,1245,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Ignacio ➜ San Rafael,Southbound,horizontal,257,2
+111,1789,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ San Rafael,Northbound,horizontal,22,5
+112,1789,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ San Rafael,Northbound,horizontal,22,3
+113,1789,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ San Rafael,Northbound,horizontal,22,1
+114,1789,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Marin City,Southbound,horizontal,22,6
+115,1789,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Marin City,Southbound,horizontal,22,4
+116,1789,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Marin City,Southbound,horizontal,22,2
+117,1788,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Novato,Northbound,horizontal,49,5
+118,1788,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Novato,Northbound,horizontal,49,3
+119,1788,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,Northbound,horizontal,49,1
+120,1788,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ San Rafael,Southbound,horizontal,49,6
+121,1788,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ San Rafael,Southbound,horizontal,49,4
+122,1788,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,Southbound,horizontal,49,2
+123,1203,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,5
+124,1203,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,3
+125,1203,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Santa Venetia,Northbound,horizontal,233,1
+126,1203,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,6
+127,1203,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,4
+128,1203,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Santa Venetia ➜ San Rafael,Southbound,horizontal,233,2
+129,2297,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Sausalito ➜ San Rafael,Northbound,horizontal,17,5
+130,2297,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Sausalito ➜ San Rafael,Northbound,horizontal,17,3
+131,2297,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
+131,4843,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ San Rafael,Northbound,horizontal,17,1
+132,2297,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael ➜ Sausalito,Southbound,horizontal,17,6
+133,2297,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael ➜ Sausalito,Southbound,horizontal,17,4
+134,2297,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
+134,4843,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ Sausalito,Southbound,horizontal,17,2
+135,1784,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,5
+136,1784,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,3
+137,1784,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Smith Ranch Road,Northbound,horizontal,245,1
+138,1784,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,6
+139,1784,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,4
+140,1784,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,2
+141,1394,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,5
+142,1394,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,4
+143,1394,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,3
+144,1394,0,20200614,20210612,0,1,0,0,0,0,0,"Northbound, Tuesday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,2
+145,1394,0,20200614,20210612,1,0,0,0,0,0,0,"Northbound, Monday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,1
+146,1394,1,20200614,20210612,0,0,0,0,1,0,0,"Southbound, Friday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,10
+147,1394,1,20200614,20210612,0,0,0,1,0,0,0,"Southbound, Thursday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,9
+148,1394,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,8
+149,1394,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,7
+150,1394,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,6
 151,119,0,20200614,20210612,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood HS ➜ Tiburon,Eastbound,horizontal,119,
 152,119,0,20200614,20210612,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,Eastbound,horizontal,119,
 153,119,0,20200614,20210612,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Tiburon,Eastbound,horizontal,119,
@@ -155,34 +155,34 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 158,119,1,20200614,20210612,0,0,1,0,0,0,0,"Westbound, Wednesday",Tiburon ➜ Redwood HS,Westbound,horizontal,119,
 159,119,1,20200614,20210612,0,1,0,0,0,0,0,"Westbound, Tuesday",Tiburon ➜ Redwood HS,Westbound,horizontal,119,
 160,119,1,20200614,20210612,1,0,0,0,0,0,0,"Westbound, Monday",Tiburon ➜ Redwood HS,Westbound,horizontal,119,
-161,219,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Tiburon ➜ Strawberry,Westbound,horizontal,219,5
-162,219,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Tiburon ➜ Strawberry,Westbound,horizontal,219,3
-163,219,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Strawberry,Westbound,horizontal,219,1
-164,219,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Strawberry ➜ Tiburon,Eastbound,horizontal,219,6
-165,219,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Strawberry ➜ Tiburon,Eastbound,horizontal,219,4
-166,219,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Strawberry ➜ Tiburon,Eastbound,horizontal,219,2
-167,68,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday",San Rafael ➜ Inverness,Westbound,horizontal,68,5
-168,68,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Inverness,Westbound,horizontal,68,3
-169,68,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,Westbound,horizontal,68,1
-170,68,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday",Inverness ➜ San Rafael,Eastbound,horizontal,68,6
-171,68,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Inverness ➜ San Rafael,Eastbound,horizontal,68,4
-172,68,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,Eastbound,horizontal,68,2
-173,61,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
-174,61,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
-175,61,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-175,61M,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-176,61,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-176,61M,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-177,61,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-177,61M,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-178,61,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
-178,61M,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
-179,135,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,1
-180,135,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,2
-181,135,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,3
-182,135,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,4
-183,135,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,5
-184,135,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,6
+161,16,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Tiburon ➜ Strawberry,Westbound,horizontal,219,5
+162,16,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Tiburon ➜ Strawberry,Westbound,horizontal,219,3
+163,16,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Tiburon ➜ Strawberry,Westbound,horizontal,219,1
+164,16,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Strawberry ➜ Tiburon,Eastbound,horizontal,219,6
+165,16,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Strawberry ➜ Tiburon,Eastbound,horizontal,219,4
+166,16,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Strawberry ➜ Tiburon,Eastbound,horizontal,219,2
+167,1207,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday",San Rafael ➜ Inverness,Westbound,horizontal,68,5
+168,1207,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",San Rafael ➜ Inverness,Westbound,horizontal,68,3
+169,1207,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ Inverness,Westbound,horizontal,68,1
+170,1207,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday",Inverness ➜ San Rafael,Eastbound,horizontal,68,6
+171,1207,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Inverness ➜ San Rafael,Eastbound,horizontal,68,4
+172,1207,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,Eastbound,horizontal,68,2
+173,1237,1,20200614,20210612,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
+174,1237,0,20200614,20210612,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
+175,1237,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+175,5049,1,20200614,20210612,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
+176,1237,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+176,5049,0,20200614,20210612,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
+177,1237,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+177,5049,1,20200614,20210612,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
+178,1237,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+178,5049,0,20200614,20210612,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+179,4941,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,1
+180,4941,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,2
+181,4941,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,3
+182,4941,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,4
+183,4941,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,5
+184,4941,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,6
 185,149,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ Redwood Blvd & Olive Ave,Northbound,horizontal,149,5
 186,149,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ Redwood Blvd & Olive Ave,Northbound,horizontal,149,4
 187,149,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ Redwood Blvd & Olive Ave,Northbound,horizontal,149,3
@@ -193,5 +193,5 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 192,149,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,8
 193,149,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,7
 194,149,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,6
-195,171,0,20200614,20210612,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Sausalito ➜ Novato,Northbound,horizontal,171,1
-196,171,1,20200614,20210612,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",Novato ➜ Sausalito,Southbound,horizontal,171,2
+195,4944,0,20200614,20210612,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Sausalito ➜ Novato,Northbound,horizontal,171,1
+196,4944,1,20200614,20210612,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",Novato ➜ Sausalito,Southbound,horizontal,171,2
