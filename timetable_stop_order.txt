@@ -1,1 +1,0 @@
-timetable_id,stop_id,stop_sequence
