@@ -16,7 +16,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 235531,40796,Panoramic Hwy & Bayview Dr,,37.896919,-122.560455,,,,,,
 235571,40794,Panoramic Hwy & Ridge Av,,37.901028,-122.567284,,,,,,
 235612,40790,Panoramic Hwy & Edgewood Av,,37.910583,-122.576996,,,,,,
-235788,40788,895  Panoramic Hwy Bootjack Parking Lot,,37.909458,-122.60173,,,,,,
+235788,40788,895 Panoramic Hwy Bootjack Parking Lot,,37.909458,-122.60173,,,,,,
 235806,40786,Panoramic Hwy & Pan Toll Ranger Station,,37.904499,-122.603996,,,,,,
 237390,40782,4813 Shoreline Hwy,,37.898552,-122.639671,,,,,,
 236082,40823,Audubon Canyon Ranch,,37.930042,-122.682999,,,,,,
