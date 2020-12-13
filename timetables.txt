@@ -193,5 +193,11 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 192,149,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,8
 193,149,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,7
 194,149,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,6
-195,4944,0,20200614,20210612,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Sausalito ➜ Novato,Northbound,horizontal,171,1
-196,4944,1,20200614,20210612,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",Novato ➜ Sausalito,Southbound,horizontal,171,2
+195,4944,0,20200614,20210612,1,1,1,1,1,1,1,"Northbound, Monday - Sunday",Sausalito ➜ Novato,Northbound,horizontal,171,1
+196,4944,1,20200614,20210612,1,1,1,1,1,1,1,"Southbound, Monday - Sunday",Novato ➜ Sausalito,Southbound,horizontal,171,2
+197,5057,0,20200614,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Novato,Northbound,horizontal,71,1
+198,5057,1,20200614,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Marin City,Southbound,horizontal,71,2
+199,5057,0,20200614,20210612,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Novato,Northbound,horizontal,71,3
+200,5057,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Marin City,Southbound,horizontal,71,4
+201,5057,0,20200614,20210612,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Novato,Northbound,horizontal,71,5
+202,5057,1,20200614,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Marin City,Southbound,horizontal,71,6
