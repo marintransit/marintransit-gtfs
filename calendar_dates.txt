@@ -1,7 +1,7 @@
 service_id,date,holiday_name,exception_type
-Mon-Fri,20201225,Christmas,2
-SunHol,20201225,Christmas,1
-Mon-Fri,20210101,New Years Day,2
-SunHol,20210101,New Years Day,1
-Mon-Fri,20220118,Presidents Day,2
-SunHol,20210118,Presidents Day,1
+Mon-Fri,20210531,Memorial Day,2
+SunHol,20210531,Memorial Day,1
+Mon-Fri,20210705,Independence Day,2
+SunHol,20210705,Independence Day,1
+Mon-Fri,20210906,Labor Day,2
+SunHol,20210906,Labor Day,1

@@ -1,4 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-Mon-Fri,1,1,1,1,1,0,0,20200614,20210612
-Sat,0,0,0,0,0,1,0,20200614,20210612
-SunHol,0,0,0,0,0,0,1,20200614,20210612
+Mon-Fri,1,1,1,1,1,0,0,20210222,20210612
+Sat,0,0,0,0,0,1,0,20210222,20210612
+SunHol,0,0,0,0,0,0,1,20210222,20210612

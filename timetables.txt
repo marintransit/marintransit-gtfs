@@ -27,26 +27,26 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 26,1625,1,20200614,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",San Rafael Transit Center ➜ College of Marin,Southbound,horizontal,122,4
 27,1393,0,20200614,20210612,1,1,1,1,1,1,0,"Northbound, Monday - Saturday",Marin City ➜ San Rafael Transit Center,Northbound,horizontal,117,1
 28,1393,1,20200614,20210612,1,1,1,1,1,1,0,"Southbound, Monday - Saturday",San Rafael Transit Center ➜ Marin City,Southbound,horizontal,117,2
-35,151,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,5
-36,151,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,4
-37,151,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,3
-38,151,0,20200614,20210612,0,1,0,0,0,0,0,"Northbound, Tuesday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,2
-39,151,0,20200614,20210612,1,0,0,0,0,0,0,"Northbound, Monday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,1
-40,151,1,20200614,20210612,0,0,0,0,1,0,0,"Southbound, Friday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,10
-41,151,1,20200614,20210612,0,0,0,1,0,0,0,"Southbound, Thursday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,9
-42,151,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,8
-43,151,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,7
-44,151,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,6
-45,125,1,20200614,20210612,0,0,0,0,1,0,0,"Westbound, Friday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,5
-46,125,1,20200614,20210612,0,0,0,1,0,0,0,"Westbound, Thursday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,4
-47,125,1,20200614,20210612,0,0,1,0,0,0,0,"Westbound, Wednesday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,3
-48,125,1,20200614,20210612,0,1,0,0,0,0,0,"Westbound, Tuesday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,2
-49,125,1,20200614,20210612,1,0,0,0,0,0,0,"Westbound, Monday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,1
-50,125,0,20200614,20210612,0,0,0,0,1,0,0,"Eastbound, Friday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,10
-51,125,0,20200614,20210612,0,0,0,1,0,0,0,"Eastbound, Thursday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,9
-52,125,0,20200614,20210612,0,0,1,0,0,0,0,"Eastbound, Wednesday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,8
-53,125,0,20200614,20210612,0,1,0,0,0,0,0,"Eastbound, Tuesday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,7
-54,125,0,20200614,20210612,1,0,0,0,0,0,0,"Eastbound, Monday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,6
+35,1242,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,5
+36,1242,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,4
+37,1242,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,3
+38,1242,0,20200614,20210612,0,1,0,0,0,0,0,"Northbound, Tuesday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,2
+39,1242,0,20200614,20210612,1,0,0,0,0,0,0,"Northbound, Monday",Hamilton ➜ San Marin HS,Northbound,horizontal,151,1
+40,1242,1,20200614,20210612,0,0,0,0,1,0,0,"Southbound, Friday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,10
+41,1242,1,20200614,20210612,0,0,0,1,0,0,0,"Southbound, Thursday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,9
+42,1242,1,20200614,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,8
+43,1242,1,20200614,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,7
+44,1242,1,20200614,20210612,1,0,0,0,0,0,0,"Southbound, Monday",San Marin HS ➜ Hamilton,Southbound,horizontal,151,6
+45,1395,1,20200614,20210612,0,0,0,0,1,0,0,"Westbound, Friday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,5
+46,1395,1,20200614,20210612,0,0,0,1,0,0,0,"Westbound, Thursday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,4
+47,1395,1,20200614,20210612,0,0,1,0,0,0,0,"Westbound, Wednesday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,3
+48,1395,1,20200614,20210612,0,1,0,0,0,0,0,"Westbound, Tuesday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,2
+49,1395,1,20200614,20210612,1,0,0,0,0,0,0,"Westbound, Monday",San Rafael Transit Center ➜ Lagunitas,Westbound,horizontal,125,1
+50,1395,0,20200614,20210612,0,0,0,0,1,0,0,"Eastbound, Friday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,10
+51,1395,0,20200614,20210612,0,0,0,1,0,0,0,"Eastbound, Thursday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,9
+52,1395,0,20200614,20210612,0,0,1,0,0,0,0,"Eastbound, Wednesday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,8
+53,1395,0,20200614,20210612,0,1,0,0,0,0,0,"Eastbound, Tuesday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,7
+54,1395,0,20200614,20210612,1,0,0,0,0,0,0,"Eastbound, Monday",Lagunitas ➜ San Rafael Transit Center,Eastbound,horizontal,125,6
 55,139,0,20200614,20210612,0,0,0,0,1,0,0,"Northbound, Friday",Terra Linda HS ➜ Lucas Valley,Northbound,horizontal,139,
 56,139,0,20200614,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",Terra Linda HS ➜ Lucas Valley,Northbound,horizontal,139,
 57,139,0,20200614,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",Terra Linda HS ➜ Lucas Valley,Northbound,horizontal,139,

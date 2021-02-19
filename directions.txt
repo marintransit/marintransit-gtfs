@@ -19,8 +19,8 @@ route_id,direction_id,direction
 154,1,West
 1082,0,East
 1082,1,West
-151,0,North
-151,1,South
+1242,0,North
+1242,1,South
 16,0,East
 16,1,West
 2299,0,East
@@ -49,8 +49,8 @@ route_id,direction_id,direction
 115,1,South
 2305,0,North
 2305,1,South
-125,0,East
-125,1,West
+1395,0,East
+1395,1,West
 1237,0,East
 1237,1,West
 4944,0,North
