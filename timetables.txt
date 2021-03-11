@@ -121,16 +121,8 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 138,1784,1,20210314,20210612,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,6
 139,1784,1,20210314,20210612,0,0,0,0,0,1,0,"Southbound, Saturday",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,4
 140,1784,1,20210314,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Smith Ranch Road ➜ San Rafael,Southbound,horizontal,245,2
-141,1394,0,20210314,20210612,0,0,0,0,1,0,0,"Northbound, Friday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,5
-142,1394,0,20210314,20210612,0,0,0,1,0,0,0,"Northbound, Thursday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,4
-143,1394,0,20210314,20210612,0,0,1,0,0,0,0,"Northbound, Wednesday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,3
-144,1394,0,20210314,20210612,0,1,0,0,0,0,0,"Northbound, Tuesday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,2
-145,1394,0,20210314,20210612,1,0,0,0,0,0,0,"Northbound, Monday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,1
-146,1394,1,20210314,20210612,0,0,0,0,1,0,0,"Southbound, Friday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,10
-147,1394,1,20210314,20210612,0,0,0,1,0,0,0,"Southbound, Thursday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,9
-148,1394,1,20210314,20210612,0,0,1,0,0,0,0,"Southbound, Wednesday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,8
-149,1394,1,20210314,20210612,0,1,0,0,0,0,0,"Southbound, Tuesday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,7
-150,1394,1,20210314,20210612,1,0,0,0,0,0,0,"Southbound, Monday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,6
+145,1394,0,20210314,20210612,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael Transit Center ➜ Terra Linda HS,Northbound,horizontal,145,1
+146,1394,1,20210314,20210612,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Terra Linda HS ➜ San Rafael Transit Center,Southbound,horizontal,145,2
 151,119,0,20210314,20210612,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood HS ➜ Tiburon,Eastbound,horizontal,119,
 152,119,0,20210314,20210612,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood HS ➜ Tiburon,Eastbound,horizontal,119,
 153,119,0,20210314,20210612,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood HS ➜ Tiburon,Eastbound,horizontal,119,
