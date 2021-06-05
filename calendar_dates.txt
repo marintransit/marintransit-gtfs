@@ -1,6 +1,4 @@
 service_id,date,holiday_name,exception_type
-Mon-Fri,20210531,Memorial Day,2
-SunHol,20210531,Memorial Day,1
 Mon-Fri,20210705,Independence Day,2
 SunHol,20210705,Independence Day,1
 Mon-Fri,20210906,Labor Day,2
