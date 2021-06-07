@@ -151,16 +151,16 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 170,1207,0,20210613,20210911,0,0,0,0,0,0,1,"Eastbound, Sunday",Inverness ➜ San Rafael,Eastbound,horizontal,68,6
 171,1207,0,20210613,20210911,0,0,0,0,0,1,0,"Eastbound, Saturday",Inverness ➜ San Rafael,Eastbound,horizontal,68,4
 172,1207,0,20210613,20210911,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Inverness ➜ San Rafael,Eastbound,horizontal,68,2
-173,1237,1,20210613,20210911,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Marin City ➜ Bolinas,Westbound,horizontal,61,1
-174,1237,0,20210613,20210911,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Marin City,Eastbound,horizontal,61,2
-175,1237,1,20210613,20210911,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-175,5049,1,20210613,20210911,0,0,0,0,0,1,0,"Westbound, Saturday",Marin City ➜ Bolinas,Westbound,horizontal,61,3
-176,1237,0,20210613,20210911,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-176,5049,0,20210613,20210911,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Marin City,Eastbound,horizontal,61,4
-177,1237,1,20210613,20210911,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-177,5049,1,20210613,20210911,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Marin City ➜ Bolinas,Westbound,horizontal,61,5
-178,1237,0,20210613,20210911,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
-178,5049,0,20210613,20210911,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Marin City,Eastbound,horizontal,61,6
+173,1237,1,20210613,20210911,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Sausalito ➜ Bolinas,Westbound,horizontal,61,1
+174,1237,0,20210613,20210911,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Bolinas ➜ Sausalito,Eastbound,horizontal,61,2
+175,1237,1,20210613,20210911,0,0,0,0,0,1,0,"Westbound, Saturday",Sausalito ➜ Bolinas,Westbound,horizontal,61,3
+175,5049,1,20210613,20210911,0,0,0,0,0,1,0,"Westbound, Saturday",Sausalito ➜ Bolinas,Westbound,horizontal,61,3
+176,1237,0,20210613,20210911,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Sausalito,Eastbound,horizontal,61,4
+176,5049,0,20210613,20210911,0,0,0,0,0,1,0,"Eastbound, Saturday",Bolinas ➜ Sausalito,Eastbound,horizontal,61,4
+177,1237,1,20210613,20210911,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Sausalito ➜ Bolinas,Westbound,horizontal,61,5
+177,5049,1,20210613,20210911,0,0,0,0,0,0,1,"Westbound, Sunday/Holidays",Sausalito ➜ Bolinas,Westbound,horizontal,61,5
+178,1237,0,20210613,20210911,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Sausalito,Eastbound,horizontal,61,6
+178,5049,0,20210613,20210911,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Bolinas ➜ Sausalito,Eastbound,horizontal,61,6
 179,4941,0,20210613,20210911,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,1
 180,4941,1,20210613,20210911,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael Transit Center ➜ Canal,Southbound,vertical,135,2
 181,4941,0,20210613,20210911,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ San Rafael Transit Center,Northbound,vertical,135,3
