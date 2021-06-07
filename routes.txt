@@ -30,6 +30,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 5049,849,61M,Sausalito - Bolinas,via Marin City/Mt. Tam/Stinson Beach,3,http://marintransit.org/routes/61-61m,3161AB,FFFFFF,
 4843,849,17X,Downtown San Rafael - Sausalito,via Strawberry/Mill Valley,3,http://marintransit.org/routes/17-17x,53A946,FFFFFF,
 4941,849,135,San Rafael (Canal - Downtown),via San Rafael,3,http://marintransit.org/routes/135,F89838,FFFFFF,
-4944,849,171,Novato - Marin City,via San Rafael,3,http://marintransit.org/routes/171,F89838,FFFFFF,
-2306,849,71X,Novato - Sausalito,via Marin City/San Rafael/Hwy 101,3,http://marintransit.org/routes/71x,53A946,FFFFFF,
-5057,849,71,Novato - Marin City,via San Rafael/Hwy 101,3,http://marintransit.org/routes/71,53A946,FFFFFF,
+5057,849,71,Novato - Marin City,via San Rafael/Hwy 101,3,http://marintransit.org/routes/71,53A946,FFFFFF,5057,849,71,Novato - Marin City,via San Rafael/Hwy 101,3,http://marintransit.org/routes/71,f57d20,FFFFFF,

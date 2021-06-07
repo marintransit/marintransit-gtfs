@@ -61,8 +61,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 72,115,1,20210613,20210911,0,0,1,0,0,0,0,"Southbound, Wednesday",Strawberry ➜ Marin City,Southbound,horizontal,115,8
 73,115,1,20210613,20210911,0,1,0,0,0,0,0,"Southbound, Tuesday",Strawberry ➜ Marin City,Southbound,horizontal,115,7
 74,115,1,20210613,20210911,1,0,0,0,0,0,0,"Southbound, Monday",Strawberry ➜ Marin City,Southbound,horizontal,115,6
-75,2306,0,20210613,20210911,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Sausalito ➜ Novato,Northbound,horizontal,71X,1
-76,2306,1,20210613,20210911,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Sausalito,Southbound,horizontal,71X,2
 77,1244,0,20210613,20210911,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Novato Shuttle,Northbound,horizontal,251,5
 78,1244,0,20210613,20210911,0,0,0,0,0,1,0,"Northbound, Saturday",Novato Shuttle,Northbound,horizontal,251,3
 79,1244,0,20210613,20210911,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Novato Shuttle,Northbound,horizontal,251,1
@@ -179,8 +177,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 192,149,1,20210613,20210911,0,0,1,0,0,0,0,"Southbound, Wednesday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,8
 193,149,1,20210613,20210911,0,1,0,0,0,0,0,"Southbound, Tuesday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,7
 194,149,1,20210613,20210911,1,0,0,0,0,0,0,"Southbound, Monday",Redwood Blvd & Olive Ave ➜ Hamilton,Southbound,horizontal,149,6
-195,4944,0,20210613,20210911,1,1,1,1,1,1,1,"Northbound, Monday - Sunday",Sausalito ➜ Novato,Northbound,horizontal,171,1
-196,4944,1,20210613,20210911,1,1,1,1,1,1,1,"Southbound, Monday - Sunday",Novato ➜ Sausalito,Southbound,horizontal,171,2
 197,5057,0,20210613,20210911,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Marin City ➜ Novato,Northbound,horizontal,71,1
 198,5057,1,20210613,20210911,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Marin City,Southbound,horizontal,71,2
 199,5057,0,20210613,20210911,0,0,0,0,0,1,0,"Northbound, Saturday",Marin City ➜ Novato,Northbound,horizontal,71,3
