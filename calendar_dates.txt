@@ -1,5 +1,13 @@
 service_id,date,holiday_name,exception_type
-Mon-Fri,20210705,Independence Day,2
-SunHol,20210705,Independence Day,1
 Mon-Fri,20210906,Labor Day,2
 SunHol,20210906,Labor Day,1
+Monday,20210906,Labor Day,2
+COM Monday,20210906,Labor Day,2
+Mon-Fri,20211125,Thanksgiving,2
+SunHol,20211125,Thanksgiving,1
+Thursday,20211125,Thanksgiving,2
+COM Thursday,20211125,Thanksgiving,2
+Mon-Fri,20211126,Day After Thanksgiving,2
+SunHol,20211126,Day After Thanksgiving,1
+Friday,20211126,Day After Thanksgiving,2
+COM Friday,20211126,Day After Thanksgiving,2
