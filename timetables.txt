@@ -95,16 +95,16 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 88,5057,1,20210613,20210911,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Marin City,Southbound,horizontal,71,4
 89,5057,0,20210613,20210911,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Novato,Northbound,horizontal,71,5
 90,5057,1,20210613,20210911,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Marin City,Southbound,horizontal,71,6
-91,1238,0,20210613,20210911,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,1
-92,1238,0,20210613,20210911,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,2
-93,1238,0,20210613,20210911,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,3
-94,1238,0,20210613,20210911,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,4
-95,1238,0,20210613,20210911,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,5
-96,1238,1,20210613,20210911,1,0,0,0,0,0,0,"Westbound, Monday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,6
-97,1238,1,20210613,20210911,0,1,0,0,0,0,0,"Westbound, Tuesday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,7
-98,1238,1,20210613,20210911,0,0,1,0,0,0,0,"Westbound, Wednesday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,8
-99,1238,1,20210613,20210911,0,0,0,1,0,0,0,"Westbound, Thursday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,9
-100,1238,1,20210613,20210911,0,0,0,0,1,0,0,"Westbound, Friday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,10
+91,1238,0,20210613,20210911,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,6
+92,1238,0,20210613,20210911,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,7
+93,1238,0,20210613,20210911,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,8
+94,1238,0,20210613,20210911,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,9
+95,1238,0,20210613,20210911,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood High School ➜ Corte Madera,Eastbound,horizontal,613,10
+96,1238,1,20210613,20210911,1,0,0,0,0,0,0,"Westbound, Monday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,1
+97,1238,1,20210613,20210911,0,1,0,0,0,0,0,"Westbound, Tuesday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,2
+98,1238,1,20210613,20210911,0,0,1,0,0,0,0,"Westbound, Wednesday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,3
+99,1238,1,20210613,20210911,0,0,0,1,0,0,0,"Westbound, Thursday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,4
+100,1238,1,20210613,20210911,0,0,0,0,1,0,0,"Westbound, Friday",Corte Madera ➜ Redwood High School,Westbound,horizontal,613,5
 101,1393,0,20210613,20210911,1,0,0,0,0,0,0,"Northbound, Monday",Sausalito ➜ Tam High School,Northbound,horizontal,617,1
 102,1393,0,20210613,20210911,0,1,0,0,0,0,0,"Northbound, Tuesday",Sausalito ➜ Tam High School,Northbound,horizontal,617,2
 103,1393,0,20210613,20210911,0,0,1,0,0,0,0,"Northbound, Wednesday",Sausalito ➜ Tam High School,Northbound,horizontal,617,3
@@ -115,16 +115,16 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 108,1393,1,20210613,20210911,0,0,1,0,0,0,0,"Southbound, Wednesday",Tam High School ➜ Saualito,Southbound,horizontal,617,8
 109,1393,1,20210613,20210911,0,0,0,1,0,0,0,"Southbound, Thursday",Tam High School ➜ Saualito,Southbound,horizontal,617,9
 110,1393,1,20210613,20210911,0,0,0,0,1,0,0,"Southbound, Friday",Tam High School ➜ Saualito,Southbound,horizontal,617,10
-111,1240,0,20210613,20210911,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,1
-112,1240,0,20210613,20210911,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,2
-113,1240,0,20210613,20210911,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,3
-114,1240,0,20210613,20210911,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,4
-115,1240,0,20210613,20210911,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,5
-116,1240,1,20210613,20210911,1,0,0,0,0,0,0,"Westbound, Monday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,6
-117,1240,1,20210613,20210911,0,1,0,0,0,0,0,"Westbound, Tuesday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,7
-118,1240,1,20210613,20210911,0,0,1,0,0,0,0,"Westbound, Wednesday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,8
-119,1240,1,20210613,20210911,0,0,0,1,0,0,0,"Westbound, Thursday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,9
-120,1240,1,20210613,20210911,0,0,0,0,1,0,0,"Westbound, Friday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,10
+111,1240,0,20210613,20210911,1,0,0,0,0,0,0,"Eastbound, Monday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,6
+112,1240,0,20210613,20210911,0,1,0,0,0,0,0,"Eastbound, Tuesday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,7
+113,1240,0,20210613,20210911,0,0,1,0,0,0,0,"Eastbound, Wednesday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,8
+114,1240,0,20210613,20210911,0,0,0,1,0,0,0,"Eastbound, Thursday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,9
+115,1240,0,20210613,20210911,0,0,0,0,1,0,0,"Eastbound, Friday",Redwood High School ➜ Tiburon,Eastbound,horizontal,619,10
+116,1240,1,20210613,20210911,1,0,0,0,0,0,0,"Westbound, Monday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,1
+117,1240,1,20210613,20210911,0,1,0,0,0,0,0,"Westbound, Tuesday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,2
+118,1240,1,20210613,20210911,0,0,1,0,0,0,0,"Westbound, Wednesday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,3
+119,1240,1,20210613,20210911,0,0,0,1,0,0,0,"Westbound, Thursday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,4
+120,1240,1,20210613,20210911,0,0,0,0,1,0,0,"Westbound, Friday",Tiburon ➜ Redwood High School,Westbound,horizontal,619,5
 121,1625,0,20210613,20210911,1,0,0,0,0,0,0,"Northbound, Monday",College of Marin ➜ San Rafael,Northbound,horizontal,622,1
 122,1625,0,20210613,20210911,0,1,0,0,0,0,0,"Northbound, Tuesday",College of Marin ➜ San Rafael,Northbound,horizontal,622,2
 123,1625,0,20210613,20210911,0,0,1,0,0,0,0,"Northbound, Wednesday",College of Marin ➜ San Rafael,Northbound,horizontal,622,3
