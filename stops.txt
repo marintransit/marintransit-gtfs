@@ -139,7 +139,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4892584,44003,San Rafael Transit Center,,37.97132885564685,-122.52269874603272,,,,,,
 5387876,41361,Sir Francis Drake Blvd & Bank St,,37.975231,-122.561897,,,,,,
 498087,40334,College of Marin - Sir Francis Drake Blvd & Elm Av,,37.956234,-122.548515,,,,,,
-445929,40349,Colg of Marin-College Ave & Sir Francis Drake Blvd,,37.954258,-122.54863,,,,,,
+445929,40349,College of Marin College Ave & Sir Francis Drake,,37.954258,-122.54863,,,,,,
 526431,40427,4th St & Court St,,37.973133,-122.527283,,,,,,
 526432,40425,4th St & C St,,37.973499,-122.530945,,,,,,
 526433,40424,4th St & E St,,37.973717,-122.533447,,,,,,
