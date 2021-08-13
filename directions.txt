@@ -59,3 +59,5 @@ route_id,direction_id,direction
 1393,1,South
 4941,0,North
 4941,1,South
+5057,0,North
+5057,1,South
