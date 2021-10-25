@@ -1,0 +1,4 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+Adult Fare,1237,,,
+Adult Fare,1393,,,
+Adult Fare,5049,,,

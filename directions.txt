@@ -25,8 +25,6 @@ route_id,direction_id,direction
 16,1,West
 2299,0,East
 2299,1,West
-2306,0,North
-2306,1,South
 4565,0,North
 4565,1,South
 1394,0,North
@@ -49,15 +47,11 @@ route_id,direction_id,direction
 1395,1,West
 1237,0,East
 1237,1,West
-4944,0,North
-4944,1,South
 1625,0,North
 1625,1,South
 5049,0,East
 5049,1,West
 1393,0,North
 1393,1,South
-4941,0,North
-4941,1,South
 5057,0,North
 5057,1,South
