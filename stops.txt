@@ -137,7 +137,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71750,40408,Dominican University Grand Av & Acacia Av,,37.979515,-122.515854,,,,,,
 71756,40410,Grand Av & Jewell St,,37.977005,-122.516891,,,,,,
 71764,40412,Grand Av & Belle Av,,37.975269,-122.518585,,,,,,
-4892584,44003,San Rafael Transit Center,,37.97132885564685,-122.52269874603272,,,,,,
+4892584,44003,San Rafael Transit Center,,37.97132885564685,-122.5226987460327,,,,,,
 5387876,41361,Sir Francis Drake Blvd & Bank St,,37.975231,-122.561897,,,,,,
 498087,40334,College of Marin - Sir Francis Drake Blvd & Elm Av,,37.956234,-122.548515,,,,,,
 445929,40349,College of Marin College Ave & Sir Francis Drake,,37.954258,-122.54863,,,,,,

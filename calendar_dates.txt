@@ -1,13 +1,17 @@
 service_id,date,holiday_name,exception_type
-Mon-Fri,20210906,Labor Day,2
-SunHol,20210906,Labor Day,1
-Monday,20210906,Labor Day,2
-COM Monday,20210906,Labor Day,2
-Mon-Fri,20211125,Thanksgiving,2
-SunHol,20211125,Thanksgiving,1
-Thursday,20211125,Thanksgiving,2
-COM Thursday,20211125,Thanksgiving,2
-Mon-Fri,20211126,Day After Thanksgiving,2
-SunHol,20211126,Day After Thanksgiving,1
-Friday,20211126,Day After Thanksgiving,2
-COM Friday,20211126,Day After Thanksgiving,2
+Mon-Fri,20211224,Christmas Eve,2
+SunHol,20211224,Christmas Eve,1
+Sat,20211225,Christmas Day,2
+SunHol,20211225,Christmas Day,1
+Mon-Fri,20211231,New Years Eve,2
+SunHol,20211231,New Years Eve,1
+Sat,20220101,New Years Day,2
+SunHol,20220101,New Years Day,1
+Mon-Fri,20220118,Marin Luther King Day,2
+Monday,20220118,Marin Luther King Day,2
+COM Monday,20220118,Marin Luther King Day,2
+SunHol,20220118,Marin Luther King Day,1
+Mon-Fri,20220221,Presidents Day,2
+Monday,20220221,Presidents Day,2
+COM Monday,20220221,Presidents Day,2
+SunHol,20220221,Presidents Day,1
