@@ -17,6 +17,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1394,849,645,Canal - Terra Linda HS,via Civic Center,3,https://marintransit.org/routes/645,515553,FFFFFF,
 1242,849,651,Hamilton - San Marin HS,via Ignacio/San Jose MS,3,https://marintransit.org/routes/651,515553,FFFFFF,
 1240,849,619,Tiburon - Redwood HS,via Belvedere,3,https://marintransit.org/routes/619,515553,FFFFFF,
+4565,849,649,Hamilton - Downtown Novato,via South Novato Blvd,3,https://marintransit.org/routes/649,515553,FFFFFF,
 16,849,219,Tiburon - Strawberry,via Seminary,3,https://marintransit.org/routes/219,008a5d,FFFFFF,
 1245,849,257,San Rafael - Novato (Ignacio),via Kaiser/Hamilton,3,https://marintransit.org/routes/257,76a33a,FFFFFF,
 1784,849,245,San Rafael (Downtown - Smith Ranch Road),via Kaiser,3,https://marintransit.org/routes/245,009649,FFFFFF,
