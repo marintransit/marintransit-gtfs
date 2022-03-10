@@ -1,10 +1,4 @@
 service_id,date,holiday_name,exception_type
-Mon-Fri,20211224,Christmas Eve,2
-SunHol,20211224,Christmas Eve,1
-Sat,20211225,Christmas Day,2
-SunHol,20211225,Christmas Day,1
-Mon-Fri,20211231,New Years Eve,2
-SunHol,20211231,New Years Eve,1
 Sat,20220101,New Years Day,2
 SunHol,20220101,New Years Day,1
 Mon-Fri,20220118,Marin Luther King Day,2
@@ -15,3 +9,30 @@ Mon-Fri,20220221,Presidents Day,2
 Monday,20220221,Presidents Day,2
 COM Monday,20220221,Presidents Day,2
 SunHol,20220221,Presidents Day,1
+Mon-Fri,20220530,Memorial Day,2
+Monday,20220530,Memorial Day,2
+SunHol,20220530,Memorial Day,1
+Mon-Fri,20220704,Independence Day,2
+Monday,20220704,Independence Day,2
+SunHol,20220704,Independence Day,1
+Mon-Fri,20220905,Labor Day,2
+Monday,20220905,Labor Day,2
+COM Monday,20220905,Labor Day,2
+SunHol,20220905,Labor Day,1
+Friday,20221111,Veterans Day,2
+COM Friday,20221111,Veterans Day,2
+SunHol,20221111,Veterans Day,1
+Mon-Fri,20221124,Thanksgiving Day,2
+Thursday,20221124,Thanksgiving Day,2
+COM Thursday,20221124,Thanksgiving Day,2
+SunHol,20221124,Thanksgiving Day,1
+Mon-Fri,20221125,Day After Thanksgiving,2
+Friday,20221125,Day After Thanksgiving,2
+COM Friday,20221125,Day After Thanksgiving,2
+SunHol,20221125,Day After Thanksgiving,1
+Mon-Fri,20221224,Christmas Eve,2
+Friday,20221224,Christmas Eve,2
+COM Friday,20221224,Christmas Eve,2
+SunHol,20221224,Christmas Eve,1
+Mon-Fri,20221231,New Years Eve,2
+SunHol,20221231,New Years Eve,1
