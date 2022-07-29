@@ -1,4 +1,10 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 Mon-Fri,1,1,1,1,1,0,0,20220612,20230610
+Thursday,0,0,0,1,0,0,0,20220612,20230610
+Wednesday,0,0,1,0,0,0,0,20220612,20230610
+Tuesday,0,1,0,0,0,0,0,20220612,20230610
+Friday,0,0,0,0,1,0,0,20220612,20230610
+Monday,1,0,0,0,0,0,0,20220612,20230610
 Sat,0,0,0,0,0,1,0,20220612,20230610
 SunHol,0,0,0,0,0,0,1,20220612,20230610
+Stage Peak Mon - Fri,1,1,1,1,1,0,0,20220612,20220812
