@@ -16,8 +16,6 @@ SunHol,20220704,Independence Day,1
 Mon-Fri,20220905,Labor Day,2
 Monday,20220905,Labor Day,2
 SunHol,20220905,Labor Day,1
-Friday,20221111,Veterans Day,2
-SunHol,20221111,Veterans Day,1
 Mon-Fri,20221124,Thanksgiving Day,2
 Thursday,20221124,Thanksgiving Day,2
 SunHol,20221124,Thanksgiving Day,1
