@@ -1,0 +1,2 @@
+fare_id,rider_category_id,price,expiration_date,commencement_date
+b'Adult Fare',b'1',2.00,20191001,b''
