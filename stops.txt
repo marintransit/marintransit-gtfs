@@ -1,5 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code
-6181269,40430,San Rafael Transit Center,,37.971081,-122.523102,,,1,6181269,,1,
+6181269,40430,San Rafael Transit Center,,37.971081,-122.523102,,,1,,,1,
 484449,40694,Redwood Blvd & Olive Ave,,38.11118,-122.569038,,,0,,,,
 2962126,40696,Redwood Blvd & Grant Ave,,38.106438,-122.570629,,,0,,,,
 2505825,40698,DeLong Ave & Reichert Ave,,38.10549,-122.566457,,,0,,,1,
