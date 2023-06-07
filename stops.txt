@@ -1,4 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code
+40430,40430,San Rafael Transit Center,,37.971081,-122.523102,,,1,,,1,
 237330,40584,Adrian Way & La Brea Way,,38.013306,-122.514198,,,0,,,,
 71897,40588,Adrian Way & Rosal Way,,38.012482,-122.515984,,,0,,,,
 237333,40590,La Pasada Way & N San Pedro Rd,,38.011005,-122.517761,,,0,,,,
