@@ -1,5 +1,4 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code
-40430,40430,San Rafael Transit Center,,37.971081,-122.523102,,,1,,,1,
 237330,40584,Adrian Way & La Brea Way,,38.013306,-122.514198,,,0,,,,
 71897,40588,Adrian Way & Rosal Way,,38.012482,-122.515984,,,0,,,,
 237333,40590,La Pasada Way & N San Pedro Rd,,38.011005,-122.517761,,,0,,,,
@@ -381,6 +380,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2498727,41332,Shoreline Pkwy @ Target,,37.953232,-122.490639,,,0,,,1,
 2498849,41094,1525 Francisco Blvd E,,37.952511,-122.496984,,,0,,,,
 2498850,41095,Irene St & Francisco Blvd E,,37.956725,-122.500344,,,0,,,,
+2498851,40465,Kerner Blvd btwn 3140 & 3160,,37.958751,-122.501191,,,0,,,1,
 1915028,41353,Via Casitas & El Portal Dr,,37.947094,-122.529419,,,0,,,1,
 1915029,41355,630 S Eliseo Dr,,37.945118,-122.53019,,,0,,,,
 1915030,41357,1220 S Eliseo Dr,,37.943935,-122.535553,,,0,,,1,
