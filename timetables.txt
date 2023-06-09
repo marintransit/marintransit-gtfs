@@ -11,14 +11,14 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 12,2305,1,20230611,20230909,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,Southbound,vertical,36,6
 13,2305,1,20230611,20230909,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,Southbound,vertical,36,4
 14,2305,1,20230611,20230909,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,Southbound,vertical,36,2
-15,2302,0,20230611,20230909,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Marin General ➜ Canal,Eastbound,vertical,29,1
-16,2302,1,20230611,20230909,1,1,1,1,1,0,0,"Westbound, Monday - Friday",Canal ➜ Marin General,Westbound,vertical,29,2
-17,2303,0,20230611,20230909,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Novato,Northbound,vertical,35,5
-18,2303,0,20230611,20230909,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Novato,Northbound,vertical,35,3
-19,2303,0,20230611,20230909,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Novato,Northbound,vertical,35,1
-20,2303,1,20230611,20230909,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Canal,Southbound,vertical,35,6
-21,2303,1,20230611,20230909,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Canal,Southbound,vertical,35,4
-22,2303,1,20230611,20230909,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ Canal,Southbound,vertical,35,2
+15,2302,0,20230611,20230909,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",E. Corte Madera ➜ San Rafael,Northbound,vertical,29,1
+16,2302,1,20230611,20230909,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ E. Corte Madera,Southbound,vertical,29,2
+17,2303,0,20230611,20230909,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Northgate,Northbound,vertical,35,5
+18,2303,0,20230611,20230909,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Northgate,Northbound,vertical,35,3
+19,2303,0,20230611,20230909,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Northgate,Northbound,vertical,35,1
+20,2303,1,20230611,20230909,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Northgate ➜ Canal,Southbound,vertical,35,6
+21,2303,1,20230611,20230909,0,0,0,0,0,1,0,"Southbound, Saturday",Northgate ➜ Canal,Southbound,vertical,35,4
+22,2303,1,20230611,20230909,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Northgate ➜ Canal,Southbound,vertical,35,2
 29,1082,0,20230611,20230909,0,0,0,0,0,0,1,"Eastbound, Sunday/Holidays",Fairfax Manor ➜ San Rafael,Eastbound,vertical,228,6
 30,1082,0,20230611,20230909,0,0,0,0,0,1,0,"Eastbound, Saturday",Fairfax Manor ➜ San Rafael,Eastbound,vertical,228,4
 31,1082,0,20230611,20230909,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",Fairfax Manor ➜ San Rafael,Eastbound,vertical,228,2
