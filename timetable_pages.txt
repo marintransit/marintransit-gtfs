@@ -13,7 +13,3 @@ timetable_page_id,timetable_page_label,filename
 228,,
 233,,
 245,,
-613,,
-619,,
-625,,
-654,,
