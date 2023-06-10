@@ -79,3 +79,9 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 88,5057,1,20230611,20230909,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ Marin City,Southbound,vertical,71,4
 89,5057,0,20230611,20230909,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Marin City ➜ Novato,Northbound,vertical,71,5
 90,5057,1,20230611,20230909,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ Marin City,Southbound,vertical,71,6
+91,6072,0,20230611,20230909,1,1,1,1,1,0,0,"Northbound, Monday - Friday",San Rafael ➜ Novato,Northbound,vertical,57,1
+92,6072,1,20230611,20230909,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Novato ➜ San Rafael,Southbound,vertical,57,2
+93,6072,0,20230611,20230909,0,0,0,0,0,1,0,"Northbound, Saturday",San Rafael ➜ Novato,Northbound,vertical,57,3
+94,6072,1,20230611,20230909,0,0,0,0,0,1,0,"Southbound, Saturday",Novato ➜ San Rafael,Southbound,vertical,57,4
+95,6072,0,20230611,20230909,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",San Rafael ➜ Novato,Northbound,vertical,57,5
+96,6072,1,20230611,20230909,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Novato ➜ San Rafael,Southbound,vertical,57,6
