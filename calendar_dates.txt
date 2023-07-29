@@ -1,23 +1,24 @@
 service_id,date,holiday_name,exception_type
-Sat,20221224,Christmas Eve,2
-SunHol,20221224,Christmas Eve,1
-Mon-Fri,20221226,Christmas Day Observed,2
-Monday,20221226,Christmas Day Observed,2
-SunHol,20221226,Christmas Day Observed,1
-Sat,20221231,New Years Eve,2
-SunHol,20221231,New Years Eve,1
-Mon-Fri,20230102,New Years Day Observed,2
-Monday,20230102,New Years Day Observed,2
-SunHol,20230102,New Years Day Observed,1
-Mon-Fri,20230220,Presidents Day,2
-Monday,20230220,Presidents Day,2
-SunHol,20230220,Presidents Day,1
-Mon-Fri,20230529,Memorial Day,2
-Monday,20230529,Memorial Day,2
-SunHol,20230529,Memorial Day,1
 Mon-Fri,20230704,Independence Day,2
-Monday,20230704,Independence Day,2
 SunHol,20230704,Independence Day,1
 Mon-Fri,20230904,Labor Day,2
 Monday,20230904,Labor Day,2
 SunHol,20230904,Labor Day,1
+Thursday,20231123,Thanksgiving Day,2
+Mon-Fri,20231123,Thanksgiving Day,2
+SunHol,20231123,Thanksgiving Day,1
+Friday,20231124,Day After Thanksgiving,2
+Mon-Fri,20231124,Day After Thanksgiving,2
+SunHol,20231124,Day After Thanksgiving,1
+Mon-Fri,20231225,Christmas Day,2
+Monday,20231225,Christmas Day,2
+SunHol,20231225,Christmas Day,1
+Mon-Fri,20240101,New Years Day,2
+Monday,20240101,New Years Day,2
+SunHol,20240101,New Years Day,1
+Mon-Fri,20240219,Presidents Day,2
+Monday,20240219,Presidents Day,2
+SunHol,20240219,Presidents Day,1
+Mon-Fri,20240527,Memorial Day,2
+Monday,20240527,Memorial Day,2
+SunHol,20240527,Memorial Day,1

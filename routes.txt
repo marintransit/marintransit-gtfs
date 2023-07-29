@@ -2,7 +2,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1082,33,228,Downtown San Rafael - Fairfax Manor,,3,https://marintransit.org/routes/228,00b26a,FFFFFF,,,
 1784,33,245,San Rafael (Downtown - Smith Ranch Road),,3,https://marintransit.org/routes/245,009649,FFFFFF,,,
 1395,33,625,Lagunitas - Sir Francis Drake HS - San Anselmo Hub,,3,https://marintransit.org/routes/625,515553,FFFFFF,,,
-2297,33,17,Downtown San Rafael - Sausalito,,3,https://marintransit.org/routes/17,1b65ac,FFFFFF,,,
 1240,33,619,Tiburon - Redwood HS,,3,https://marintransit.org/routes/619,515553,FFFFFF,,,
 1243,33,654,Olive - Novato Loop,,3,https://marintransit.org/routes/654,515553,FFFFFF,,,
 1238,33,613,Paradise Cay - Redwood HS,,3,https://marintransit.org/routes/613,515553,FFFFFF,,,
@@ -18,3 +17,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 1207,33,68,Downtown San Rafael - Inverness,,3,https://marintransit.org/routes/68,5567a9,FFFFFF,,,
 1237,33,61,Sausalito - Bolinas,,3,https://marintransit.org/routes/61,5567a9,FFFFFF,,,
 2305,33,36,Canal - Marin City,,3,https://marintransit.org/routes/36,e6b00d,FFFFFF,,,
+2297,33,17,Downtown San Rafael - Sausalito,,3,https://marintransit.org/routes/17,1b65ac,FFFFFF,,,
