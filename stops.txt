@@ -72,7 +72,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 526436,40423,4th St & E St,,37.973572,-122.533046,,,0,,,1,
 526437,40426,4th St & C St,,37.973362,-122.530535,,,0,,,1,
 526438,40428,4th St & Court St,,37.972973,-122.527,,,0,,,1,
-4891107,44006,San Rafael Transit Center,Platform C,37.97113197,-122.5228498,,,0,6181269,,1,
+4891107,44006,San Rafael Transit Center,Platform C,37.97113197,-122.5228498,,,0,,,1,
 229914,40556,Las Gallinas Ave & Nova Albion Way,,38.008488,-122.54921,,,0,,,,
 229866,40562,Las Gallinas Ave & Northgate Dr,,38.00669929,-122.5458137,,,0,,,1,
 229872,40564,Las Gallinas Ave at Northgate Mall,,38.005165,-122.541908,,,0,,,1,
