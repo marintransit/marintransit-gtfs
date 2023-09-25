@@ -147,7 +147,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1567578,40773,Hwy 101 @ Alameda Del Prado Bus Pad,,38.049111,-122.532356,,,0,,,1,
 5954249,42112,Hwy 101 @ Terra Linda Bus Pad SB,,38.00794,-122.542233,,,0,,,,
 1875519,40581,Hwy 101 @ N San Pedro Rd Bus Pad,,37.995296,-122.533456,,,0,,,1,
-4890417,44002,San Rafael Transit Center,Platform A West,37.97087,-122.522385,,,0,6181269,,1,
+4890417,44002,San Rafael Transit Center,Platform A East,37.97087,-122.522385,,,0,6181269,,1,
 2498587,40267,Hwy 101 @ Lucky Dr Bus Pad,,37.937926,-122.517021,,,0,,,1,
 1568519,40295,Hwy 101 @ Tamalpais Dr Bus Pad,,37.926504,-122.515248,,,0,,,1,
 445917,40164,Hwy 101 @ Tiburon Wye Bus Pad,,37.903698,-122.516051,,,0,,,1,
