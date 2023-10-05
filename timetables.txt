@@ -119,16 +119,16 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 128,1625,1,20230822,20240608,0,0,1,0,0,0,0,"Southbound, Wednesday",San Rafael ➜ College of Marin,Southbound,vertical,622,8
 129,1625,1,20230822,20240608,0,0,0,1,0,0,0,"Southbound, Thursday",San Rafael ➜ College of Marin,Southbound,vertical,622,9
 130,1625,1,20230822,20240608,0,0,0,0,1,0,0,"Southbound, Friday",San Rafael ➜ College of Marin,Southbound,vertical,622,10
-131,1395,0,20230822,20240608,1,0,0,0,0,0,0,"Eastbound, Monday",Lagunitas ➜ San Rafael,Eastbound,vertical,625,1
-132,1395,0,20230822,20240608,0,1,0,0,0,0,0,"Eastbound, Tuesday",Lagunitas ➜ San Rafael,Eastbound,vertical,625,2
-133,1395,0,20230822,20240608,0,0,1,0,0,0,0,"Eastbound, Wednesday",Lagunitas ➜ San Rafael,Eastbound,vertical,625,3
-134,1395,0,20230822,20240608,0,0,0,1,0,0,0,"Eastbound, Thursday",Lagunitas ➜ San Rafael,Eastbound,vertical,625,4
-135,1395,0,20230822,20240608,0,0,0,0,1,0,0,"Eastbound, Friday",Lagunitas ➜ San Rafael,Eastbound,vertical,625,5
-136,1395,1,20230822,20240608,1,0,0,0,0,0,0,"Westbound, Monday",San Rafael ➜ Lagunitas,Westbound,vertical,625,6
-137,1395,1,20230822,20240608,0,1,0,0,0,0,0,"Westbound, Tuesday",San Rafael ➜ Lagunitas,Westbound,vertical,625,7
-138,1395,1,20230822,20240608,0,0,1,0,0,0,0,"Westbound, Wednesday",San Rafael ➜ Lagunitas,Westbound,vertical,625,8
-139,1395,1,20230822,20240608,0,0,0,1,0,0,0,"Westbound, Thursday",San Rafael ➜ Lagunitas,Westbound,vertical,625,9
-140,1395,1,20230822,20240608,0,0,0,0,1,0,0,"Westbound, Friday",San Rafael ➜ Lagunitas,Westbound,vertical,625,10
+131,1395,0,20230822,20240608,1,0,0,0,0,0,0,"Eastbound, Monday",Lagunitas ➜ San Anselmo,Eastbound,vertical,625,1
+132,1395,0,20230822,20240608,0,1,0,0,0,0,0,"Eastbound, Tuesday",Lagunitas ➜ San Anselmo,Eastbound,vertical,625,2
+133,1395,0,20230822,20240608,0,0,1,0,0,0,0,"Eastbound, Wednesday",Lagunitas ➜ San Anselmo,Eastbound,vertical,625,3
+134,1395,0,20230822,20240608,0,0,0,1,0,0,0,"Eastbound, Thursday",Lagunitas ➜ San Anselmo,Eastbound,vertical,625,4
+135,1395,0,20230822,20240608,0,0,0,0,1,0,0,"Eastbound, Friday",Lagunitas ➜ San Anselmo,Eastbound,vertical,625,5
+136,1395,1,20230822,20240608,1,0,0,0,0,0,0,"Westbound, Monday",San Anselmo ➜ Lagunitas,Westbound,vertical,625,6
+137,1395,1,20230822,20240608,0,1,0,0,0,0,0,"Westbound, Tuesday",San Anselmo ➜ Lagunitas,Westbound,vertical,625,7
+138,1395,1,20230822,20240608,0,0,1,0,0,0,0,"Westbound, Wednesday",San Anselmo ➜ Lagunitas,Westbound,vertical,625,8
+139,1395,1,20230822,20240608,0,0,0,1,0,0,0,"Westbound, Thursday",San Anselmo ➜ Lagunitas,Westbound,vertical,625,9
+140,1395,1,20230822,20240608,0,0,0,0,1,0,0,"Westbound, Friday",San Anselmo ➜ Lagunitas,Westbound,vertical,625,10
 161,1243,0,20230822,20240608,1,0,0,0,0,0,0,"Eastbound, Monday",Novato Loop,Eastbound,vertical,654,1
 162,1243,0,20230822,20240608,0,1,0,0,0,0,0,"Eastbound, Tuesday", Novato Loop,Eastbound,vertical,654,2
 163,1243,0,20230822,20240608,0,0,1,0,0,0,0,"Eastbound, Wednesday", Novato Loop,Eastbound,vertical,654,3
