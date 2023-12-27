@@ -1,6 +1,4 @@
 service_id,date,holiday_name,exception_type
-Mon-Fri,20230704,Independence Day,2
-SunHol,20230704,Independence Day,1
 Mon-Fri,20230904,Labor Day,2
 Monday,20230904,Labor Day,2
 SunHol,20230904,Labor Day,1
@@ -22,3 +20,5 @@ SunHol,20240219,Presidents Day,1
 Mon-Fri,20240527,Memorial Day,2
 Monday,20240527,Memorial Day,2
 SunHol,20240527,Memorial Day,1
+Mon-Fri,20240704,Independence Day,2
+SunHol,20240704,Independence Day,1
