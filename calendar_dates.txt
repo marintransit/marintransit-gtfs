@@ -14,9 +14,14 @@ SunHol,20231225,Christmas Day,1
 Mon-Fri,20240101,New Years Day,2
 Monday,20240101,New Years Day,2
 SunHol,20240101,New Years Day,1
+Monday,20240115,MLK Jr Day,2
 Mon-Fri,20240219,Presidents Day,2
 Monday,20240219,Presidents Day,2
 SunHol,20240219,Presidents Day,1
+Tuesday,20240220,Mid-winter Break,2
+Wednesday,20240221,Mid-winter Break,2
+Thursday,20240222,Mid-winter Break,2
+Friday,20240223,Mid-winter Break,2
 Mon-Fri,20240527,Memorial Day,2
 Monday,20240527,Memorial Day,2
 SunHol,20240527,Memorial Day,1
