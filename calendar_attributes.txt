@@ -1,11 +1,9 @@
 service_id,service_description
+Mon-Fri,Mon-Fri
 Thursday,Thursday
 Wednesday,Wednesday
 Tuesday,Tuesday
 Friday,Friday
 Monday,Monday
 Sat,Sat
-GGT Mon-Fri,GGT Mon-Fri
-Airporter SunHol,Airporter SunHol
-Airporter Mon-Fri,Airporter Mon-Fri
-GGT SunHol,GGT SunHol
+SunHol,SunHol

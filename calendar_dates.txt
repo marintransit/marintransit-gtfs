@@ -1,23 +1,21 @@
 service_id,date,exception_type
-Airporter Mon-Fri,20241224,2
-Airporter SunHol,20241224,1
-GGT Mon-Fri,20241225,2
-Airporter Mon-Fri,20241225,2
-GGT SunHol,20241225,1
-Airporter SunHol,20241225,1
-Airporter Mon-Fri,20241231,2
-Airporter SunHol,20241231,1
-GGT Mon-Fri,20250101,2
-Airporter Mon-Fri,20250101,2
-GGT SunHol,20250101,1
-Airporter SunHol,20250101,1
-Monday,20241223,2
-Tuesday,20241224,2
-Wednesday,20241225,2
-Thursday,20241226,2
-Friday,20241227,2
-Monday,20241230,2
-Tuesday,20241231,2
-Wednesday,20250101,2
-Thursday,20250102,2
-Friday,20250103,2
+SunHol,20250217,1
+SunHol,20250526,1
+SunHol,20250619,1
+SunHol,20250704,1
+Mon-Fri,20250217,2
+Mon-Fri,20250526,2
+Mon-Fri,20250619,2
+Mon-Fri,20250704,2
+Monday,20250120,2
+Monday,20250217,2
+Monday,20250407,2
+Monday,20250526,2
+Tuesday,20250218,2
+Tuesday,20250408,2
+Wednesday,20250219,2
+Wednesday,20250409,2
+Thursday,20250220,2
+Thursday,20250410,2
+Friday,20250221,2
+Friday,20250411,2
