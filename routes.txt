@@ -3,7 +3,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 16,33,219,Tiburon - Strawberry,,3,https://marintransit.org/routes/219,008a5d,FFFFFF,,,
 1789,33,22,Downtown San Rafael - Marin City,,3,https://marintransit.org/routes/22,a02125,FFFFFF,,,
 1082,33,228,Downtown San Rafael - Fairfax Manor,,3,https://marintransit.org/routes/228,00b26a,FFFFFF,,,
-21,33,23,Canal - Fairfax Manor,,3,https://marintransit.org/routes/23,c90b86,FFFFFF,,,
+2298,33,23,Canal - Fairfax Manor,,3,https://marintransit.org/routes/23,c90b86,FFFFFF,,,
 1203,33,233,San Rafael (Downtown - Santa Venetia),,3,https://marintransit.org/routes/233,005a23,FFFFFF,,,
 1784,33,245,San Rafael (Downtown - Smith Ranch Road),,3,https://marintransit.org/routes/245,009649,FFFFFF,,,
 2302,33,29,Downtown San Rafael - E. Corte Madera,,3,https://marintransit.org/routes/29,812990,FFFFFF,,,

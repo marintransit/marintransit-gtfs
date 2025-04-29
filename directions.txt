@@ -7,8 +7,8 @@ route_id,direction_id,direction
 1789,1,South
 1082,0,East
 1082,1,West
-21,0,East
-21,1,West
+2298,0,East
+2298,1,West
 1203,0,North
 1203,1,South
 1784,0,North
