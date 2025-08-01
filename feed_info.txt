@@ -1,2 +1,2 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Optibus,https://www.optibus.com,en,20250427,20250809,20250427,gtfs@marintransit.org,https://marintransit.org/developers
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_contact_email,feed_contact_url,feed_version
+Optibus Ltd.,https://www.optibus.com/,en,20250810,20260110,gtfs@marintransit.org,https://marintransit.org/developers,UTC: 24-Jul-2025 22:32
