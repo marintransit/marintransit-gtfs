@@ -1,9 +1,9 @@
 service_id,service_description
-SunHol,SunHol
+Friday,Friday
 Mon-Fri,Mon-Fri
+SunHol,SunHol
+Thursday,Thursday
 Monday,Monday
 Tuesday,Tuesday
 Wednesday,Wednesday
-Thursday,Thursday
-Friday,Friday
 Sat,Sat
