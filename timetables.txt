@@ -11,8 +11,8 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 12,36,1,20250810,20260110,0,0,0,0,0,0,1,"Southbound, Sunday/Holidays",Canal ➜ Marin City,Southbound,vertical,36,6
 13,36,1,20250810,20260110,0,0,0,0,0,1,0,"Southbound, Saturday",Canal ➜ Marin City,Southbound,vertical,36,4
 14,36,1,20250810,20260110,1,1,1,1,1,0,0,"Southbound, Monday - Friday",Canal ➜ Marin City,Southbound,vertical,36,2
-15,29,0,20250810,20260110,1,1,1,1,1,0,0,"Eastbound, Monday - Friday",E. Corte Madera ➜ San Rafael,Northbound,vertical,29,1
-16,29,1,20250810,20260110,1,1,1,1,1,0,0,"Westbound, Monday - Friday",San Rafael ➜ E. Corte Madera,Southbound,vertical,29,2
+15,29,0,20250810,20260110,1,1,1,1,1,0,0,"Northbound, Monday - Friday",E. Corte Madera ➜ San Rafael,Northbound,vertical,29,1
+16,29,1,20250810,20260110,1,1,1,1,1,0,0,"Southbound, Monday - Friday",San Rafael ➜ E. Corte Madera,Southbound,vertical,29,2
 17,35,0,20250810,20260110,0,0,0,0,0,0,1,"Northbound, Sunday/Holidays",Canal ➜ Northgate,Northbound,vertical,35,5
 18,35,0,20250810,20260110,0,0,0,0,0,1,0,"Northbound, Saturday",Canal ➜ Northgate,Northbound,vertical,35,3
 19,35,0,20250810,20260110,1,1,1,1,1,0,0,"Northbound, Monday - Friday",Canal ➜ Northgate,Northbound,vertical,35,1
