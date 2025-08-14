@@ -38,6 +38,22 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 40304,40304,Magnolia Av & Ward St,,37.936222,-122.53508,,,0,,,1,,Magnolia Avenue & Ward Street
 40309,40309,Doherty Dr & Larkspur Plaza Dr,,37.938156,-122.532867,,,0,,,1,,Doherty Drive & Larkspur Plaza Drive
 40311,40311,Redwood High & Doherty Dr,,37.937999,-122.527866,,,0,,,1,,Redwood High & Doherty Drive
+40814,40814,Sir Francis Drake Blvd & Lagunitas School Rd,,38.016315,-122.675964,,,0,,,,,Sir Francis Drake Boulevard & Lahguh nitas School Road
+40816,40816,San Geronimo Valley Dr & Creamery Rd,,38.014347,-122.668182,,,0,,,,,San Geronimo Valley Drive & Creamery Road
+40820,40820,Park St & Central Av,,38.012112,-122.643715,,,0,,,,,Park Street & Central Avenue
+40512,40512,Sir Francis Drake Blvd & Olema Rd,,38.000221,-122.604134,,,0,,,,,Sir Francis Drake Boulevard & Olema Road
+40514,40514,Sir Francis Drake Blvd & Alhambra Circle,,37.999081,-122.600449,,,0,,,1,,Sir Francis Drake Boulevard & Alhambra Circle
+40516,40516,Sir Francis Drake Blvd At Drake Manor Apts,,37.99704,-122.599068,,,0,,,1,,Sir Francis Drake Boulevard At Drake Manor Apartments
+40518,40518,Sir Francis Drake Blvd & Oak Manor Dr,,37.995659,-122.596703,,,0,,,1,,Sir Francis Drake Boulevard & Oak Manor Drive
+40520,40520,Sir Francis Drake Blvd & Marin Rd,,37.993378,-122.594208,,,0,,,1,,Sir Francis Drake Boulevard & Muhrin Road
+40524,40524,Sir Francis Drake Blvd & Broadway,,37.989788,-122.591644,,,0,,,1,,Sir Francis Drake Boulevard & Broadway
+40522,40522,Sir Francis Drake Blvd & Claus Dr,,37.987301,-122.588791,,,0,,,1,,Sir Francis Drake Boulevard & Claus Drive
+40526,40526,Sir Francis Drake Blvd & Kent Ave,,37.986561,-122.580917,,,0,,,1,,Sir Francis Drake Boulevard & Kent Avenue
+40472,40472,Sir Francis Drake Blvd & San Anselmo Ave,,37.986454,-122.576797,,,0,,,1,,Sir Francis Drake Boulevard & San Anselmo Avenue
+40474,40474,Archie Williams HS-Sir Francis Drake & Ash Ave,,37.985386,-122.574287,,,0,,,1,,Archie Williams High School -Sir Francis Drake & Ash Avenue
+40476,40476,Sir Francis Drake Blvd & Tamal Ave,,37.982178,-122.568779,,,0,,,1,,Sir Francis Drake Boulevard & Tamil Avenue
+40479,40479,Sir Francis Drake Blvd & Sais Ave,,37.980919,-122.566727,,,0,,,1,,Sir Francis Drake Boulevard & Sais Avenue
+40483,40483,Sir Francis Drake Blvd & Madrone Ave,,37.97879,-122.564331,,,0,,,1,,Sir Francis Drake Boulevard & Madrone Avenue
 40484,40484,San Anselmo Hub,,37.976546,-122.562841,,,0,,,1,,San Anselmo Hub
 40482,40482,Sir Francis Drake Blvd & Madrone Ave,,37.978928,-122.564117,,,0,,,1,,Sir Francis Drake Boulevard & Madrone Avenue
 40481,40481,Sir Francis Drake Blvd & Sunnyhills Dr,,37.981255,-122.567055,,,0,,,1,,Sir Francis Drake Boulevard & Sunnyhills Drive
@@ -53,26 +69,27 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 40517,40517,Sir Francis Drake Blvd At Drake Manor Apts,,37.997185,-122.599068,,,0,,,1,,Sir Francis Drake Boulevard At Drake Manor Apartments
 40515,40515,Sir Francis Drake Blvd & Alhambra Circle,,37.999207,-122.60041,,,0,,,,,Sir Francis Drake Boulevard & Alhambra Circle
 40513,40513,Sir Francis Drake Blvd & Glen Dr,,38.00037040648327,-122.60371355225372,,,0,,,,,Sir Francis Drake Boulevard & Glen Drive
-40820,40820,Park St & Central Av,,38.012112,-122.643715,,,0,,,,,Park Street & Central Avenue
 42000,42000,San Geronimo Valley Dr & Creamery Rd,,38.0144,-122.667946,,,0,,,,,San Geronimo Valley Drive & Creamery Road
 40815,40815,Sir Francis Drake Blvd & Lagunitas School Rd,,38.016491,-122.676315,,,0,,,,,Sir Francis Drake Boulevard & Lahguh nitas School Road
 40813,40813,Sir Francis Drake Blvd & Tamal Rd,,38.015358,-122.688744,,,0,,,,,Sir Francis Drake Boulevard & Tamil Road
 40784,40784,Castro St (W) & Sir Francis Drake Blvd,,38.01413,-122.695572,,,0,,,,,Castro Street (West) & Sir Francis Drake boulevard
-40814,40814,Sir Francis Drake Blvd & Lagunitas School Rd,,38.016315,-122.675964,,,0,,,,,Sir Francis Drake Boulevard & Lahguh nitas School Road
-40816,40816,San Geronimo Valley Dr & Creamery Rd,,38.014347,-122.668182,,,0,,,,,San Geronimo Valley Drive & Creamery Road
-40512,40512,Sir Francis Drake Blvd & Olema Rd,,38.000221,-122.604134,,,0,,,,,Sir Francis Drake Boulevard & Olema Road
-40514,40514,Sir Francis Drake Blvd & Alhambra Circle,,37.999081,-122.600449,,,0,,,1,,Sir Francis Drake Boulevard & Alhambra Circle
-40516,40516,Sir Francis Drake Blvd At Drake Manor Apts,,37.99704,-122.599068,,,0,,,1,,Sir Francis Drake Boulevard At Drake Manor Apartments
-40518,40518,Sir Francis Drake Blvd & Oak Manor Dr,,37.995659,-122.596703,,,0,,,1,,Sir Francis Drake Boulevard & Oak Manor Drive
-40520,40520,Sir Francis Drake Blvd & Marin Rd,,37.993378,-122.594208,,,0,,,1,,Sir Francis Drake Boulevard & Muhrin Road
-40524,40524,Sir Francis Drake Blvd & Broadway,,37.989788,-122.591644,,,0,,,1,,Sir Francis Drake Boulevard & Broadway
-40522,40522,Sir Francis Drake Blvd & Claus Dr,,37.987301,-122.588791,,,0,,,1,,Sir Francis Drake Boulevard & Claus Drive
-40526,40526,Sir Francis Drake Blvd & Kent Ave,,37.986561,-122.580917,,,0,,,1,,Sir Francis Drake Boulevard & Kent Avenue
-40472,40472,Sir Francis Drake Blvd & San Anselmo Ave,,37.986454,-122.576797,,,0,,,1,,Sir Francis Drake Boulevard & San Anselmo Avenue
-40474,40474,Archie Williams HS-Sir Francis Drake & Ash Ave,,37.985386,-122.574287,,,0,,,1,,Archie Williams High School -Sir Francis Drake & Ash Avenue
-40476,40476,Sir Francis Drake Blvd & Tamal Ave,,37.982178,-122.568779,,,0,,,1,,Sir Francis Drake Boulevard & Tamil Avenue
-40479,40479,Sir Francis Drake Blvd & Sais Ave,,37.980919,-122.566727,,,0,,,1,,Sir Francis Drake Boulevard & Sais Avenue
-40483,40483,Sir Francis Drake Blvd & Madrone Ave,,37.97879,-122.564331,,,0,,,1,,Sir Francis Drake Boulevard & Madrone Avenue
+40313,40313,Lucky Dr & Riviera Circle,,37.937267,-122.521591,,,0,,,,,Lucky Drive & Riviera Circle
+40295,40295,Hwy 101 @ Tamalpais Dr Bus Pad,,37.926504,-122.515248,,,0,,,1,,Highway one o one at Tamil pie is Drive Bus Pad
+40175,40175,Tiburon Blvd & N Knoll Rd,,37.90191680270236,-122.51092129136816,,,0,,,,,Tibur-on Boulevard & North Knoll Road
+40177,40177,Tiburon Blvd & Strawberry Dr,,37.898905323500635,-122.50414611087483,,,0,,,,,Tibur-on Boulevard & Strawberry Drive
+40223,40223,Tiburon Blvd & Greenwood Cove Rd,,37.8984074111689,-122.50053849131488,,,0,,,1,,Tibur-on Boulevard & Greenwood Cove Road
+40218,40218,Tiburon Blvd & Cecilia Way,,37.896681714317786,-122.49826633934603,,,0,,,,,Tibur-on Boulevard & Cecilia Way
+40220,40220,Tiburon Blvd & Greenwood Beach Rd,,37.89752986680882,-122.48911324173356,,,0,,,1,,Tibur-on Boulevard & Greenwood Beach Road
+40264,40264,Tiburon Blvd & Stewart Dr,,37.89423573724373,-122.48613296312524,,,0,,,,,Tibur-on Boulevard & Stewart Drive
+40213,40213,Tiburon Blvd & Pine Terrace,,37.89281718692171,-122.48404103323936,,,0,,,,,Tibur-on Boulevard & Pine Terrace
+40211,40211,Tiburon Blvd & Rock Hill Dr,,37.888443939938675,-122.47741287804033,,,0,,,,,Tibur-on Boulevard & Rock Hill Drive
+40209,40209,Tiburon Blvd & Gilmartin Dr,,37.886097,-122.474419,,,0,,,,,Tibur-on Boulevard & Gilmartin Drive
+42054,42054,Tiburon Blvd & San Rafael Av,,37.88395290382162,-122.47203911962606,,,0,,,,,Tibur-on Boulevard & San Rafael Avenue
+40206,40206,Tiburon Blvd & Neds Way,,37.881870246548026,-122.46756407227097,,,0,,,1,,Tibur-on Boulevard & Neds Way
+40204,40204,Tiburon Blvd & Lyford Dr,,37.87993998895287,-122.46461336067817,,,0,,,1,,Tibur-on Boulevard & Lyford Drive
+40224,40224,Tiburon Blvd & Mar West St,,37.87707446434904,-122.46236218344974,,,0,,,1,,Tibur-on Boulevard & Mar West Street
+40198,40198,Beach Rd & Juanita Ln,,37.874721,-122.459679,,,0,,,,,Beach Road & Juanita Lane
+40200,40200,Tiburon Blvd & Beach Rd,,37.87507947634172,-122.45884494783307,,,0,,,,,Tibur-on Boulevard & Beach Road
 40697,40697,Redwood Blvd & Grant Ave,,38.106571,-122.570611,,,0,,,1,,Redwood Boulevard & Grant Avenue
 40693,40693,Grant Av & Second St,,38.108074,-122.572586,,,0,,,1,,Grant Avenue & Second Street
 40691,40691,Grant Av & Fifth St,,38.108795,-122.576073,,,0,,,1,,Grant Avenue & Fifth Street
@@ -98,23 +115,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 41026,41026,Olive Av & Kenwood Ct,,38.110092,-122.563393,,,0,,,,,Olive Avenue & Kenwood Court
 40694,40694,Redwood Blvd & Olive Ave,,38.11118,-122.569038,,,0,,,,,Redwood Boulevard & Olive Avenue
 40696,40696,Redwood Blvd & Grant Ave,,38.106438,-122.570629,,,0,,,,,Redwood Boulevard & Grant Avenue
-40313,40313,Lucky Dr & Riviera Circle,,37.937267,-122.521591,,,0,,,,,Lucky Drive & Riviera Circle
-40295,40295,Hwy 101 @ Tamalpais Dr Bus Pad,,37.926504,-122.515248,,,0,,,1,,Highway one o one at Tamil pie is Drive Bus Pad
-40175,40175,Tiburon Blvd & N Knoll Rd,,37.90191680270236,-122.51092129136816,,,0,,,,,Tibur-on Boulevard & North Knoll Road
-40177,40177,Tiburon Blvd & Strawberry Dr,,37.898905323500635,-122.50414611087483,,,0,,,,,Tibur-on Boulevard & Strawberry Drive
-40223,40223,Tiburon Blvd & Greenwood Cove Rd,,37.8984074111689,-122.50053849131488,,,0,,,1,,Tibur-on Boulevard & Greenwood Cove Road
-40218,40218,Tiburon Blvd & Cecilia Way,,37.896681714317786,-122.49826633934603,,,0,,,,,Tibur-on Boulevard & Cecilia Way
-40220,40220,Tiburon Blvd & Greenwood Beach Rd,,37.89752986680882,-122.48911324173356,,,0,,,1,,Tibur-on Boulevard & Greenwood Beach Road
-40264,40264,Tiburon Blvd & Stewart Dr,,37.89423573724373,-122.48613296312524,,,0,,,,,Tibur-on Boulevard & Stewart Drive
-40213,40213,Tiburon Blvd & Pine Terrace,,37.89281718692171,-122.48404103323936,,,0,,,,,Tibur-on Boulevard & Pine Terrace
-40211,40211,Tiburon Blvd & Rock Hill Dr,,37.888443939938675,-122.47741287804033,,,0,,,,,Tibur-on Boulevard & Rock Hill Drive
-40209,40209,Tiburon Blvd & Gilmartin Dr,,37.886097,-122.474419,,,0,,,,,Tibur-on Boulevard & Gilmartin Drive
-42054,42054,Tiburon Blvd & San Rafael Av,,37.88395290382162,-122.47203911962606,,,0,,,,,Tibur-on Boulevard & San Rafael Avenue
-40206,40206,Tiburon Blvd & Neds Way,,37.881870246548026,-122.46756407227097,,,0,,,1,,Tibur-on Boulevard & Neds Way
-40204,40204,Tiburon Blvd & Lyford Dr,,37.87993998895287,-122.46461336067817,,,0,,,1,,Tibur-on Boulevard & Lyford Drive
-40224,40224,Tiburon Blvd & Mar West St,,37.87707446434904,-122.46236218344974,,,0,,,1,,Tibur-on Boulevard & Mar West Street
-40198,40198,Beach Rd & Juanita Ln,,37.874721,-122.459679,,,0,,,,,Beach Road & Juanita Lane
-40200,40200,Tiburon Blvd & Beach Rd,,37.87507947634172,-122.45884494783307,,,0,,,,,Tibur-on Boulevard & Beach Road
 40312,40312,Redwood High & Doherty Dr,,37.938121,-122.527944,,,0,,,,,Redwood High & Doherty Drive
 40327,40327,Doherty Dr & Hall Middle School,,37.938225,-122.531624,,,0,,,1,,Doherty Drive & Hall Middle School
 40310,40310,Doherty Dr & Larkspur Plaza Dr,,37.938232,-122.533646,,,0,,,,,Doherty Drive & Larkspur Plaza Drive
@@ -215,7 +215,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40423,40423,4th St & E St,,37.973572,-122.533046,,,0,,,1,,4th Street & East Street
 40426,40426,4th St & C St,,37.973362,-122.530535,,,0,,,1,,4th Street & C Street
 40428,40428,4th St & Court St,,37.972973,-122.527,,,0,,,1,,4th Street & Court Street
-44006,44006,San Rafael Transit Center-Platform C,Platform C,37.97113197,-122.5228498,,,0,srtc,,1,,San Rafael Transit Center
+44006,44006,San Rafael Transit Center-Platform C,Platform C,37.971239,-122.522821,,,0,srtc,,1,,San Rafael Transit Center
 40427,40427,4th St & Court St,,37.97312,-122.527396,,,0,,,1,,4th Street & Court Street
 40425,40425,4th St & C St,,37.973509,-122.530932,,,0,,,1,,4th Street & C Street
 40424,40424,4th St & E St,,37.973725,-122.533439,,,0,,,1,,4th Street & East Street
@@ -464,8 +464,8 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40583,40583,Vendola Dr & Estancia Way,,38.01273,-122.509499,,,0,,,,,Vendola Drive & Estancia Way
 41321,41321,Brighton Ave & Wharf Rd,,37.909275,-122.686546,,,0,,,1,,Brighton Avenue & Wharf Road
 40824,40824,Shoreline Hwy & Audobon Fire Rd,,37.929958,-122.682579,,,0,,,1,,Shoreline Hwy & Audobon Fire Rd
-40781,40781,Shoreline Hwy & Calle del Mar,,37.898464,-122.639961,,,0,,,1,,Shoreline Hwy & Calle del Mar
-40785,40785,Panoramic Hwy & Pan Toll Ranger Station,,37.904465,-122.603859,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
+40781,40781,Shoreline Hwy & Calle del Mar,,37.89851,-122.640074,,,0,,,1,,Shoreline Hwy & Calle del Mar
+40785,40785,Panoramic Hwy & Pan Toll Ranger Station,,37.90461,-122.603943,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
 40787,40787,897 Panoramic Hwy Bootjack Parking Lot,,37.909222,-122.601204,,,0,,,,,eight nine seven Panoramic Highway Bootjack Parking Lot
 40789,40789,Panoramic Hwy & Edgewood Av,,37.910057,-122.57708,,,0,,,1,,Panoramic Highway & Edgewood Avenue
 40791,40791,Panoramic Hwy & Park Av,,37.903872,-122.569739,,,0,,,,,Panoramic Highway & Park Avenue
@@ -483,9 +483,9 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40794,40794,Panoramic Hwy & Ridge Av,,37.901028,-122.567284,,,0,,,,,Panoramic Highway & Ridge Avenue
 40792,40792,Panoramic Hwy & Park Av,,37.904621,-122.570275,,,0,,,,,Panoramic Highway & Park Avenue
 40790,40790,Panoramic Hwy & Edgewood Av,,37.910583,-122.576996,,,0,,,,,Panoramic Highway & Edgewood Avenue
-40788,40788,895 Panoramic Hwy Bootjack Parking Lot,,37.909458,-122.60173,,,0,,,,,eight nine five Panoramic Highway Bootjack Parking Lot
-40786,40786,Panoramic Hwy & Pan Toll Ranger Station,,37.904499,-122.603996,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
-40782,40782,Shoreline Hwy & Calle del Mar,,37.898552,-122.639671,,,0,,,,,Shoreline Hwy & Calle del Mar
+40788,40788,895 Panoramic Hwy Bootjack Parking Lot,,37.908454,-122.602066,,,0,,,,,eight nine five Panoramic Highway Bootjack Parking Lot
+40786,40786,Panoramic Hwy & Pan Toll Ranger Station,,37.904317,-122.604245,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
+40782,40782,Shoreline Hwy & Calle del Mar,,37.898521,-122.639473,,,0,,,,,Shoreline Hwy & Calle del Mar
 40823,40823,Audubon Canyon Ranch,,37.930042,-122.682999,,,0,,,,,Audubon Canyon Ranch
 40800,40800,Inverness Store,,38.096519,-122.851524,,,0,,,,,Inverness Store
 40801,40801,Sir Francis Drake Blvd & Balboa Av,,38.063099,-122.820641,,,0,,,,,Sir Francis Drake Boulevard & Balboa Avenue
