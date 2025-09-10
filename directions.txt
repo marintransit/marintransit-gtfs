@@ -19,14 +19,12 @@ route_id,direction_id,direction
 61,1,West
 68,0,East
 68,1,West
-29,0,North
-29,1,South
 35,0,North
 35,1,South
-23,0,East
-23,1,West
 71,0,North
 71,1,South
+23,0,East
+23,1,West
 36,0,North
 36,1,South
 619,0,East
@@ -36,3 +34,5 @@ route_id,direction_id,direction
 625,0,East
 625,1,West
 654,0,East
+29,0,North
+29,1,South
