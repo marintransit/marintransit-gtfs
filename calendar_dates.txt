@@ -1,7 +1,4 @@
 service_id,date,exception_type
-Tuesday,20251125,2
-Tuesday,20251223,2
-Tuesday,20251230,2
 Mon-Fri,20251127,2
 Mon-Fri,20251128,2
 Mon-Fri,20251224,2
@@ -10,12 +7,15 @@ Mon-Fri,20251226,2
 Mon-Fri,20251231,2
 Mon-Fri,20260101,2
 Mon-Fri,20260102,2
-Wednesday,20251126,2
-Wednesday,20251224,2
-Wednesday,20251231,2
 Monday,20251124,2
 Monday,20251222,2
 Monday,20251229,2
+Tuesday,20251125,2
+Tuesday,20251223,2
+Tuesday,20251230,2
+Wednesday,20251126,2
+Wednesday,20251224,2
+Wednesday,20251231,2
 Thursday,20251127,2
 Thursday,20251225,2
 Thursday,20260101,2
