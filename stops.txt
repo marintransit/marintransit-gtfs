@@ -352,7 +352,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 41072,41072,Marin Health Medical Center-250 Bon Air Rd,,37.947031,-122.537398,,,0,,,1,,Muhrin Health Medical Center-Two Fifty Bawn Air Road
 41073,41073,Bon Air Rd & MHMC Emergency Entrance Rd,,37.94879557,-122.536288,,,0,,,1,,Bawn Air Road & MHMC Emergency Entrance Road
 40319,40319,Sir Francis Drake Blvd & Bon Air Rd,,37.95071,-122.533859,,,0,,,,,Sir Francis Drake Boulevard & Bawn Air Road
-40317,40317,Sir Francis Drake Blvd & Wolfe Grade,,37.952684,-122.53786,,,0,,,,,Sir Francis Drake Boulevard & Wolfe Grade
+40317,40317,Sir Francis Drake Blvd & Wolfe Grade,,37.953257,-122.538965,,,0,,,,,Sir Francis Drake Boulevard & Wolfe Grade
 40340,40340,Sir Francis Drake Blvd & Laurel Grove Ave,,37.953726,-122.541109,,,0,,,1,,Sir Francis Drake Boulevard & Laurel Grove Avenue
 40339,40339,Sir Francis Drake Blvd & Oak Ave,,37.953861,-122.543083,,,0,,,1,,Sir Francis Drake Boulevard & Oak Avenue
 40337,40337,Sir Francis Drake Blvd & Ash Ave,,37.954319,-122.545692,,,0,,,1,,Sir Francis Drake Boulevard & Ash Avenue
@@ -421,31 +421,6 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40593,40593,N San Pedro Rd & Crestview Dr,,38.009163,-122.51947,,,0,,,,,North San Pedro Road & Crestview Drive
 42131,42131,N San Pedro Rd & La Pasada Way,,38.010868,-122.517319,,,0,,,,,North San Pedro Road & La Pasada Way
 40583,40583,Vendola Dr & Estancia Way,,38.01273,-122.509499,,,0,,,,,Vendola Drive & Estancia Way
-41321,41321,Brighton Ave & Wharf Rd,,37.909275,-122.686546,,,0,,,1,,Brighton Avenue & Wharf Road
-40824,40824,Shoreline Hwy & Audobon Fire Rd,,37.929958,-122.682579,,,0,,,1,,Shoreline Hwy & Audobon Fire Rd
-40781,40781,Shoreline Hwy & Calle del Mar,,37.89851,-122.640074,,,0,,,1,,Shoreline Hwy & Calle del Mar
-40785,40785,Panoramic Hwy & Pan Toll Ranger Station,,37.90461,-122.603943,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
-40787,40787,897 Panoramic Hwy Bootjack Parking Lot,,37.909222,-122.601204,,,0,,,,,eight nine seven Panoramic Highway Bootjack Parking Lot
-40789,40789,Panoramic Hwy & Edgewood Av,,37.910057,-122.57708,,,0,,,1,,Panoramic Highway & Edgewood Avenue
-40791,40791,Panoramic Hwy & Park Av,,37.903872,-122.569739,,,0,,,,,Panoramic Highway & Park Avenue
-40793,40793,Panoramic Hwy & Ridge Av,,37.901028,-122.567703,,,0,,,,,Panoramic Highway & Ridge Avenue
-40795,40795,Panoramic Hwy & Bayview Dr,,37.896763,-122.560333,,,0,,,,,Panoramic Highway & Bayview Drive
-40797,40797,Panoramic Hwy & Muir Woods Rd,,37.89307,-122.556999,,,0,,,,,Panoramic Highway & Muir Woods Road
-40163,40163,Shoreline Hwy & Pine St,,37.879524,-122.535179,,,0,,,,,Shoreline Highway & Pine Street
-40165,40165,Shoreline Hwy & Laurel Way,,37.87896,-122.532593,,,0,,,,,Shoreline Highway & Laurel Way
-40167,40167,Shoreline Hwy & Ross Dr,,37.878979,-122.529488,,,0,,,,,Shoreline Highway & Ross Drive
-40128,40128,Shoreline Hwy & Almonte Blvd,,37.881969,-122.525368,,,0,,,1,,Shoreline Highway & Almonte boulevard
-40166,40166,Shoreline Hwy & Laurel Way,,37.879124,-122.532867,,,0,,,,,Shoreline Highway & Laurel Way
-40160,40160,Shoreline Hwy & Pine Hill Rd,,37.879578,-122.53492,,,0,,,,,Shoreline Highway & Pine Hill Road
-40798,40798,Panoramic Hwy & Sequoia Valley Rd,,37.8936,-122.556999,,,0,,,,,Panoramic Highway & Sequoia Valley Road
-40796,40796,Panoramic Hwy & Bayview Dr,,37.896919,-122.560455,,,0,,,,,Panoramic Highway & Bayview Drive
-40794,40794,Panoramic Hwy & Ridge Av,,37.901028,-122.567284,,,0,,,,,Panoramic Highway & Ridge Avenue
-40792,40792,Panoramic Hwy & Park Av,,37.904621,-122.570275,,,0,,,,,Panoramic Highway & Park Avenue
-40790,40790,Panoramic Hwy & Edgewood Av,,37.910583,-122.576996,,,0,,,,,Panoramic Highway & Edgewood Avenue
-40788,40788,895 Panoramic Hwy Bootjack Parking Lot,,37.908454,-122.602066,,,0,,,,,eight nine five Panoramic Highway Bootjack Parking Lot
-40786,40786,Panoramic Hwy & Pan Toll Ranger Station,,37.904317,-122.604245,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
-40782,40782,Shoreline Hwy & Calle del Mar,,37.898521,-122.639473,,,0,,,,,Shoreline Hwy & Calle del Mar
-40823,40823,Audubon Canyon Ranch,,37.930042,-122.682999,,,0,,,,,Audubon Canyon Ranch
 40800,40800,Inverness Store,,38.096519,-122.851524,,,0,,,,,Inverness Store
 40801,40801,Sir Francis Drake Blvd & Balboa Av,,38.063099,-122.820641,,,0,,,,,Sir Francis Drake Boulevard & Balboa Avenue
 40807,40807,Pt Reyes Downtown-Shoreline Hwy & 3rd St,,38.067871,-122.805611,,,0,,,1,,Point Reyes Downtown-Shoreline Highway & 3rd Street
@@ -532,6 +507,31 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40267,40267,Hwy 101 @ Lucky Dr Bus Pad,,37.937926,-122.517021,,,0,,,1,,Highway one o one at Lucky Drive Bus Pad
 40164,40164,Hwy 101 @ Tiburon Wye Bus Pad,,37.903698,-122.516051,,,0,,,1,,Highway one o one at Tibur-on Wye Bus Pad
 40187,40187,Hwy 101 @ Seminary Dr Bus Pad,,37.889494,-122.517111,,,0,,,1,,Highway one o one at Seminary Drive Bus Pad
+41321,41321,Brighton Ave & Wharf Rd,,37.909275,-122.686546,,,0,,,1,,Brighton Avenue & Wharf Road
+40824,40824,Shoreline Hwy & Audobon Fire Rd,,37.929958,-122.682579,,,0,,,1,,Shoreline Hwy & Audobon Fire Rd
+40781,40781,Shoreline Hwy & Calle del Mar,,37.89851,-122.640074,,,0,,,1,,Shoreline Hwy & Calle del Mar
+40785,40785,Panoramic Hwy & Pan Toll Ranger Station,,37.90461,-122.603943,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
+40787,40787,897 Panoramic Hwy Bootjack Parking Lot,,37.909222,-122.601204,,,0,,,,,eight nine seven Panoramic Highway Bootjack Parking Lot
+40789,40789,Panoramic Hwy & Edgewood Av,,37.910057,-122.57708,,,0,,,1,,Panoramic Highway & Edgewood Avenue
+40791,40791,Panoramic Hwy & Park Av,,37.903872,-122.569739,,,0,,,,,Panoramic Highway & Park Avenue
+40793,40793,Panoramic Hwy & Ridge Av,,37.901028,-122.567703,,,0,,,,,Panoramic Highway & Ridge Avenue
+40795,40795,Panoramic Hwy & Bayview Dr,,37.896763,-122.560333,,,0,,,,,Panoramic Highway & Bayview Drive
+40797,40797,Panoramic Hwy & Muir Woods Rd,,37.89307,-122.556999,,,0,,,,,Panoramic Highway & Muir Woods Road
+40163,40163,Shoreline Hwy & Pine St,,37.879524,-122.535179,,,0,,,,,Shoreline Highway & Pine Street
+40165,40165,Shoreline Hwy & Laurel Way,,37.87896,-122.532593,,,0,,,,,Shoreline Highway & Laurel Way
+40167,40167,Shoreline Hwy & Ross Dr,,37.878979,-122.529488,,,0,,,,,Shoreline Highway & Ross Drive
+40128,40128,Shoreline Hwy & Almonte Blvd,,37.881969,-122.525368,,,0,,,1,,Shoreline Highway & Almonte boulevard
+40166,40166,Shoreline Hwy & Laurel Way,,37.879124,-122.532867,,,0,,,,,Shoreline Highway & Laurel Way
+40160,40160,Shoreline Hwy & Pine Hill Rd,,37.879578,-122.53492,,,0,,,,,Shoreline Highway & Pine Hill Road
+40798,40798,Panoramic Hwy & Sequoia Valley Rd,,37.8936,-122.556999,,,0,,,,,Panoramic Highway & Sequoia Valley Road
+40796,40796,Panoramic Hwy & Bayview Dr,,37.896919,-122.560455,,,0,,,,,Panoramic Highway & Bayview Drive
+40794,40794,Panoramic Hwy & Ridge Av,,37.901028,-122.567284,,,0,,,,,Panoramic Highway & Ridge Avenue
+40792,40792,Panoramic Hwy & Park Av,,37.904621,-122.570275,,,0,,,,,Panoramic Highway & Park Avenue
+40790,40790,Panoramic Hwy & Edgewood Av,,37.910583,-122.576996,,,0,,,,,Panoramic Highway & Edgewood Avenue
+40788,40788,895 Panoramic Hwy Bootjack Parking Lot,,37.908454,-122.602066,,,0,,,,,eight nine five Panoramic Highway Bootjack Parking Lot
+40786,40786,Panoramic Hwy & Pan Toll Ranger Station,,37.904317,-122.604245,,,0,,,,,Panoramic Highway & Pan Toll Ranger Station
+40782,40782,Shoreline Hwy & Calle del Mar,,37.898521,-122.639473,,,0,,,,,Shoreline Hwy & Calle del Mar
+40823,40823,Audubon Canyon Ranch,,37.930042,-122.682999,,,0,,,,,Audubon Canyon Ranch
 40197,40197,Beach Rd & San Rafael Av,,37.87307,-122.463295,,,0,,,1,,Beach Road & San Rafael Avenue
 40176,40176,Tiburon Blvd & N Knoll Rd,,37.90220408419307,-122.51090767972755,,,0,,,1,,Tibur-on Boulevard & North Knoll Road
 42146,42146,Redwood High School,,37.9372833065752,-122.525568,,,0,,,1,,Redwood High School
