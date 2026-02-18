@@ -29,8 +29,8 @@ route_id,direction_id,direction
 613,1,West
 619,0,East
 619,1,West
-625,0,EAST
-625,1,WEST
+625,0,East
+625,1,West
 654,0,East
 68,0,East
 68,1,West
