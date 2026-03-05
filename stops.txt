@@ -125,7 +125,8 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 41334,41334,600 Larkspur Landing Circle,,37.947709,-122.511242,,,0,,,1,,Six Hundred Larkspur Landing Circle
 42147,42147,Novato San Marin SMART Station,,38.120578,-122.566266,,,0,,,1,,Novato San Muhrin SMART Station
 40655,40655,San Marin Dr & Redwood Blvd,,38.118885,-122.56749,,,0,,,1,,San Muhrin Drive & Redwood boulevard
-41048,41048,San Marin Dr & East Campus Dr,,38.121292,-122.575673,,,0,,,1,,San Muhrin Drive & East Campus Drive
+41048,41048,San Marin Dr & East Campus Dr,,38.120797,-122.569387,,,0,,,1,,San Muhrin Drive & East Campus Drive
+41074,41074,San Marin Dr & West Campus Dr,,38.121265,-122.575673,,,0,,,2,,San Muhrin Drive & West Campus Drive
 40657,40657,San Marin Dr & Simmons Ln,,38.12177,-122.584983,,,0,,,1,,San Muhrin Drive & Simmons Lane
 40659,40659,San Marin Dr & Sereno Way,,38.124531,-122.587824,,,0,,,1,,San Muhrin Drive & Sereno Way
 40669,40669,San Marin Dr & San Andreas Dr,,38.122116,-122.602119,,,0,,,1,,San Muhrin Drive & San Andreas Drive
