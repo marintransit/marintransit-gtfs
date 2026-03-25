@@ -1,4 +1,4 @@
-rider_category_id,rider_category_description
+rider_category_id,rider_category_name
 5,Youth
 2,Senior
 1,Regular (adult)
