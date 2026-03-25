@@ -1,6 +1,8 @@
 service_id,date,exception_type
-Monday,20260406,2
-Tuesday,20260407,2
-Wednesday,20260408,2
-Thursday,20260409,2
-Friday,20260410,2
+SunHol,20260525,1
+SunHol,20260619,1
+SunHol,20260704,1
+Monday,20260525,2
+Mon-Fri,20260525,2
+Mon-Fri,20260619,2
+Sat,20260704,2
