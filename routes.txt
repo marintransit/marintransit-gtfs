@@ -6,7 +6,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 23,33,23,Canal - Fairfax Manor,,3,https://marintransit.gov/routes/23,c90b86,FFFFFF,,,
 233,33,233,San Rafael (Downtown - Santa Venetia),,3,https://marintransit.gov/routes/233,005a23,FFFFFF,,,
 245,33,245,San Rafael (Downtown - Smith Ranch Road),,3,https://marintransit.gov/routes/245,009649,FFFFFF,,,
-30,33,30,San Rafael - Canal,,3,https://marintransit.gov/routes/30,692E76,FFFFFF,,,
+30,33,30,Canal - Downtown San Rafael,,3,https://marintransit.gov/routes/30,812990,FFFFFF,,,
 35,33,35,Canal - Northgate,,3,https://marintransit.gov/routes/35,00aeef,FFFFFF,,,
 36,33,36,Canal - Marin City,,3,https://marintransit.gov/routes/36,e6b00d,FFFFFF,,,
 49,33,49,Downtown San Rafael - Novato San Marin,,3,https://marintransit.gov/routes/49,0089d0,FFFFFF,,,
