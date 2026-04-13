@@ -2,34 +2,34 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 40158,40158,Reed Blvd & Belvedere Dr,NS-Reed Blvd & Belvedere Dr Northbound,37.898698,-122.513363,,,0,,,2,,Reed Boulevard & Belvedere Drive
 42130,42130,Belvedere Dr & Redwood Hwy Frontage Rd,,37.897479,-122.514716,,,0,,,1,,Belvedere Drive & Redwood Highway Frontage Road
 40184,40184,Redwood Hwy Frontage Rd & De Silva Island Dr,,37.889216,-122.516259,,,0,,,1,,Redwood Highway Frontage Road & De Silva Island Drive
-40175,40175,Tiburon Blvd & N Knoll Rd,,37.90191680270236,-122.51092129136816,,,0,,,2,,Tibur-on Boulevard & North Knoll Road
-40177,40177,Tiburon Blvd & Strawberry Dr,,37.898905323500635,-122.50414611087483,,,0,,,1,,Tibur-on Boulevard & Strawberry Drive
-40223,40223,Tiburon Blvd & Greenwood Cove Rd,,37.8984074111689,-122.50053849131488,,,0,,,1,,Tibur-on Boulevard & Greenwood Cove Road
-40218,40218,Tiburon Blvd & Cecilia Way,,37.896681714317786,-122.49826633934603,,,0,,,2,,Tibur-on Boulevard & Cecilia Way
-40220,40220,Tiburon Blvd & Greenwood Beach Rd,,37.89752986680882,-122.48911324173356,,,0,,,1,,Tibur-on Boulevard & Greenwood Beach Road
-40264,40264,Tiburon Blvd & Stewart Dr,,37.89423573724373,-122.48613296312524,,,0,,,2,,Tibur-on Boulevard & Stewart Drive
-40213,40213,Tiburon Blvd & Pine Terrace,,37.89281718692171,-122.48404103323936,,,0,,,2,,Tibur-on Boulevard & Pine Terrace
-40211,40211,Tiburon Blvd & Rock Hill Dr,,37.888443939938675,-122.47741287804033,,,0,,,1,,Tibur-on Boulevard & Rock Hill Drive
+40175,40175,Tiburon Blvd & N Knoll Rd,,37.9019168027023,-122.510921,,,0,,,2,,Tibur-on Boulevard & North Knoll Road
+40177,40177,Tiburon Blvd & Strawberry Dr,,37.898905,-122.504146,,,0,,,1,,Tibur-on Boulevard & Strawberry Drive
+40223,40223,Tiburon Blvd & Greenwood Cove Rd,,37.898407,-122.500539,,,0,,,1,,Tibur-on Boulevard & Greenwood Cove Road
+40218,40218,Tiburon Blvd & Cecilia Way,,37.896682,-122.498266,,,0,,,2,,Tibur-on Boulevard & Cecilia Way
+40220,40220,Tiburon Blvd & Greenwood Beach Rd,,37.89753,-122.489113,,,0,,,1,,Tibur-on Boulevard & Greenwood Beach Road
+40264,40264,Tiburon Blvd & Stewart Dr,,37.894236,-122.486133,,,0,,,2,,Tibur-on Boulevard & Stewart Drive
+40213,40213,Tiburon Blvd & Pine Terrace,,37.892817,-122.484041,,,0,,,2,,Tibur-on Boulevard & Pine Terrace
+40211,40211,Tiburon Blvd & Rock Hill Dr,,37.888444,-122.477413,,,0,,,1,,Tibur-on Boulevard & Rock Hill Drive
 40209,40209,Tiburon Blvd & Gilmartin Dr,,37.886341,-122.47469,,,0,,,2,,Tibur-on Boulevard & Gilmartin Drive
-42054,42054,Tiburon Blvd & San Rafael Av,,37.88395290382162,-122.47203911962606,,,0,,,1,,Tibur-on Boulevard & San Rafael Avenue
-40206,40206,Tiburon Blvd & Neds Way,,37.881870246548026,-122.46756407227097,,,0,,,1,,Tibur-on Boulevard & Neds Way
-40204,40204,Tiburon Blvd & Lyford Dr,,37.87993998895287,-122.46461336067817,,,0,,,1,,Tibur-on Boulevard & Lyford Drive
-40224,40224,Tiburon Blvd & Mar West St,,37.87707446434904,-122.46236218344974,,,0,,,1,,Tibur-on Boulevard & Mar West Street
-40200,40200,Tiburon Blvd & Beach Rd,,37.87507947634172,-122.45884494783307,,,0,,,1,,Tibur-on Boulevard & Beach Road
+42054,42054,Tiburon Blvd & San Rafael Av,,37.883953,-122.472039,,,0,,,1,,Tibur-on Boulevard & San Rafael Avenue
+40206,40206,Tiburon Blvd & Neds Way,,37.88187,-122.467564,,,0,,,1,,Tibur-on Boulevard & Neds Way
+40204,40204,Tiburon Blvd & Lyford Dr,,37.87994,-122.464613,,,0,,,1,,Tibur-on Boulevard & Lyford Drive
+40224,40224,Tiburon Blvd & Mar West St,,37.877075,-122.462362,,,0,,,1,,Tibur-on Boulevard & Mar West Street
+40200,40200,Tiburon Blvd & Beach Rd,,37.87508,-122.458845,,,0,,,1,,Tibur-on Boulevard & Beach Road
 40201,40201,Tiburon Tiburon Blvd & Main St,,37.873861,-122.456139,,,0,,,1,,Tibur-on Boulevard & Main Street
 40199,40199,Tiburon Blvd & Beach Rd,,37.875672,-122.459439,,,0,,,1,,Tibur-on Boulevard & Beach Road
-40202,40202,Tiburon Blvd & Mar West St,,37.87701396993219,-122.46181297949511,,,0,,,1,,Tibur-on Boulevard & Mar West Street
+40202,40202,Tiburon Blvd & Mar West St,,37.877014,-122.461813,,,0,,,1,,Tibur-on Boulevard & Mar West Street
 40203,40203,Tiburon Blvd & Lyford Dr,,37.880646,-122.465065,,,0,,,2,,Tibur-on Boulevard & Lyford Drive
-40205,40205,Tiburon Blvd & Neds Way,,37.88196236466284,-122.46733401473944,,,0,,,2,,Tibur-on Boulevard & Neds Way
-40207,40207,Tiburon Blvd & San Rafael Av,,37.88422270764501,-122.47205934416294,,,0,,,2,,Tibur-on Boulevard & San Rafael Avenue
-40208,40208,Tiburon Blvd & Gilmartin Dr,,37.88650168146439,-122.47465159391783,,,0,,,2,,Tibur-on Boulevard & Gilmartin Drive
+40205,40205,Tiburon Blvd & Neds Way,,37.881962,-122.467334,,,0,,,2,,Tibur-on Boulevard & Neds Way
+40207,40207,Tiburon Blvd & San Rafael Av,,37.884223,-122.472059,,,0,,,2,,Tibur-on Boulevard & San Rafael Avenue
+40208,40208,Tiburon Blvd & Gilmartin Dr,,37.886502,-122.474652,,,0,,,2,,Tibur-on Boulevard & Gilmartin Drive
 40210,40210,Tiburon Blvd & Rock Hill Dr,,37.889191,-122.477814,,,0,,,2,,Tibur-on Boulevard & Rock Hill Drive
-40212,40212,Tiburon Blvd & Avenida Miraflores,,37.892675134817914,-122.48305260003471,,,0,,,2,,Tibur-on Boulevard & Avenida Miraflores
-40214,40214,Tiburon Blvd & Stewart Dr,,37.89464951787915,-122.48631606440065,,,0,,,1,,Tibur-on Boulevard & Stewart Drive
-40215,40215,Tiburon Blvd & Jefferson Dr,,37.8976264264901,-122.48930873437595,,,0,,,2,,Tibur-on Boulevard & Jefferson Drive
-40216,40216,Tiburon Blvd & Reed Ranch Rd,,37.89615036362503,-122.4917069594898,,,0,,,2,,Tibur-on Boulevard & Reed Ranch Road
+40212,40212,Tiburon Blvd & Avenida Miraflores,,37.892675,-122.483053,,,0,,,2,,Tibur-on Boulevard & Avenida Miraflores
+40214,40214,Tiburon Blvd & Stewart Dr,,37.89465,-122.486316,,,0,,,1,,Tibur-on Boulevard & Stewart Drive
+40215,40215,Tiburon Blvd & Jefferson Dr,,37.897626,-122.489309,,,0,,,2,,Tibur-on Boulevard & Jefferson Drive
+40216,40216,Tiburon Blvd & Reed Ranch Rd,,37.89615,-122.491707,,,0,,,2,,Tibur-on Boulevard & Reed Ranch Road
 40217,40217,Tiburon Blvd & Cecilia Way,,37.897766,-122.498741,,,0,,,2,,Tibur-on Boulevard & Cecilia Way
-40219,40219,Tiburon Blvd & Blackfield Dr,,37.898876842243666,-122.50181335683021,,,0,,,1,,Tibur-on Boulevard & Blackfield Drive
+40219,40219,Tiburon Blvd & Blackfield Dr,,37.898877,-122.501813,,,0,,,1,,Tibur-on Boulevard & Blackfield Drive
 40173,40173,Tiburon Blvd & Bay Vista Dr,,37.89925,-122.504532,,,0,,,2,,Tibur-on Boulevard & Bay Vista Drive
 40182,40182,Reed Blvd & Redwood Hwy,,37.900894,-122.514938,,,0,,,2,,Reed Boulevard & Redwood Highway
 40512,40512,Sir Francis Drake Blvd & Olema Rd,,38.000221,-122.604134,,,0,,,2,,Sir Francis Drake Boulevard & Olema Road
@@ -69,12 +69,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael Transit Center
 44003,44003,San Rafael Transit Center-Platform B,Platform B NB,37.971194,-122.522698,,,0,srtc,,1,,San Rafael Transit Center
 40325,40325,Sir Francis Drake Blvd & Eliseo Dr,,37.94597,-122.520788,,,0,,,1,,Sir Francis Drake Boulevard &  Elleseeo Drive
-40323,40323,Sir Francis Drake Blvd & La Cuesta Dr,,37.94783083,-122.5256681,,,0,,,1,,Sir Francis Drake Boulevard & La Cuesta Drive
+40323,40323,Sir Francis Drake Blvd & La Cuesta Dr,,37.947831,-122.5256681,,,0,,,1,,Sir Francis Drake Boulevard & La Cuesta Drive
 41353,41353,Via Casitas & El Portal Dr,,37.947094,-122.529419,,,0,,,1,,Via Casitas & El Portal Drive
 41355,41355,630 S Eliseo Dr,,37.945118,-122.53019,,,0,,,1,,Six Thirty South Elleseeo Drive
 41357,41357,1220 S Eliseo Dr,,37.943935,-122.535553,,,0,,,1,,Twelve Twenty South Elleseeo Drive
 41072,41072,Marin Health Medical Center-250 Bon Air Rd,,37.947031,-122.537398,,,0,,,1,,Muhrin Health Medical Center-Two Fifty Bawn Air Road
-41073,41073,Bon Air Rd & MHMC Emergency Entrance Rd,,37.94879557,-122.536288,,,0,,,1,,Bawn Air Road & MHMC Emergency Entrance Road
+41073,41073,Bon Air Rd & MHMC Emergency Entrance Rd,,37.948796,-122.536288,,,0,,,1,,Bawn Air Road & MHMC Emergency Entrance Road
 40319,40319,Sir Francis Drake Blvd & Bon Air Rd,,37.95071,-122.533859,,,0,,,1,,Sir Francis Drake Boulevard & Bawn Air Road
 40317,40317,Sir Francis Drake Blvd & Wolfe Grade,,37.953257,-122.538965,,,0,,,2,,Sir Francis Drake Boulevard & Wolfe Grade
 40340,40340,Sir Francis Drake Blvd & Laurel Grove Ave,,37.953726,-122.541109,,,0,,,1,,Sir Francis Drake Boulevard & Laurel Grove Avenue
@@ -99,7 +99,7 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 40519,40519,Sir Francis Drake Blvd & Oak Manor Dr,,37.995628,-122.596413,,,0,,,1,,Sir Francis Drake Boulevard & Oak Manor Drive
 40517,40517,Sir Francis Drake Blvd At Drake Manor Apts,,37.996902,-122.598646,,,0,,,2,,Sir Francis Drake Boulevard At Drake Manor Apartments
 40515,40515,Sir Francis Drake Blvd & Alhambra Circle,,37.999207,-122.60041,,,0,,,1,,Sir Francis Drake Boulevard & Alhambra Circle
-40513,40513,Sir Francis Drake Blvd & Glen Dr,,38.00037040648327,-122.60371355225372,,,0,,,1,,Sir Francis Drake Boulevard & Glen Drive
+40513,40513,Sir Francis Drake Blvd & Glen Dr,,38.00037,-122.603713552253,,,0,,,1,,Sir Francis Drake Boulevard & Glen Drive
 40584,40584,Adrian Way & La Brea Way,,38.013306,-122.514198,,,0,,,2,,Adrian Way & La Brea Way
 40588,40588,Adrian Way & Rosal Way,,38.012482,-122.515984,,,0,,,1,,Adrian Way & Rosal Way
 40590,40590,La Pasada Way & N San Pedro Rd,,38.011005,-122.517761,,,0,,,2,,La Pasada Way & North San Pedro Road
@@ -107,7 +107,7 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 40594,40594,N San Pedro Rd & Meadow Dr,,38.005878,-122.519203,,,0,,,2,,North San Pedro Road & Meadow Drive
 40596,40596,N San Pedro Rd & Schmidt Ln,,38.004326,-122.520599,,,0,,,2,,North San Pedro Road & Schmidt Lane
 40598,40598,N San Pedro Rd & Meriam Dr,,38.001831,-122.522476,,,0,,,1,,North San Pedro Road & Meriam Drive
-40600,40600,N San Pedro Rd & Roosevelt Av,,37.99945147130927,-122.52503855225372,,,0,,,1,,North San Pedro Road & Roosevelt Avenue
+40600,40600,N San Pedro Rd & Roosevelt Av,,37.999452,-122.525039,,,0,,,1,,North San Pedro Road & Roosevelt Avenue
 40602,40602,N San Pedro Rd & Jefferson Av,,37.997963,-122.526932,,,0,,,1,,North San Pedro Road & Jefferson Avenue
 40605,40605,Marin Civic Center-Judge Haley Dr & Civic Ctr Dr,,37.998262,-122.530897,,,0,,,1,,Muhrin Civic Center-Judge Haley Drive & Civic Court Drive
 40586,40586,Civic Center Dr & N San Pedro Rd,,37.997527,-122.529201,,,0,,,1,,Civic Center Drive & North San Pedro Road
@@ -136,8 +136,7 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 40529,40529,Las Gallinas Av & Santiago Way,,38.024994,-122.54821,,,0,,,1,,Las Gallinas Avenue & Santiago Way
 41327,41327,Smith Ranch Rd At Cinemark,,38.019527,-122.532745,,,0,,,1,,Smith Ranch Road At Cinemark
 41328,41328,Smith Ranch Rd At Contempo Marin,,38.018431,-122.528271,,,0,,,1,,Smith Ranch Road At Contempo Muhrin
-41329,41329,Smith Ranch Rd At Cinemark,,38.019812599899296,-122.53343719089415,,,0,,,1,,Smith Ranch Road At Cinemark
-41326,41326,Health & Human Services,,38.020657,-122.536041,,,0,,,1,,Health & Human Services
+41326,41326,Health & Human Services,,38.01993,-122.534794,,,0,,,1,,Health & Human Services
 40528,40528,Las Gallinas Av & Cedar Hill Dr,,38.025276,-122.548393,,,0,,,1,,Las Gallinas Avenue & Cedar Hill Drive
 40530,40530,Las Gallinas Av & Maple Hill Dr,,38.022488,-122.55014,,,0,,,1,,Las Gallinas Avenue & Maple Hill Drive
 40532,40532,Las Gallinas Av & Park Ridge Av,,38.01902,-122.551689,,,0,,,1,,Las Gallinas Avenue & Park Ridge Avenue
@@ -150,7 +149,7 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 41350,41350,Montecillo Rd At Kaiser Hospital Lot A,,38.003909,-122.553239,,,0,,,1,,Montehseeo Road At Kaiser Hospital Lot A
 40560,40560,Nova Albion Way & Montecillo Rd,,38.004108,-122.5522,,,0,,,1,,Nova Albion Way & Montehseeo Road
 40561,40561,Nova Albion Way & Arias St,,38.007034,-122.549606,,,0,,,1,,Nova Albion Way & Arias Street
-40562,40562,Las Gallinas Ave & Northgate Dr,,38.00669929,-122.5458137,,,0,,,1,,Las Gallinas Avenue & Northgate Drive
+40562,40562,Las Gallinas Ave & Northgate Dr,,38.00669929,-122.545814,,,0,,,1,,Las Gallinas Avenue & Northgate Drive
 40581,40581,Hwy 101 @ N San Pedro Rd Bus Pad,,37.995296,-122.533456,,,0,,,2,,Highway one o one at North San Pedro Road Bus Pad
 44006,44006,San Rafael Transit Center-Platform C,Platform C,37.971239,-122.522821,,,0,srtc,,1,,San Rafael Transit Center
 41157,41157,Union St & Mission Av,,37.97208,-122.515572,,,0,,,1,,Union Street & Mission Avenue
@@ -176,7 +175,7 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 40801,40801,Sir Francis Drake Blvd & Balboa Av,,38.063099,-122.820641,,,0,,,2,,Sir Francis Drake Boulevard & Balboa Avenue
 40807,40807,Pt Reyes Downtown-Shoreline Hwy & 3rd St,,38.067871,-122.805611,,,0,,,2,,Point Reyes Downtown-Shoreline Highway & 3rd Street
 40806,40806,Olema Campground - Shoreline Hwy & Sir Francis Drake Blvd,,38.044006,-122.789749,,,0,,,1,,Olema Campground-Shoreline Highway & Sir Francis Drake boulevard
-40803,40803,Bear Valley Visitor Center,,38.04103191,-122.7999982,,,0,,,1,,Bear Valley Visitor Center
+40803,40803,Bear Valley Visitor Center,,38.041032,-122.799998,,,0,,,1,,Bear Valley Visitor Center
 40808,40808,Sir Francis Drake Blvd & Samuel P Taylor Park,,38.019627,-122.729507,,,0,,,2,,Sir Francis Drake Boulevard & Samuel P Taylor Park
 40810,40810,Sir Francis Drake Blvd & W Cintura Av,,38.012412,-122.701219,,,0,,,2,,Sir Francis Drake Boulevard & West Cintura Avenue
 40784,40784,Castro St (W) & Sir Francis Drake Blvd,,38.014367,-122.695595,,,0,,,2,,Castro Street (West) & Sir Francis Drake boulevard
@@ -213,9 +212,9 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 40704,40704,S Novato Blvd & Joan Av,,38.099461,-122.571083,,,0,,,1,,South Novato Boulevard & Joan Avenue
 40706,40706,S Novato Blvd & Arthur St,,38.091909,-122.567646,,,0,,,1,,South Novato Boulevard & Arthur Street
 40778,40778,Rowland Blvd & S Novato Blvd,,38.088138,-122.56467,,,0,,,1,,Rowland Boulevard & South Novato boulevard
-41043,41043,Rowland Blvd & Redwood Blvd,,38.090118072636,-122.562049184485,,,0,,,1,,Rowland Boulevard & Redwood Boulevard
+41043,41043,Rowland Blvd & Redwood Blvd,,38.090118,-122.562049,,,0,,,1,,Rowland Boulevard & Redwood Boulevard
 41311,41311,Rowland Blvd  & Rowland Way,,38.093521,-122.556961,,,0,,,1,,Rowland Boulevard & Rowland Way
-41306,41306,Rowland Blvd At Vintage Oaks Entrance,,38.08919044676559,-122.55123274115398,,,0,,,1,,Rowland Boulevard At Vintage Oaks Entrance
+41306,41306,Rowland Blvd At Vintage Oaks Entrance,,38.0891905,-122.551233,,,0,,,1,,Rowland Boulevard At Vintage Oaks Entrance
 41307,41307,236 Vintage Way,,38.087727,-122.55336,,,0,,,1,,Vintage Way At Sleep Train
 41308,41308,124 Vintage Way,,38.0924,-122.555862,,,0,,,1,,Vintage Way At Fresh Choice
 41310,41310,Rowland Blvd & Rowland Way,,38.093723,-122.557098,,,0,,,1,,Rowland Boulevard & Rowland Way
@@ -235,13 +234,13 @@ srtc,srtc,San Rafael Transit Center,,37.971195,-122.522396,,,1,,,1,,San Rafael T
 40741,40741,Pacheco Plaza,,38.066705,-122.54362,,,0,,,2,,Pacheco Plaza
 40743,40743,Ignacio Blvd & Alameda Del Prado,,38.065868,-122.541313,,,0,,,2,,Ignacio Boulevard & Alameda Del Prado
 40748,40748,Alameda Del Prado & Calle Arboleda,,38.062904,-122.535774,,,0,,,1,,Alameda Del Prado & Calle Arboleeda
-40761,40761,Alameda Del Prado & Posada Del Sol,,38.061056572534476,-122.5338824834671,,,0,,,1,,Alameda Del Prado & Posada Del Sol
+40761,40761,Alameda Del Prado & Posada Del Sol,,38.061057,-122.533882,,,0,,,1,,Alameda Del Prado & Posada Del Sol
 40763,40763,Alameda Del Prado & Los Robles Rd,,38.05957,-122.532234,,,0,,,2,,Alameda Del Prado & Los Robless Road
 40765,40765,Alameda del Prado & Hwy 101 SB,,38.05003,-122.532684,,,0,,,1,,Alameda del Prado & Highway one o one Southbound
 40772,40772,Nave Dr & Bolling Dr,,38.051685,-122.530594,,,0,,,1,,Nawveh Drive & Bolling Drive
 40770,40770,"Hamilton Main Gate, Nave Dr & Hamilton Main Gate",,38.056206,-122.530174,,,0,,,2,,Hamilton Main Gate - Nawveh Drive & Hamilton Main Gate
 41314,41314,Hamilton Pkwy At Marin Airporter,,38.061626,-122.530746,,,0,,,1,,Hamilton Parkway At Muhrin Airporter
-41365,41365,Hamilton Pkwy & Aberdeen Rd,,38.059595405662854,-122.52642932639037,,,0,,,1,,Hamilton Parkway & Aberdeen Road
+41365,41365,Hamilton Pkwy & Aberdeen Rd,,38.059595,-122.526429,,,0,,,1,,Hamilton Parkway & Aberdeen Road
 41315,41315,Hamilton Pkwy & Chapel Hill Rd,,38.058834,-122.522148,,,0,,,1,,Hamilton Parkway & Chapel Hill Road
 41317,41317,Hamilton Theatre Parking Lot,,38.056629,-122.519379,,,0,,,2,,Hamilton Theatre Parking Lot
 40103,40103,Bay St & Bridgeway,,37.857136,-122.480469,,,0,,,1,,Bay Street & Bridgeway
@@ -299,7 +298,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 41318,41318,Hamilton Main Gate Rd & Martin Dr,,38.056274,-122.529083,,,0,,,1,,Hamilton Main Gate Road & Martin Drive
 40771,40771,Nave Dr & Bolling Dr,,38.050663,-122.530914,,,0,,,1,,Nawveh Drive & Bolling Drive
 40764,40764,Alameda Del Prado & Los Robles Rd,,38.059581,-122.532185,,,0,,,1,,Alameda Del Prado & Los Robless Road
-40762,40762,Alameda Del Prado & Posada Del Sol,,38.06078029138438,-122.53326968584442,,,0,,,1,,Alameda Del Prado & Posada Del Sol
+40762,40762,Alameda Del Prado & Posada Del Sol,,38.06078,-122.53327,,,0,,,1,,Alameda Del Prado & Posada Del Sol
 40749,40749,Alameda Del Prado & Calle Arboleda,,38.06243,-122.535157,,,0,,,2,,Alameda Del Prado & Calle Arboleeda
 42012,42012,Alameda Del Prado & Alameda De La Loma,,38.065078,-122.539723,,,0,,,2,,Alameda Del Prado & Alameda De La Loma
 40744,40744,Ignacio Blvd & Alameda Del Prado,,38.066078,-122.541466,,,0,,,1,,Ignacio Boulevard & Alameda Del Prado
@@ -334,8 +333,8 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40457,40457,Canal St & Novato St,,37.965949,-122.505719,,,0,,,2,,Canal Street & Novato Street
 40455,40455,Medway Rd & Mill St,,37.964584,-122.508949,,,0,,,1,,Medway Road & Mill Street
 40451,40451,Francisco Blvd E & Bay St,,37.96656,-122.516441,,,0,,,1,,Francisco Boulevard East & Bay Street
-41167,41167,Redwood Blvd & Landing Ct,,38.097668801405,-122.565242841429,,,0,,,1,,Redwood Boulevard & Landing Court
-41184,41184,Redwood Blvd & Rowland Blvd,,38.0915436217249,-122.562550358696,,,0,,,1,,Redwood Boulevard & Rowland Boulevard
+41167,41167,Redwood Blvd & Landing Ct,,38.097669,-122.565243,,,0,,,1,,Redwood Boulevard & Landing Court
+41184,,Redwood Blvd & Rowland Blvd,,38.091544,-122.56255,,,0,,,1,,Redwood Boulevard & Rowland Boulevard
 42114,42114,Enfrente Rd & Salvatore Dr,,38.067197,-122.538732,,,0,,,1,,Enfrente Road & Salvatore Drive
 40773,40773,Hwy 101 @ Alameda Del Prado Bus Pad,,38.049111,-122.532356,,,0,,,1,,Highway one o one at Alameda Del Prado Bus Pad
 42113,42113,Marinwood Bus Pad Hwy 101 @ Miller Creek Rd,,38.034155,-122.537432,,,0,,,1,,Muhrin would Bus Pad Highway one o one at Miller Creek Road
@@ -356,7 +355,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 42032,42032,Marinwood Bus Pad Hwy 101 @ Saint Vincent's Dr,,38.033658,-122.536729,,,0,,,2,,Muhrin would Bus Pad Highway one o one at Saint Vincent's Drive
 42011,42011,Hwy 101 @ Alameda Del Prado Bus Pad,,38.048515,-122.531705,,,0,,,1,,Highway one o one at Alameda Del Prado Bus Pad
 40746,40746,Hwy 101 @ Ignacio Blvd Bus Pad,,38.066802,-122.536991,,,0,,,1,,Highway one o one at Ignacio Boulevard Bus Pad
-41166,41166,Redwood Blvd & Hill Rd,,38.0965479212608,-122.563564992782,,,0,,,1,,Redwood Boulevard & Hill Rd
+41166,41166,Redwood Blvd & Hill Rd,,38.096548,-122.563565,,,0,,,1,,Redwood Boulevard & Hill Rd
 40655,40655,San Marin Dr & Redwood Blvd,,38.118885,-122.56749,,,0,,,1,,San Muhrin Drive & Redwood boulevard
 41048,41048,San Marin Dr & East Campus Dr,,38.120797,-122.569387,,,0,,,1,,San Muhrin Drive & East Campus Drive
 41074,41074,San Marin Dr & West Campus Dr,,38.121265,-122.575673,,,0,,,2,,San Muhrin Drive & West Campus Drive
@@ -384,7 +383,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40580,40580,Merrydale Rd & N San Pedro Rd,,37.994591,-122.534233,,,0,,,1,,Merrydale Road & North San Pedro Road
 40585,40585,Civic Center Dr & N San Pedro Rd,,37.997516,-122.528843,,,0,,,1,,Civic Center Drive & North San Pedro Road
 41330,41330,Marin Civic Center-Judge Haley Dr & Civic Ctr Dr,,37.998395,-122.530987,,,0,,,1,,Muhrin Civic Center-Judge Haley Drive & Civic Court Drive
-40587,40587,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.00142725,-122.5364229,,,0,,,1,,Civic Center Drive & Mcinnis Parkway (Civic Center SMART)
+40587,40587,Civic Center Dr & Mcinnis Pkwy (Civic Center SMART),,38.001427,-122.536423,,,0,,,1,,Civic Center Drive & Mcinnis Parkway (Civic Center SMART)
 40565,40565,Las Gallinas Ave & Northgate Mall,,38.004673,-122.541786,,,0,,,1,,Las Gallinas Avenue & Northgate Mall
 41316,41316,Hamilton Pkwy & Sunny Cove Dr,,38.058914,-122.52121,,,0,,,2,,Hamilton Parkway & Sunny Cove Drive
 41364,41364,Hamilton Pkwy & Aberdeen Rd,,38.059583,-122.526145,,,0,,,1,,Hamilton Parkway & Aberdeen Road
@@ -439,7 +438,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40398,40398,Lincoln Ave & Mission Ave,,37.97419,-122.523514,,,0,,,2,,Lincoln Avenue & Mission Avenue
 40399,40399,Lincoln Ave & Mission Ave,,37.974483,-122.523285,,,0,,,1,,Lincoln Avenue & Mission Avenue
 40397,40397,Lincoln Ave & Paloma Ave,,37.978073,-122.522049,,,0,,,2,,Lincoln Avenue & Paloma Avenue
-40569,40569,Freitas Pkwy & Northgate Dr,,38.00836081,-122.5454531,,,0,,,2,,Freitas Parkway & Northgate Drive
+40569,40569,Freitas Pkwy & Northgate Dr,,38.008361,-122.5454531,,,0,,,2,,Freitas Parkway & Northgate Drive
 40449,40449,Medway Rd & Francisco Blvd E,,37.9631111,-122.51009,,,0,,,1,,Medway Road & Francisco Boulevard East
 40452,40452,Canal St & Medway Rd,,37.965206,-122.508064,,,0,,,1,,Canal Street & Medway Road
 40454,40454,Canal St & Novato St,,37.965794,-122.505898,,,0,,,1,,Canal Street & Novato Street
@@ -480,10 +479,10 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 41366,41366,Reed Blvd & Belvedere Dr,NS-Reed Blvd & Belvedere Dr Southbound,37.89893,-122.513663,,,0,,,2,,Reed Boulevard & Belvedere Drive
 40186,40186,Redwood Hwy Frontage Rd & Hwy 101 SB Ramps,,37.889122,-122.517389,,,0,,,1,,Redwood Highway Frontage Road & Highway one o one Southbound Ramps
 40197,40197,Beach Rd & San Rafael Av,,37.87307,-122.463295,,,0,,,1,,Beach Road & San Rafael Avenue
-40176,40176,Tiburon Blvd & N Knoll Rd,,37.90220408419307,-122.51090767972755,,,0,,,2,,Tibur-on Boulevard & North Knoll Road
-40270,40270,Tamal Vista Blvd & Fifer Av,,37.93780870195136,-122.51871410185241,,,0,,,1,,Tamil Vista Boulevard & Fifer Avenue
-40314,40314,Lucky Dr & Riviera Circle,,37.93765584979764,-122.5211407447052,,,0,,,1,,Lucky Drive & Riviera Circle
-42146,42146,Redwood High School,,37.9372833065752,-122.525568,,,0,,,1,,Redwood High School
+40176,40176,Tiburon Blvd & N Knoll Rd,,37.902204,-122.510908,,,0,,,2,,Tibur-on Boulevard & North Knoll Road
+40270,40270,Tamal Vista Blvd & Fifer Av,,37.937809,-122.518714,,,0,,,1,,Tamil Vista Boulevard & Fifer Avenue
+40314,40314,Lucky Dr & Riviera Circle,,37.937656,-122.5211407447052,,,0,,,1,,Lucky Drive & Riviera Circle
+42146,42146,Redwood High School,,37.937283,-122.525568,,,0,,,1,,Redwood High School
 40265,40265,Antilles Way & Martinique Av,,37.912491,-122.478134,,,0,,,2,,Antilles Way & Martinique Avenue
 41190,41190,Paradise Dr & Ranch Rd,,37.918549,-122.483841,,,0,,,2,,Paradise Drive & Ranch Road
 40294,40294,Paradise Dr & Robin Dr,,37.920022,-122.489493,,,0,,,2,,Paradise Drive & Robin Drive
@@ -522,7 +521,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 42108,42108,Tamal Vista Blvd & Council Crest Dr,,37.930038,-122.518028,,,0,,,1,,Tamil Vista Boulevard & Council Crest Drive
 40726,40726,Ignacio Blvd & Sunset Pkwy,,38.075094,-122.56885,,,0,,,1,,Ignacio Boulevard & Sunset Parkway
 40727,40727,Ignacio Blvd & Indian Hills Dr,,38.076282,-122.573727,,,0,,,2,,Ignacio Boulevard & Indian Hills Drive
-40728,40728,Indian Valley College,,38.075791442884274,-122.57652717658233,,,0,,,1,,Indian Valley College
+40728,40728,Indian Valley College,,38.075791,-122.576527,,,0,,,1,,Indian Valley College
 40641,40641,Miller Creek Rd & Marinwood Av,,38.033512,-122.540741,,,0,,,1,,Miller Creek Road & Muhrin would Avenue
 40648,40648,Las Gallinas Av & Miller Creek Rd,,38.032425,-122.544685,,,0,,,1,,Las Gallinas Avenue & Miller Creek Road
 40644,40644,Las Gallinas Av & Elvia Ct,,38.029091,-122.545921,,,0,,,1,,Las Gallinas Avenue & Elvia Court

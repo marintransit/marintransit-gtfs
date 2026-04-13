@@ -1,5 +1,5 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-SunHol,0,0,0,0,0,0,1,20260412,20260802
+SunHol,0,0,0,0,0,0,1,20260412,20260809
 Monday,1,0,0,0,0,0,0,20260413,20260608
 Mon-Fri,1,1,1,1,1,0,0,20260413,20260807
 Tuesday,0,1,0,0,0,0,0,20260414,20260609

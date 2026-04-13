@@ -13,8 +13,8 @@ route_id,direction_id,direction
 233,1,South
 245,0,North
 245,1,South
-30,1,North
 30,0,South
+30,1,North
 35,0,North
 35,1,South
 36,0,North
