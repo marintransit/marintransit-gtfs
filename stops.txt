@@ -140,7 +140,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 42147,42147,Novato San Marin SMART Station,,38.120578,-122.566266,,,0,,,1,,Novato San Muhrin SMART Station
 41046,41046,Redwood Blvd & Escallonia Dr,,38.115982,-122.567413,,,0,,,1,,Redwood Boulevard & Escallonia Drive
 41167,41167,Redwood Blvd & Landing Ct,,38.097669,-122.565243,,,0,,,1,,Redwood Boulevard & Landing Court
-41184,41184,Redwood Blvd & Rowland Blvd,,38.091544,-122.56255,,,0,,,1,,Redwood Boulevard & Rowland Boulevard
+41184,,Redwood Blvd & Rowland Blvd,,38.091544,-122.56255,,,0,,,1,,Redwood Boulevard & Rowland Boulevard
 42114,42114,Enfrente Rd & Salvatore Dr,,38.067197,-122.538732,,,0,,,1,,Enfrente Road & Salvatore Drive
 40773,40773,Hwy 101 @ Alameda Del Prado Bus Pad,,38.049111,-122.532356,,,0,,,1,,Highway one o one at Alameda Del Prado Bus Pad
 42113,42113,Marinwood Bus Pad Hwy 101 @ Miller Creek Rd,,38.034155,-122.537432,,,0,,,1,,Muhrin would Bus Pad Highway one o one at Miller Creek Road
@@ -159,7 +159,7 @@ donter,donter,Marin City Hub-Donahue & Terners,,37.872148,-122.511586,,,1,,,1,,M
 40268,40268,Hwy 101 @ Lucky Dr Bus Pad,,37.938685,-122.516101,,,0,,,1,,Highway one o one at Lucky Drive Bus Pad
 44001,44001,San Rafael Transit Center-Platform B,Platform B SB,37.971094,-122.522601,,,0,srtc,,1,,San Rafael Transit Center
 40582,40582,Hwy 101 @ N San Pedro Rd Bus Pad,,37.995542,-122.532673,,,0,,,2,,Highway one o one at North San Pedro Road Bus Pad
-42027,42027,Hwy 101 @ Terra Linda Bus Pad NB,,38.005901,-122.540374,,,0,,,2,,Highway one o one at Terra Linda Bus Pad Northbound
+42027,42027,Hwy 101 @ Terra Linda Bus Pad NB,,38.006947,-122.539828,,,0,,,2,,Highway one o one at Terra Linda Bus Pad Northbound
 40607,40607,Hwy 101 @ Smith Ranch Rd Bus Pad,,38.02008,-122.539141,,,0,,,1,,Highway one o one at Smith Ranch Road Bus Pad
 42032,42032,Marinwood Bus Pad Hwy 101 @ Saint Vincent's Dr,,38.033658,-122.536729,,,0,,,2,,Muhrin would Bus Pad Highway one o one at Saint Vincent's Drive
 42011,42011,Hwy 101 @ Alameda Del Prado Bus Pad,,38.048515,-122.531705,,,0,,,1,,Highway one o one at Alameda Del Prado Bus Pad
