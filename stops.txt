@@ -140,7 +140,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 42147,42147,Novato San Marin SMART Station,,38.120578,-122.566266,,,0,,,1,,Novato San Muhrin SMART Station
 41046,41046,Redwood Blvd & Escallonia Dr,,38.115982,-122.567413,,,0,,,1,,Redwood Boulevard & Escallonia Drive
 41167,41167,Redwood Blvd & Landing Ct,,38.097669,-122.565243,,,0,,,1,,Redwood Boulevard & Landing Court
-41184,,Redwood Blvd & Rowland Blvd,,38.091544,-122.56255,,,0,,,1,,Redwood Boulevard & Rowland Boulevard
+41184,41184,Redwood Blvd & Rowland Blvd,,38.091544,-122.56255,,,0,,,1,,Redwood Boulevard & Rowland Boulevard
 42114,42114,Enfrente Rd & Salvatore Dr,,38.067197,-122.538732,,,0,,,1,,Enfrente Road & Salvatore Drive
 40773,40773,Hwy 101 @ Alameda Del Prado Bus Pad,,38.049111,-122.532356,,,0,,,1,,Highway one o one at Alameda Del Prado Bus Pad
 42113,42113,Marinwood Bus Pad Hwy 101 @ Miller Creek Rd,,38.034155,-122.537432,,,0,,,1,,Muhrin would Bus Pad Highway one o one at Miller Creek Road
