@@ -147,12 +147,12 @@ stop_id,stop_city
 40606,San Rafael
 42112,San Rafael
 40581,San Rafael
-srtc,
+srtc,San Rafael
 44002,San Rafael
 40267,Larkspur
 40164,Strawberry
 40187,Strawberry
-donter,
+donter,Marin City
 40113,Marin City
 40188,Strawberry
 40170,Strawberry
